@@ -1,0 +1,5777 @@
+{
+   "meta": {
+      "title": "Late Autumn",
+      "author": "Cho Kyu-hyun",
+      "year": "2013",
+      "translator": "Demonia",
+      "type_of_artist": "soloist",
+      "gender_of_artist": "male"
+   },
+   "sentences": [
+      {
+         "text": "옷장을 열어 보았어",
+         "words": [
+            {
+               "wf": "옷장",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "옷장",
+                  "transcr": "otjang",
+                  "trans_ru": "гардероб, платяной шкаф"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 2,
+               "next_word": 1,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, acc",
+                  "lang": 0,
+                  "lex": "을",
+                  "transcr": "eul"
+               },
+               "sentence_index": 1,
+               "off_start": 0,
+               "off_end": 2,
+               "next_word": 2,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "열어",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, ger",
+                  "lang": 0,
+                  "lex": "열",
+                  "transcr": "yeoreo",
+                  "trans_ru": "открывать"
+               },
+               "sentence_index": 2,
+               "off_start": 4,
+               "off_end": 5,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "보았어",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "보",
+                  "transcr": "boasseo",
+                  "trans_ru": "смотреть"
+               },
+               "sentence_index": 3,
+               "off_start": 7,
+               "off_end": 9,
+               "next_word": 4,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "띄었어, 입었어",
+            "last_word": "보았어",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 8
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 9,
+            "para_id": 1
+         }
+      },
+      {
+         "text": "몇 벌이 눈에 띄었어",
+         "words": [
+            {
+               "wf": "몇",
+               "wtype": "word",
+               "ana": {
+                  "pos": "NUM",
+                  "lang": 0,
+                  "lex": "몇",
+                  "transcr": "myeot",
+                  "trans_ru": "сколько, несколько"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 0,
+               "next_word": 1,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "벌이",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "벌이",
+                  "transcr": "beori",
+                  "trans_ru": "раскладывать； расставлять； распростирать； начинать； основывать； открывать."
+               },
+               "sentence_index": 1,
+               "off_start": 2,
+               "off_end": 3,
+               "next_word": 2,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "눈",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "눈",
+                  "transcr": "nun",
+                  "trans_ru": "глаза; снег; почка, побег, росток"
+               },
+               "sentence_index": 2,
+               "off_start": 5,
+               "off_end": 6,
+               "next_word": 3,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "에",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "에",
+                  "transcr": "e"
+               },
+               "sentence_index": 3,
+               "off_start": 5,
+               "off_end": 6,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "띄었어",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "띄",
+                  "transcr": "ttuieosseo",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 4,
+               "off_start": 8,
+               "off_end": 10,
+               "next_word": 5,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "보았어, 입었어",
+            "last_word": "띄었어",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 8
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 10,
+            "para_id": 2
+         }
+      },
+      {
+         "text": "조금 이른 것 같지만 입었어",
+         "words": [
+            {
+               "wf": "조금",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "조금",
+                  "transcr": "jogeum",
+                  "trans_ru": "немного, мало, недолго"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "이른",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, partcp",
+                  "lang": 0,
+                  "lex": "이르",
+                  "transcr": "ireun",
+                  "trans_ru": "достигать, доходить"
+               },
+               "sentence_index": 1,
+               "off_start": 3,
+               "off_end": 4,
+               "next_word": 2,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "것",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S, aux",
+                  "lang": 0,
+                  "lex": "것",
+                  "transcr": "geot",
+                  "trans_ru": "вещь"
+               },
+               "sentence_index": 2,
+               "off_start": 6,
+               "off_end": 6,
+               "next_word": 3,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "같지만",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A, ger",
+                  "lang": 0,
+                  "lex": "같",
+                  "transcr": "gatjiman"
+               },
+               "sentence_index": 3,
+               "off_start": 8,
+               "off_end": 10,
+               "next_word": 4,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "입었어",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "입",
+                  "transcr": "ibeosseo",
+                  "trans_ru": "одевать, надевать"
+               },
+               "sentence_index": 4,
+               "off_start": 12,
+               "off_end": 14,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "보았어, 띄었어",
+            "last_word": "입었어",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 11
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 14,
+            "para_id": 3
+         }
+      },
+      {
+         "text": "거울 앞 내 모습은 그때 그 모습",
+         "words": [
+            {
+               "wf": "거울",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "거울",
+                  "transcr": "geoul",
+                  "trans_ru": "зеркало"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 8
+            },
+            {
+               "wf": "앞",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "앞",
+                  "transcr": "ap",
+                  "trans_ru": "перед, передняя часть, будущее, перспектива"
+               },
+               "sentence_index": 1,
+               "off_start": 3,
+               "off_end": 3,
+               "next_word": 2,
+               "sentence_index_neg": 7
+            },
+            {
+               "wf": "내",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "내",
+                  "transcr": "nae",
+                  "trans_ru": "я, мой, моя, мое; речка, ручей; запах, аромат"
+               },
+               "sentence_index": 2,
+               "off_start": 5,
+               "off_end": 5,
+               "next_word": 3,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "모습",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "모습",
+                  "transcr": "moseup",
+                  "trans_ru": "облик, наружность, внешний вид"
+               },
+               "sentence_index": 3,
+               "off_start": 7,
+               "off_end": 9,
+               "next_word": 4,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "은",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "은",
+                  "transcr": "eun"
+               },
+               "sentence_index": 4,
+               "off_start": 7,
+               "off_end": 9,
+               "next_word": 5,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "그때",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "그때",
+                  "transcr": "geuttae",
+                  "trans_ru": "тогда, в то время"
+               },
+               "sentence_index": 5,
+               "off_start": 11,
+               "off_end": 12,
+               "next_word": 6,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "그",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A",
+                  "lang": 0,
+                  "lex": "그",
+                  "transcr": "geu",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 6,
+               "off_start": 14,
+               "off_end": 14,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "모습",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "모습",
+                  "transcr": "moseup",
+                  "trans_ru": "облик, наружность, внешний вид"
+               },
+               "sentence_index": 7,
+               "off_start": 16,
+               "off_end": 17,
+               "next_word": 8,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "모습",
+            "last_vowel": "ɯ",
+            "length_in_syllables": 12
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 17,
+            "para_id": 4
+         }
+      },
+      {
+         "text": "싸늘해서 더 좋았어",
+         "words": [
+            {
+               "wf": "싸늘해서",
+               "wtype": "word",
+               "ana": {
+                  "pos": "",
+                  "lang": 0,
+                  "lex": "싸늘",
+                  "transcr": "ssaneulhaeseo"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 3,
+               "next_word": 1,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "더",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "더",
+                  "transcr": "deo",
+                  "trans_ru": "еще, более"
+               },
+               "sentence_index": 1,
+               "off_start": 5,
+               "off_end": 5,
+               "next_word": 2,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "좋았어",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A",
+                  "lang": 0,
+                  "lex": "좋",
+                  "transcr": "joasseo",
+                  "trans_ru": "хороший, неплохой, порядочный"
+               },
+               "sentence_index": 2,
+               "off_start": 7,
+               "off_end": 9,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "때로",
+            "rhymed_with": "",
+            "last_word": "좋았어",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 8
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 9,
+            "para_id": 1001
+         }
+      },
+      {
+         "text": "골목은 해가 지려해",
+         "words": [
+            {
+               "wf": "골목",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "골목",
+                  "transcr": "golmok",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 2,
+               "next_word": 1,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "은",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "은",
+                  "transcr": "eun"
+               },
+               "sentence_index": 1,
+               "off_start": 0,
+               "off_end": 2,
+               "next_word": 2,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "해",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "해",
+                  "transcr": "hae",
+                  "trans_ru": "солнце; год; море; ущерб, вред"
+               },
+               "sentence_index": 2,
+               "off_start": 4,
+               "off_end": 5,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "가",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "가",
+                  "transcr": "ga"
+               },
+               "sentence_index": 3,
+               "off_start": 4,
+               "off_end": 5,
+               "next_word": 4,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "지려해",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "지려",
+                  "transcr": "jiryeohae",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 4,
+               "off_start": 7,
+               "off_end": 9,
+               "next_word": 5,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "지려해",
+            "last_vowel": "ɛ",
+            "length_in_syllables": 8
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 9,
+            "para_id": 1002
+         }
+      },
+      {
+         "text": "커피향이 그 때로 날 데려가",
+         "words": [
+            {
+               "wf": "커피향이",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "커피향이",
+                  "transcr": "keopihyangi",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 3,
+               "next_word": 1,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "그",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A",
+                  "lang": 0,
+                  "lex": "그",
+                  "transcr": "geu",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 1,
+               "off_start": 5,
+               "off_end": 5,
+               "next_word": 2,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "때로",
+               "wtype": "word",
+               "ana": {
+                  "pos": "ADV",
+                  "lang": 0,
+                  "lex": "때로",
+                  "transcr": "ttaero",
+                  "trans_ru": "время от времени； иногда；"
+               },
+               "sentence_index": 2,
+               "off_start": 7,
+               "off_end": 8,
+               "next_word": 3,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "날",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "날",
+                  "transcr": "nal",
+                  "trans_ru": "день, сутки, лезвие, острие, сырой, незрелый"
+               },
+               "sentence_index": 3,
+               "off_start": 10,
+               "off_end": 10,
+               "next_word": 4,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "데려가",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "데려가",
+                  "transcr": "deryeoga",
+                  "trans_ru": "вести с собой"
+               },
+               "sentence_index": 4,
+               "off_start": 12,
+               "off_end": 14,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "데려가",
+            "last_vowel": "ɑ",
+            "length_in_syllables": 11
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 14,
+            "para_id": 1003
+         }
+      },
+      {
+         "text": "쇼윈도우 겨울옷을 바라보던 그 때로",
+         "words": [
+            {
+               "wf": "쇼윈도우",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "쇼윈도우",
+                  "transcr": "syowindou",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 3,
+               "next_word": 1,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "겨울옷",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "겨울옷",
+                  "transcr": "gyeourot",
+                  "trans_ru": "зимняя одежда"
+               },
+               "sentence_index": 1,
+               "off_start": 5,
+               "off_end": 8,
+               "next_word": 2,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, acc",
+                  "lang": 0,
+                  "lex": "을",
+                  "transcr": "eul"
+               },
+               "sentence_index": 2,
+               "off_start": 5,
+               "off_end": 8,
+               "next_word": 3,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "바라보던",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "바라보",
+                  "transcr": "barabodeon",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 3,
+               "off_start": 10,
+               "off_end": 13,
+               "next_word": 4,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "그",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A",
+                  "lang": 0,
+                  "lex": "그",
+                  "transcr": "geu",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 4,
+               "off_start": 15,
+               "off_end": 15,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "때로",
+               "wtype": "word",
+               "ana": {
+                  "pos": "ADV",
+                  "lang": 0,
+                  "lex": "때로",
+                  "transcr": "ttaero",
+                  "trans_ru": "время от времени； иногда；"
+               },
+               "sentence_index": 5,
+               "off_start": 17,
+               "off_end": 18,
+               "next_word": 6,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "좋았어",
+            "rhymed_with": "",
+            "last_word": "때로",
+            "last_vowel": "o",
+            "length_in_syllables": 15
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 18,
+            "para_id": 1004
+         }
+      },
+      {
+         "text": "그래 너였어 날 데리고 나온 건",
+         "words": [
+            {
+               "wf": "그래",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, ger",
+                  "lang": 0,
+                  "lex": "그리하",
+                  "transcr": "geurae",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "너였어",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PRO",
+                  "lang": 0,
+                  "lex": "너였어",
+                  "transcr": "neoyeosseo",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 1,
+               "off_start": 3,
+               "off_end": 5,
+               "next_word": 2,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "날",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "날",
+                  "transcr": "nal",
+                  "trans_ru": "день, сутки, лезвие, острие, сырой, незрелый"
+               },
+               "sentence_index": 2,
+               "off_start": 7,
+               "off_end": 7,
+               "next_word": 3,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "데리고",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, ger",
+                  "lang": 0,
+                  "lex": "데리",
+                  "transcr": "derigo",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 3,
+               "off_start": 9,
+               "off_end": 11,
+               "next_word": 4,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "나온",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, partcp",
+                  "lang": 0,
+                  "lex": "나오",
+                  "transcr": "naon",
+                  "trans_ru": "выходить, появляться, выступать"
+               },
+               "sentence_index": 4,
+               "off_start": 13,
+               "off_end": 14,
+               "next_word": 5,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "건",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "건",
+                  "transcr": "geon",
+                  "trans_ru": "дело, событие"
+               },
+               "sentence_index": 5,
+               "off_start": 16,
+               "off_end": 16,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "잡던, 그리워",
+            "rhymed_with": "",
+            "last_word": "건",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 12
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 16,
+            "para_id": 2001
+         }
+      },
+      {
+         "text": "내 주머니 속 내 손을 꼭 잡던",
+         "words": [
+            {
+               "wf": "내",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "내",
+                  "transcr": "nae",
+                  "trans_ru": "я, мой, моя, мое; речка, ручей; запах, аромат"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 0,
+               "next_word": 1,
+               "sentence_index_neg": 8
+            },
+            {
+               "wf": "주머니",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "주머니",
+                  "transcr": "jumeoni",
+                  "trans_ru": "карман, мешок"
+               },
+               "sentence_index": 1,
+               "off_start": 2,
+               "off_end": 4,
+               "next_word": 2,
+               "sentence_index_neg": 7
+            },
+            {
+               "wf": "속",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "속",
+                  "transcr": "sok",
+                  "trans_ru": "внутренняя часть, содержание, намерение"
+               },
+               "sentence_index": 2,
+               "off_start": 6,
+               "off_end": 6,
+               "next_word": 3,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "내",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "내",
+                  "transcr": "nae",
+                  "trans_ru": "я, мой, моя, мое; речка, ручей; запах, аромат"
+               },
+               "sentence_index": 3,
+               "off_start": 8,
+               "off_end": 8,
+               "next_word": 4,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "손",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "손",
+                  "transcr": "son",
+                  "trans_ru": "рука"
+               },
+               "sentence_index": 4,
+               "off_start": 10,
+               "off_end": 11,
+               "next_word": 5,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, acc",
+                  "lang": 0,
+                  "lex": "을",
+                  "transcr": "eul"
+               },
+               "sentence_index": 5,
+               "off_start": 10,
+               "off_end": 11,
+               "next_word": 6,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "꼭",
+               "wtype": "word",
+               "ana": {
+                  "pos": "ADV",
+                  "lang": 0,
+                  "lex": "꼭",
+                  "transcr": "kkok",
+                  "trans_ru": "обязательно, точно; прочно; терпеливо"
+               },
+               "sentence_index": 6,
+               "off_start": 13,
+               "off_end": 13,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "잡던",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "잡",
+                  "transcr": "japdeon",
+                  "trans_ru": "брать (в руки), держать в (руках), ловить (кого-либо или чего-либо); хватать"
+               },
+               "sentence_index": 7,
+               "off_start": 15,
+               "off_end": 16,
+               "next_word": 8,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "건, 그리워",
+            "rhymed_with": "",
+            "last_word": "잡던",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 11
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 16,
+            "para_id": 2002
+         }
+      },
+      {
+         "text": "그 해 늦가을의 너 이젠 어디를 걷니",
+         "words": [
+            {
+               "wf": "그",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A",
+                  "lang": 0,
+                  "lex": "그",
+                  "transcr": "geu",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 0,
+               "next_word": 1,
+               "sentence_index_neg": 8
+            },
+            {
+               "wf": "해",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "해",
+                  "transcr": "hae",
+                  "trans_ru": "солнце; год; море; ущерб, вред"
+               },
+               "sentence_index": 1,
+               "off_start": 2,
+               "off_end": 2,
+               "next_word": 2,
+               "sentence_index_neg": 7
+            },
+            {
+               "wf": "늦가을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "늦가을",
+                  "transcr": "neutgaeul",
+                  "trans_ru": "поздняя осень"
+               },
+               "sentence_index": 2,
+               "off_start": 4,
+               "off_end": 7,
+               "next_word": 3,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "의",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, gen",
+                  "lang": 0,
+                  "lex": "의",
+                  "transcr": "ui"
+               },
+               "sentence_index": 3,
+               "off_start": 4,
+               "off_end": 7,
+               "next_word": 4,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "너",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "널",
+                  "transcr": "neo",
+                  "trans_ru": "развешивать, вешать"
+               },
+               "sentence_index": 4,
+               "off_start": 9,
+               "off_end": 9,
+               "next_word": 5,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "이젠",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "이젠",
+                  "transcr": "ijen",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 5,
+               "off_start": 11,
+               "off_end": 12,
+               "next_word": 6,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "어디를",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PRO",
+                  "lang": 0,
+                  "lex": "어디를",
+                  "transcr": "eodireul",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 6,
+               "off_start": 14,
+               "off_end": 16,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "걷니",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "걷",
+                  "transcr": "geotni",
+                  "trans_ru": "убирать; собирать; шагать"
+               },
+               "sentence_index": 7,
+               "off_start": 18,
+               "off_end": 19,
+               "next_word": 8,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "걷니",
+            "last_vowel": "i",
+            "length_in_syllables": 14
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 19,
+            "para_id": 2003
+         }
+      },
+      {
+         "text": "너의 발소리가 그리워",
+         "words": [
+            {
+               "wf": "너의",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PRO",
+                  "lang": 0,
+                  "lex": "너의",
+                  "transcr": "neoui",
+                  "trans_ru": "твой; твоя； твое； твой."
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "발소리",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "발소리",
+                  "transcr": "balsori",
+                  "trans_ru": "звук шагов."
+               },
+               "sentence_index": 1,
+               "off_start": 3,
+               "off_end": 6,
+               "next_word": 2,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "가",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "가",
+                  "transcr": "ga"
+               },
+               "sentence_index": 2,
+               "off_start": 3,
+               "off_end": 6,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "그리워",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A",
+                  "lang": 0,
+                  "lex": "그립",
+                  "transcr": "geuriwo",
+                  "trans_ru": "дорогой, любимый"
+               },
+               "sentence_index": 3,
+               "off_start": 8,
+               "off_end": 10,
+               "next_word": 4,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "건, 잡던",
+            "rhymed_with": "",
+            "last_word": "그리워",
+            "last_vowel": "o",
+            "length_in_syllables": 9
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 10,
+            "para_id": 2004
+         }
+      },
+      {
+         "text": "바람을 마셔보았어",
+         "words": [
+            {
+               "wf": "바람",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "바람",
+                  "transcr": "baram",
+                  "trans_ru": "ветер"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 2,
+               "next_word": 1,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, acc",
+                  "lang": 0,
+                  "lex": "을",
+                  "transcr": "eul"
+               },
+               "sentence_index": 1,
+               "off_start": 0,
+               "off_end": 2,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "마셔보았어",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "마시",
+                  "transcr": "masyeoboasseo",
+                  "trans_ru": "пить; дышать, вдыхать, нюхать"
+               },
+               "sentence_index": 2,
+               "off_start": 4,
+               "off_end": 8,
+               "next_word": 3,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "보고파해서",
+            "last_word": "마셔보았어",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 8
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 8,
+            "para_id": 3001
+         }
+      },
+      {
+         "text": "가슴도 보고파해서",
+         "words": [
+            {
+               "wf": "가슴",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "가슴",
+                  "transcr": "gaseum",
+                  "trans_ru": "грудь; душа, сердце"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 2,
+               "next_word": 1,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "도",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "도",
+                  "transcr": "do"
+               },
+               "sentence_index": 1,
+               "off_start": 0,
+               "off_end": 2,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "보고파해서",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, ger",
+                  "lang": 0,
+                  "lex": "보",
+                  "transcr": "bogopahaeseo",
+                  "trans_ru": "смотреть"
+               },
+               "sentence_index": 2,
+               "off_start": 4,
+               "off_end": 8,
+               "next_word": 3,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "마셔보았어",
+            "last_word": "보고파해서",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 8
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 8,
+            "para_id": 3002
+         }
+      },
+      {
+         "text": "한결 나아진 가슴은 재촉해",
+         "words": [
+            {
+               "wf": "한결",
+               "wtype": "word",
+               "ana": {
+                  "pos": "ADV",
+                  "lang": 0,
+                  "lex": "한결",
+                  "transcr": "hangyeol",
+                  "trans_ru": "еще более； довольно."
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "나아진",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, partcp",
+                  "lang": 0,
+                  "lex": "나아지",
+                  "transcr": "naajin",
+                  "trans_ru": "улучшаться"
+               },
+               "sentence_index": 1,
+               "off_start": 3,
+               "off_end": 5,
+               "next_word": 2,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "가슴",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "가슴",
+                  "transcr": "gaseum",
+                  "trans_ru": "грудь; душа, сердце"
+               },
+               "sentence_index": 2,
+               "off_start": 7,
+               "off_end": 9,
+               "next_word": 3,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "은",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "은",
+                  "transcr": "eun"
+               },
+               "sentence_index": 3,
+               "off_start": 7,
+               "off_end": 9,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "재촉해",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "재촉",
+                  "transcr": "jaechokhae",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 4,
+               "off_start": 11,
+               "off_end": 13,
+               "next_word": 5,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "재촉해",
+            "last_vowel": "ɛ",
+            "length_in_syllables": 11
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 13,
+            "para_id": 3003
+         }
+      },
+      {
+         "text": "그래 너였어 날 데리고 나온 건",
+         "words": [
+            {
+               "wf": "그래",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, ger",
+                  "lang": 0,
+                  "lex": "그리하",
+                  "transcr": "geurae",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "너였어",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PRO",
+                  "lang": 0,
+                  "lex": "너였어",
+                  "transcr": "neoyeosseo",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 1,
+               "off_start": 3,
+               "off_end": 5,
+               "next_word": 2,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "날",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "날",
+                  "transcr": "nal",
+                  "trans_ru": "день, сутки, лезвие, острие, сырой, незрелый"
+               },
+               "sentence_index": 2,
+               "off_start": 7,
+               "off_end": 7,
+               "next_word": 3,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "데리고",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, ger",
+                  "lang": 0,
+                  "lex": "데리",
+                  "transcr": "derigo",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 3,
+               "off_start": 9,
+               "off_end": 11,
+               "next_word": 4,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "나온",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, partcp",
+                  "lang": 0,
+                  "lex": "나오",
+                  "transcr": "naon",
+                  "trans_ru": "выходить, появляться, выступать"
+               },
+               "sentence_index": 4,
+               "off_start": 13,
+               "off_end": 14,
+               "next_word": 5,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "건",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "건",
+                  "transcr": "geon",
+                  "trans_ru": "дело, событие"
+               },
+               "sentence_index": 5,
+               "off_start": 16,
+               "off_end": 16,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "잡던, 그리워",
+            "rhymed_with": "",
+            "last_word": "건",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 12
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 16,
+            "para_id": 4001
+         }
+      },
+      {
+         "text": "내 주머니 속 내 손을 꼭 잡던",
+         "words": [
+            {
+               "wf": "내",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "내",
+                  "transcr": "nae",
+                  "trans_ru": "я, мой, моя, мое; речка, ручей; запах, аромат"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 0,
+               "next_word": 1,
+               "sentence_index_neg": 8
+            },
+            {
+               "wf": "주머니",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "주머니",
+                  "transcr": "jumeoni",
+                  "trans_ru": "карман, мешок"
+               },
+               "sentence_index": 1,
+               "off_start": 2,
+               "off_end": 4,
+               "next_word": 2,
+               "sentence_index_neg": 7
+            },
+            {
+               "wf": "속",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "속",
+                  "transcr": "sok",
+                  "trans_ru": "внутренняя часть, содержание, намерение"
+               },
+               "sentence_index": 2,
+               "off_start": 6,
+               "off_end": 6,
+               "next_word": 3,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "내",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "내",
+                  "transcr": "nae",
+                  "trans_ru": "я, мой, моя, мое; речка, ручей; запах, аромат"
+               },
+               "sentence_index": 3,
+               "off_start": 8,
+               "off_end": 8,
+               "next_word": 4,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "손",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "손",
+                  "transcr": "son",
+                  "trans_ru": "рука"
+               },
+               "sentence_index": 4,
+               "off_start": 10,
+               "off_end": 11,
+               "next_word": 5,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, acc",
+                  "lang": 0,
+                  "lex": "을",
+                  "transcr": "eul"
+               },
+               "sentence_index": 5,
+               "off_start": 10,
+               "off_end": 11,
+               "next_word": 6,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "꼭",
+               "wtype": "word",
+               "ana": {
+                  "pos": "ADV",
+                  "lang": 0,
+                  "lex": "꼭",
+                  "transcr": "kkok",
+                  "trans_ru": "обязательно, точно; прочно; терпеливо"
+               },
+               "sentence_index": 6,
+               "off_start": 13,
+               "off_end": 13,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "잡던",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "잡",
+                  "transcr": "japdeon",
+                  "trans_ru": "брать (в руки), держать в (руках), ловить (кого-либо или чего-либо); хватать"
+               },
+               "sentence_index": 7,
+               "off_start": 15,
+               "off_end": 16,
+               "next_word": 8,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "건, 그리워",
+            "rhymed_with": "",
+            "last_word": "잡던",
+            "last_vowel": "ʌ",
+            "length_in_syllables": 11
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 16,
+            "para_id": 4002
+         }
+      },
+      {
+         "text": "그 해 늦가을의 너 이젠 어디를 걷니",
+         "words": [
+            {
+               "wf": "그",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A",
+                  "lang": 0,
+                  "lex": "그",
+                  "transcr": "geu",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 0,
+               "next_word": 1,
+               "sentence_index_neg": 8
+            },
+            {
+               "wf": "해",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "해",
+                  "transcr": "hae",
+                  "trans_ru": "солнце; год; море; ущерб, вред"
+               },
+               "sentence_index": 1,
+               "off_start": 2,
+               "off_end": 2,
+               "next_word": 2,
+               "sentence_index_neg": 7
+            },
+            {
+               "wf": "늦가을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "늦가을",
+                  "transcr": "neutgaeul",
+                  "trans_ru": "поздняя осень"
+               },
+               "sentence_index": 2,
+               "off_start": 4,
+               "off_end": 7,
+               "next_word": 3,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "의",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, gen",
+                  "lang": 0,
+                  "lex": "의",
+                  "transcr": "ui"
+               },
+               "sentence_index": 3,
+               "off_start": 4,
+               "off_end": 7,
+               "next_word": 4,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "너",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "널",
+                  "transcr": "neo",
+                  "trans_ru": "развешивать, вешать"
+               },
+               "sentence_index": 4,
+               "off_start": 9,
+               "off_end": 9,
+               "next_word": 5,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "이젠",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "이젠",
+                  "transcr": "ijen",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 5,
+               "off_start": 11,
+               "off_end": 12,
+               "next_word": 6,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "어디를",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PRO",
+                  "lang": 0,
+                  "lex": "어디를",
+                  "transcr": "eodireul",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 6,
+               "off_start": 14,
+               "off_end": 16,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "걷니",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V",
+                  "lang": 0,
+                  "lex": "걷",
+                  "transcr": "geotni",
+                  "trans_ru": "убирать; собирать; шагать"
+               },
+               "sentence_index": 7,
+               "off_start": 18,
+               "off_end": 19,
+               "next_word": 8,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "걷니",
+            "last_vowel": "i",
+            "length_in_syllables": 14
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 19,
+            "para_id": 4003
+         }
+      },
+      {
+         "text": "너의 발소리가 그리워",
+         "words": [
+            {
+               "wf": "너의",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PRO",
+                  "lang": 0,
+                  "lex": "너의",
+                  "transcr": "neoui",
+                  "trans_ru": "твой; твоя； твое； твой."
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "발소리",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "발소리",
+                  "transcr": "balsori",
+                  "trans_ru": "звук шагов."
+               },
+               "sentence_index": 1,
+               "off_start": 3,
+               "off_end": 6,
+               "next_word": 2,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "가",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "가",
+                  "transcr": "ga"
+               },
+               "sentence_index": 2,
+               "off_start": 3,
+               "off_end": 6,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "그리워",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A",
+                  "lang": 0,
+                  "lex": "그립",
+                  "transcr": "geuriwo",
+                  "trans_ru": "дорогой, любимый"
+               },
+               "sentence_index": 3,
+               "off_start": 8,
+               "off_end": 10,
+               "next_word": 4,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "건, 잡던",
+            "rhymed_with": "",
+            "last_word": "그리워",
+            "last_vowel": "o",
+            "length_in_syllables": 9
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 10,
+            "para_id": 4004
+         }
+      },
+      {
+         "text": "그래 너였어 가을을 가르쳐준 갈색",
+         "words": [
+            {
+               "wf": "그래",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, ger",
+                  "lang": 0,
+                  "lex": "그리하",
+                  "transcr": "geurae",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "너였어",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PRO",
+                  "lang": 0,
+                  "lex": "너였어",
+                  "transcr": "neoyeosseo",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 1,
+               "off_start": 3,
+               "off_end": 5,
+               "next_word": 2,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "가을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "가을",
+                  "transcr": "gaeul",
+                  "trans_ru": "осень"
+               },
+               "sentence_index": 2,
+               "off_start": 7,
+               "off_end": 9,
+               "next_word": 3,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, acc",
+                  "lang": 0,
+                  "lex": "을",
+                  "transcr": "eul"
+               },
+               "sentence_index": 3,
+               "off_start": 7,
+               "off_end": 9,
+               "next_word": 4,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "가르쳐준",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, partcp",
+                  "lang": 0,
+                  "lex": "가르치",
+                  "transcr": "gareuchyeojun",
+                  "trans_ru": "обучать"
+               },
+               "sentence_index": 4,
+               "off_start": 11,
+               "off_end": 14,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "갈색",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "갈색",
+                  "transcr": "galsaek",
+                  "trans_ru": "коричневый цвет"
+               },
+               "sentence_index": 5,
+               "off_start": 16,
+               "off_end": 17,
+               "next_word": 6,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "해",
+            "rhymed_with": "",
+            "last_word": "갈색",
+            "last_vowel": "ɛ",
+            "length_in_syllables": 14
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 17,
+            "para_id": 5001
+         }
+      },
+      {
+         "text": "그리움이 끝이 없는 밤",
+         "words": [
+            {
+               "wf": "그리움",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "그리움",
+                  "transcr": "geurium",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 3,
+               "next_word": 1,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "이",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "이",
+                  "transcr": "i"
+               },
+               "sentence_index": 1,
+               "off_start": 0,
+               "off_end": 3,
+               "next_word": 2,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "끝",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "끝",
+                  "transcr": "kkeut",
+                  "trans_ru": "конец"
+               },
+               "sentence_index": 2,
+               "off_start": 5,
+               "off_end": 6,
+               "next_word": 3,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "이",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "이",
+                  "transcr": "i"
+               },
+               "sentence_index": 3,
+               "off_start": 5,
+               "off_end": 6,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "없는",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A, partcp",
+                  "lang": 0,
+                  "lex": "없",
+                  "transcr": "eopneun",
+                  "trans_ru": "не быть, не иметь, отсутствовать"
+               },
+               "sentence_index": 4,
+               "off_start": 8,
+               "off_end": 9,
+               "next_word": 5,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "밤",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "밤",
+                  "transcr": "bam",
+                  "trans_ru": "ночь; каштан"
+               },
+               "sentence_index": 5,
+               "off_start": 11,
+               "off_end": 11,
+               "next_word": 6,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "밤",
+            "last_vowel": "ɑ",
+            "length_in_syllables": 9
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 11,
+            "para_id": 5002
+         }
+      },
+      {
+         "text": "다가올 내 겨울을 이제 준비해야 해",
+         "words": [
+            {
+               "wf": "다가올",
+               "wtype": "word",
+               "ana": {
+                  "pos": "V, partcp",
+                  "lang": 0,
+                  "lex": "다가오",
+                  "transcr": "dagaol",
+                  "trans_ru": "приближаться, подходить, подкрадываться"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 2,
+               "next_word": 1,
+               "sentence_index_neg": 7
+            },
+            {
+               "wf": "내",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "내",
+                  "transcr": "nae",
+                  "trans_ru": "я, мой, моя, мое; речка, ручей; запах, аромат"
+               },
+               "sentence_index": 1,
+               "off_start": 4,
+               "off_end": 4,
+               "next_word": 2,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "겨울",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "겨울",
+                  "transcr": "gyeoul",
+                  "trans_ru": "зима"
+               },
+               "sentence_index": 2,
+               "off_start": 6,
+               "off_end": 8,
+               "next_word": 3,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, acc",
+                  "lang": 0,
+                  "lex": "을",
+                  "transcr": "eul"
+               },
+               "sentence_index": 3,
+               "off_start": 6,
+               "off_end": 8,
+               "next_word": 4,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "이제",
+               "wtype": "word",
+               "ana": {
+                  "pos": "ADV",
+                  "lang": 0,
+                  "lex": "이제",
+                  "transcr": "ije",
+                  "trans_ru": "теперь, сейчас"
+               },
+               "sentence_index": 4,
+               "off_start": 10,
+               "off_end": 11,
+               "next_word": 5,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "준비해야",
+               "wtype": "word",
+               "ana": {
+                  "pos": "",
+                  "lang": 0,
+                  "lex": "준비",
+                  "transcr": "junbihaeya"
+               },
+               "sentence_index": 5,
+               "off_start": 13,
+               "off_end": 16,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "해",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "해",
+                  "transcr": "hae",
+                  "trans_ru": "солнце; год; море; ущерб, вред"
+               },
+               "sentence_index": 6,
+               "off_start": 18,
+               "off_end": 18,
+               "next_word": 7,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "갈색",
+            "rhymed_with": "",
+            "last_word": "해",
+            "last_vowel": "ɛ",
+            "length_in_syllables": 14
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 18,
+            "para_id": 5003
+         }
+      },
+      {
+         "text": "밤이 길고 긴 내 겨울을",
+         "words": [
+            {
+               "wf": "밤",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "밤",
+                  "transcr": "bam",
+                  "trans_ru": "ночь; каштан"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 7
+            },
+            {
+               "wf": "이",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART",
+                  "lang": 0,
+                  "lex": "이",
+                  "transcr": "i"
+               },
+               "sentence_index": 1,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 2,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "길고",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A, ger",
+                  "lang": 0,
+                  "lex": "길",
+                  "transcr": "gilgo"
+               },
+               "sentence_index": 2,
+               "off_start": 3,
+               "off_end": 4,
+               "next_word": 3,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "긴",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A, partcp",
+                  "lang": 0,
+                  "lex": "기",
+                  "transcr": "gin",
+                  "trans_ru": "ползать"
+               },
+               "sentence_index": 3,
+               "off_start": 6,
+               "off_end": 6,
+               "next_word": 4,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "내",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "내",
+                  "transcr": "nae",
+                  "trans_ru": "я, мой, моя, мое; речка, ручей; запах, аромат"
+               },
+               "sentence_index": 4,
+               "off_start": 8,
+               "off_end": 8,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "겨울",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "겨울",
+                  "transcr": "gyeoul",
+                  "trans_ru": "зима"
+               },
+               "sentence_index": 5,
+               "off_start": 10,
+               "off_end": 12,
+               "next_word": 6,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, acc",
+                  "lang": 0,
+                  "lex": "을",
+                  "transcr": "eul"
+               },
+               "sentence_index": 6,
+               "off_start": 10,
+               "off_end": 12,
+               "next_word": 7,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "겨울을",
+            "last_word": "겨울을",
+            "last_vowel": "ɯ",
+            "length_in_syllables": 9
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 12,
+            "para_id": 5004
+         }
+      },
+      {
+         "text": "니가 너무 많은 내 겨울을",
+         "words": [
+            {
+               "wf": "니가",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PRO",
+                  "lang": 0,
+                  "lex": "니가",
+                  "transcr": "niga",
+                  "trans_ru": "перевод не найден"
+               },
+               "sentence_index": 0,
+               "off_start": 0,
+               "off_end": 1,
+               "next_word": 1,
+               "sentence_index_neg": 6
+            },
+            {
+               "wf": "너무",
+               "wtype": "word",
+               "ana": {
+                  "pos": "ADV",
+                  "lang": 0,
+                  "lex": "너무",
+                  "transcr": "neomu",
+                  "trans_ru": "слишком, чрезмерно"
+               },
+               "sentence_index": 1,
+               "off_start": 3,
+               "off_end": 4,
+               "next_word": 2,
+               "sentence_index_neg": 5
+            },
+            {
+               "wf": "많은",
+               "wtype": "word",
+               "ana": {
+                  "pos": "A, partcp",
+                  "lang": 0,
+                  "lex": "많",
+                  "transcr": "maneun",
+                  "trans_ru": "многочисленный, много"
+               },
+               "sentence_index": 2,
+               "off_start": 6,
+               "off_end": 7,
+               "next_word": 3,
+               "sentence_index_neg": 4
+            },
+            {
+               "wf": "내",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "내",
+                  "transcr": "nae",
+                  "trans_ru": "я, мой, моя, мое; речка, ручей; запах, аромат"
+               },
+               "sentence_index": 3,
+               "off_start": 9,
+               "off_end": 9,
+               "next_word": 4,
+               "sentence_index_neg": 3
+            },
+            {
+               "wf": "겨울",
+               "wtype": "word",
+               "ana": {
+                  "pos": "S",
+                  "lang": 0,
+                  "lex": "겨울",
+                  "transcr": "gyeoul",
+                  "trans_ru": "зима"
+               },
+               "sentence_index": 4,
+               "off_start": 11,
+               "off_end": 13,
+               "sentence_index_neg": 2
+            },
+            {
+               "wf": "을",
+               "wtype": "word",
+               "ana": {
+                  "pos": "PART, acc",
+                  "lang": 0,
+                  "lex": "을",
+                  "transcr": "eul"
+               },
+               "sentence_index": 5,
+               "off_start": 11,
+               "off_end": 13,
+               "next_word": 6,
+               "sentence_index_neg": 1
+            }
+         ],
+         "lang": 0,
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "겨울을",
+            "last_word": "겨울을",
+            "last_vowel": "ɯ",
+            "length_in_syllables": 10
+         },
+         "para_alignment": {
+            "off_start": 0,
+            "off_end": 13,
+            "para_id": 5005
+         }
+      },
+      {
+         "text": "Я открыл шкаф,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 1,
+            "off_start": 0,
+            "off_end": 13
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Я",
+               "sentence_index_neg": 4,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 0
+            },
+            {
+               "wf": "открыл",
+               "sentence_index_neg": 3,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "открывать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 2,
+               "off_end": 7
+            },
+            {
+               "wf": "шкаф",
+               "sentence_index_neg": 2,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "шкаф"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 9,
+               "off_end": 12
+            }
+         ]
+      },
+      {
+         "text": "Несколько вещей привлекли мой взгляд.",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 2,
+            "off_start": 0,
+            "off_end": 36
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Несколько",
+               "sentence_index_neg": 6,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "NUM",
+                     "lex": "несколько"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 8
+            },
+            {
+               "wf": "вещей",
+               "sentence_index_neg": 5,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "вещь"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 10,
+               "off_end": 14
+            },
+            {
+               "wf": "привлекли",
+               "sentence_index_neg": 4,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "привлекать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 16,
+               "off_end": 24
+            },
+            {
+               "wf": "мой",
+               "sentence_index_neg": 3,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "мой"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 26,
+               "off_end": 28
+            },
+            {
+               "wf": "взгляд",
+               "sentence_index_neg": 2,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "взгляд"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 30,
+               "off_end": 35
+            }
+         ]
+      },
+      {
+         "text": "Хотя я и думал, что еще рано, я надел их,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 3,
+            "off_start": 0,
+            "off_end": 40
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Хотя",
+               "sentence_index_neg": 13,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "хотя"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 3
+            },
+            {
+               "wf": "я",
+               "sentence_index_neg": 12,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 5,
+               "off_end": 5
+            },
+            {
+               "wf": "и",
+               "sentence_index_neg": 11,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "и"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 7,
+               "off_end": 7
+            },
+            {
+               "wf": "думал",
+               "sentence_index_neg": 10,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "думать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 9,
+               "off_end": 13
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 4,
+               "sentence_index_neg": 9,
+               "next_word": 5,
+               "off_start": 15,
+               "off_end": 16
+            },
+            {
+               "wf": "что",
+               "sentence_index_neg": 8,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "что"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 18,
+               "off_end": 20
+            },
+            {
+               "wf": "еще",
+               "sentence_index_neg": 7,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "еще"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 22,
+               "off_end": 24
+            },
+            {
+               "wf": "рано",
+               "sentence_index_neg": 6,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "рано"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 26,
+               "off_end": 29
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 8,
+               "sentence_index_neg": 5,
+               "next_word": 9,
+               "off_start": 31,
+               "off_end": 32
+            },
+            {
+               "wf": "я",
+               "sentence_index_neg": 4,
+               "sentence_index": 9,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 10,
+               "off_start": 34,
+               "off_end": 34
+            },
+            {
+               "wf": "надел",
+               "sentence_index_neg": 3,
+               "sentence_index": 10,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "надевать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 11,
+               "off_start": 36,
+               "off_end": 40
+            },
+            {
+               "wf": "их",
+               "sentence_index_neg": 2,
+               "sentence_index": 11,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "они"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 12,
+               "off_start": 42,
+               "off_end": 43
+            }
+         ]
+      },
+      {
+         "text": "Стоя перед зеркалом, я выглядел так же, как и тогда.",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 4,
+            "off_start": 0,
+            "off_end": 51
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Стоя",
+               "sentence_index_neg": 13,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "стоять"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 3
+            },
+            {
+               "wf": "перед",
+               "sentence_index_neg": 12,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "перед"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 5,
+               "off_end": 9
+            },
+            {
+               "wf": "зеркалом",
+               "sentence_index_neg": 11,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "зеркало"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 11,
+               "off_end": 18
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 3,
+               "sentence_index_neg": 10,
+               "next_word": 4,
+               "off_start": 20,
+               "off_end": 21
+            },
+            {
+               "wf": "я",
+               "sentence_index_neg": 9,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 23,
+               "off_end": 23
+            },
+            {
+               "wf": "выглядел",
+               "sentence_index_neg": 8,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "выглядеть"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 25,
+               "off_end": 32
+            },
+            {
+               "wf": "так",
+               "sentence_index_neg": 7,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "так"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 34,
+               "off_end": 36
+            },
+            {
+               "wf": "же",
+               "sentence_index_neg": 6,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "PART",
+                     "lex": "же"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 38,
+               "off_end": 39
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 8,
+               "sentence_index_neg": 5,
+               "next_word": 9,
+               "off_start": 41,
+               "off_end": 42
+            },
+            {
+               "wf": "как",
+               "sentence_index_neg": 4,
+               "sentence_index": 9,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "как"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 10,
+               "off_start": 44,
+               "off_end": 46
+            },
+            {
+               "wf": "и",
+               "sentence_index_neg": 3,
+               "sentence_index": 10,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "и"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 11,
+               "off_start": 48,
+               "off_end": 48
+            },
+            {
+               "wf": "тогда",
+               "sentence_index_neg": 2,
+               "sentence_index": 11,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "тогда"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 12,
+               "off_start": 50,
+               "off_end": 54
+            }
+         ]
+      },
+      {
+         "text": "Мне больше нравится так, потому что тогда было холодно,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 1001,
+            "off_start": 0,
+            "off_end": 54
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Мне",
+               "sentence_index_neg": 11,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 2
+            },
+            {
+               "wf": "больше",
+               "sentence_index_neg": 10,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "много"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 4,
+               "off_end": 9
+            },
+            {
+               "wf": "нравится",
+               "sentence_index_neg": 9,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "нравиться"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 11,
+               "off_end": 18
+            },
+            {
+               "wf": "так",
+               "sentence_index_neg": 8,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "так"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 20,
+               "off_end": 22
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 4,
+               "sentence_index_neg": 7,
+               "next_word": 5,
+               "off_start": 24,
+               "off_end": 25
+            },
+            {
+               "wf": "потому",
+               "sentence_index_neg": 6,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "потому"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 27,
+               "off_end": 32
+            },
+            {
+               "wf": "что",
+               "sentence_index_neg": 5,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "что"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 34,
+               "off_end": 36
+            },
+            {
+               "wf": "тогда",
+               "sentence_index_neg": 4,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "тогда"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 38,
+               "off_end": 42
+            },
+            {
+               "wf": "было",
+               "sentence_index_neg": 3,
+               "sentence_index": 8,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "быть"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 9,
+               "off_start": 44,
+               "off_end": 47
+            },
+            {
+               "wf": "холодно",
+               "sentence_index_neg": 2,
+               "sentence_index": 9,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "холодно"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 10,
+               "off_start": 49,
+               "off_end": 55
+            }
+         ]
+      },
+      {
+         "text": "Солнце стелилось по улицам,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 1002,
+            "off_start": 0,
+            "off_end": 26
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Солнце",
+               "sentence_index_neg": 5,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "солнце"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 5
+            },
+            {
+               "wf": "стелилось",
+               "sentence_index_neg": 4,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "стелиться"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 7,
+               "off_end": 15
+            },
+            {
+               "wf": "по",
+               "sentence_index_neg": 3,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "по"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 17,
+               "off_end": 18
+            },
+            {
+               "wf": "улицам",
+               "sentence_index_neg": 2,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "улица"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 20,
+               "off_end": 25
+            }
+         ]
+      },
+      {
+         "text": "Аромат кофе возвращал меня в то время,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 1003,
+            "off_start": 0,
+            "off_end": 37
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Аромат",
+               "sentence_index_neg": 8,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "аромат"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 5
+            },
+            {
+               "wf": "кофе",
+               "sentence_index_neg": 7,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "кофе"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 7,
+               "off_end": 10
+            },
+            {
+               "wf": "возвращал",
+               "sentence_index_neg": 6,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "возвращать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 12,
+               "off_end": 20
+            },
+            {
+               "wf": "меня",
+               "sentence_index_neg": 5,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 22,
+               "off_end": 25
+            },
+            {
+               "wf": "в",
+               "sentence_index_neg": 4,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "в"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 27,
+               "off_end": 27
+            },
+            {
+               "wf": "то",
+               "sentence_index_neg": 3,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "тот"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 29,
+               "off_end": 30
+            },
+            {
+               "wf": "время",
+               "sentence_index_neg": 2,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "время"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 32,
+               "off_end": 36
+            }
+         ]
+      },
+      {
+         "text": "Когда я рассматривал зимнюю одежду в витринах магазинов.",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 1004,
+            "off_start": 0,
+            "off_end": 55
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Когда",
+               "sentence_index_neg": 9,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "когда"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 4
+            },
+            {
+               "wf": "я",
+               "sentence_index_neg": 8,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 6,
+               "off_end": 6
+            },
+            {
+               "wf": "рассматривал",
+               "sentence_index_neg": 7,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "рассматривать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 8,
+               "off_end": 19
+            },
+            {
+               "wf": "зимнюю",
+               "sentence_index_neg": 6,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "A",
+                     "lex": "зимний"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 21,
+               "off_end": 26
+            },
+            {
+               "wf": "одежду",
+               "sentence_index_neg": 5,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "одежда"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 28,
+               "off_end": 33
+            },
+            {
+               "wf": "в",
+               "sentence_index_neg": 4,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "в"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 35,
+               "off_end": 35
+            },
+            {
+               "wf": "витринах",
+               "sentence_index_neg": 3,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "витрина"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 37,
+               "off_end": 44
+            },
+            {
+               "wf": "магазинов",
+               "sentence_index_neg": 2,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "магазин"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 46,
+               "off_end": 54
+            }
+         ]
+      },
+      {
+         "text": "Да, это ты тогда увела меня оттуда,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 2001,
+            "off_start": 0,
+            "off_end": 34
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Да",
+               "sentence_index_neg": 9,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "да"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 1
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 1,
+               "sentence_index_neg": 8,
+               "next_word": 2,
+               "off_start": 3,
+               "off_end": 4
+            },
+            {
+               "wf": "это",
+               "sentence_index_neg": 7,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "PART",
+                     "lex": "это"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 6,
+               "off_end": 8
+            },
+            {
+               "wf": "ты",
+               "sentence_index_neg": 6,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 10,
+               "off_end": 11
+            },
+            {
+               "wf": "тогда",
+               "sentence_index_neg": 5,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "тогда"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 13,
+               "off_end": 17
+            },
+            {
+               "wf": "увела",
+               "sentence_index_neg": 4,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "уводить"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 19,
+               "off_end": 23
+            },
+            {
+               "wf": "меня",
+               "sentence_index_neg": 3,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 25,
+               "off_end": 28
+            },
+            {
+               "wf": "оттуда",
+               "sentence_index_neg": 2,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "оттуда"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 30,
+               "off_end": 35
+            }
+         ]
+      },
+      {
+         "text": "Ты крепко сжала руку, которую я до этого держал в кармане,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 2002,
+            "off_start": 0,
+            "off_end": 57
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Ты",
+               "sentence_index_neg": 13,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 1
+            },
+            {
+               "wf": "крепко",
+               "sentence_index_neg": 12,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "крепко"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 3,
+               "off_end": 8
+            },
+            {
+               "wf": "сжала",
+               "sentence_index_neg": 11,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "сжинать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 10,
+               "off_end": 14
+            },
+            {
+               "wf": "руку",
+               "sentence_index_neg": 10,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "рука"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 16,
+               "off_end": 19
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 4,
+               "sentence_index_neg": 9,
+               "next_word": 5,
+               "off_start": 21,
+               "off_end": 22
+            },
+            {
+               "wf": "которую",
+               "sentence_index_neg": 8,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "который"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 24,
+               "off_end": 30
+            },
+            {
+               "wf": "я",
+               "sentence_index_neg": 7,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 32,
+               "off_end": 32
+            },
+            {
+               "wf": "до",
+               "sentence_index_neg": 6,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "до"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 34,
+               "off_end": 35
+            },
+            {
+               "wf": "этого",
+               "sentence_index_neg": 5,
+               "sentence_index": 8,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "это"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 9,
+               "off_start": 37,
+               "off_end": 41
+            },
+            {
+               "wf": "держал",
+               "sentence_index_neg": 4,
+               "sentence_index": 9,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "держать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 10,
+               "off_start": 43,
+               "off_end": 48
+            },
+            {
+               "wf": "в",
+               "sentence_index_neg": 3,
+               "sentence_index": 10,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "в"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 11,
+               "off_start": 50,
+               "off_end": 50
+            },
+            {
+               "wf": "кармане",
+               "sentence_index_neg": 2,
+               "sentence_index": 11,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "карман"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 12,
+               "off_start": 52,
+               "off_end": 58
+            }
+         ]
+      },
+      {
+         "text": "Ты, в пору поздней осени этого года,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 2003,
+            "off_start": 0,
+            "off_end": 35
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Ты",
+               "sentence_index_neg": 9,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 1
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 1,
+               "sentence_index_neg": 8,
+               "next_word": 2,
+               "off_start": 3,
+               "off_end": 4
+            },
+            {
+               "wf": "в",
+               "sentence_index_neg": 7,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "в"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 6,
+               "off_end": 6
+            },
+            {
+               "wf": "пору",
+               "sentence_index_neg": 6,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "пора"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 8,
+               "off_end": 11
+            },
+            {
+               "wf": "поздней",
+               "sentence_index_neg": 5,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "A",
+                     "lex": "поздний"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 13,
+               "off_end": 19
+            },
+            {
+               "wf": "осени",
+               "sentence_index_neg": 4,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "осень"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 21,
+               "off_end": 25
+            },
+            {
+               "wf": "этого",
+               "sentence_index_neg": 3,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "этот"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 27,
+               "off_end": 31
+            },
+            {
+               "wf": "года",
+               "sentence_index_neg": 2,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "год"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 33,
+               "off_end": 36
+            }
+         ]
+      },
+      {
+         "text": "Где бродишь ты сейчас?",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 2004,
+            "off_start": 0,
+            "off_end": 21
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Где",
+               "sentence_index_neg": 6,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "где"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 2
+            },
+            {
+               "wf": "бродишь",
+               "sentence_index_neg": 5,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "бродить"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 4,
+               "off_end": 10
+            },
+            {
+               "wf": "ты",
+               "sentence_index_neg": 4,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 12,
+               "off_end": 13
+            },
+            {
+               "wf": "сейчас",
+               "sentence_index_neg": 3,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "сейчас"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 15,
+               "off_end": 20
+            },
+            {
+               "wf": "?",
+               "wtype": "punct",
+               "sentence_index": 4,
+               "sentence_index_neg": 2,
+               "next_word": 5,
+               "off_start": 22,
+               "off_end": 22
+            }
+         ]
+      },
+      {
+         "text": "Я пытался вдохнуть ветер, потому что мое сердце уже тосковало по тебе,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 3001,
+            "off_start": 0,
+            "off_end": 69
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Я",
+               "sentence_index_neg": 14,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 0
+            },
+            {
+               "wf": "пытался",
+               "sentence_index_neg": 13,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "пытаться"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 2,
+               "off_end": 8
+            },
+            {
+               "wf": "вдохнуть",
+               "sentence_index_neg": 12,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "вдыхать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 10,
+               "off_end": 17
+            },
+            {
+               "wf": "ветер",
+               "sentence_index_neg": 11,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "ветер"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 19,
+               "off_end": 23
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 4,
+               "sentence_index_neg": 10,
+               "next_word": 5,
+               "off_start": 25,
+               "off_end": 26
+            },
+            {
+               "wf": "потому",
+               "sentence_index_neg": 9,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "потому"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 28,
+               "off_end": 33
+            },
+            {
+               "wf": "что",
+               "sentence_index_neg": 8,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "что"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 35,
+               "off_end": 37
+            },
+            {
+               "wf": "мое",
+               "sentence_index_neg": 7,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "мой"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 39,
+               "off_end": 41
+            },
+            {
+               "wf": "сердце",
+               "sentence_index_neg": 6,
+               "sentence_index": 8,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "сердце"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 9,
+               "off_start": 43,
+               "off_end": 48
+            },
+            {
+               "wf": "уже",
+               "sentence_index_neg": 5,
+               "sentence_index": 9,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "уже"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 10,
+               "off_start": 50,
+               "off_end": 52
+            },
+            {
+               "wf": "тосковало",
+               "sentence_index_neg": 4,
+               "sentence_index": 10,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "тосковать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 11,
+               "off_start": 54,
+               "off_end": 62
+            },
+            {
+               "wf": "по",
+               "sentence_index_neg": 3,
+               "sentence_index": 11,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "по"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 12,
+               "off_start": 64,
+               "off_end": 65
+            },
+            {
+               "wf": "тебе",
+               "sentence_index_neg": 2,
+               "sentence_index": 12,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 13,
+               "off_start": 67,
+               "off_end": 70
+            }
+         ]
+      },
+      {
+         "text": "Ему уже лучше и оно торопит меня.",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 3002,
+            "off_start": 0,
+            "off_end": 32
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Ему",
+               "sentence_index_neg": 8,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "он"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 2
+            },
+            {
+               "wf": "уже",
+               "sentence_index_neg": 7,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "уже"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 4,
+               "off_end": 6
+            },
+            {
+               "wf": "лучше",
+               "sentence_index_neg": 6,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "хорошо"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 8,
+               "off_end": 12
+            },
+            {
+               "wf": "и",
+               "sentence_index_neg": 5,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "и"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 14,
+               "off_end": 14
+            },
+            {
+               "wf": "оно",
+               "sentence_index_neg": 4,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "оно"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 16,
+               "off_end": 18
+            },
+            {
+               "wf": "торопит",
+               "sentence_index_neg": 3,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "торопить"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 20,
+               "off_end": 26
+            },
+            {
+               "wf": "меня",
+               "sentence_index_neg": 2,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 28,
+               "off_end": 31
+            }
+         ]
+      },
+      {
+         "text": "Давай вернемся до того, как обрушится тяжесть ночи.",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 3003,
+            "off_start": 0,
+            "off_end": 50
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Давай",
+               "sentence_index_neg": 10,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "давать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 4
+            },
+            {
+               "wf": "вернемся",
+               "sentence_index_neg": 9,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "вернуться"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 6,
+               "off_end": 13
+            },
+            {
+               "wf": "до",
+               "sentence_index_neg": 8,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "до"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 15,
+               "off_end": 16
+            },
+            {
+               "wf": "того",
+               "sentence_index_neg": 7,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "то"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 18,
+               "off_end": 21
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 4,
+               "sentence_index_neg": 6,
+               "next_word": 5,
+               "off_start": 23,
+               "off_end": 24
+            },
+            {
+               "wf": "как",
+               "sentence_index_neg": 5,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "как"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 26,
+               "off_end": 28
+            },
+            {
+               "wf": "обрушится",
+               "sentence_index_neg": 4,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "обрушиваться"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 30,
+               "off_end": 38
+            },
+            {
+               "wf": "тяжесть",
+               "sentence_index_neg": 3,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "тяжесть"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 40,
+               "off_end": 46
+            },
+            {
+               "wf": "ночи",
+               "sentence_index_neg": 2,
+               "sentence_index": 8,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "ночь"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 9,
+               "off_start": 48,
+               "off_end": 51
+            }
+         ]
+      },
+      {
+         "text": "Да, это ты тогда увела меня оттуда,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 4001,
+            "off_start": 0,
+            "off_end": 34
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Да",
+               "sentence_index_neg": 9,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "да"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 1
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 1,
+               "sentence_index_neg": 8,
+               "next_word": 2,
+               "off_start": 3,
+               "off_end": 4
+            },
+            {
+               "wf": "это",
+               "sentence_index_neg": 7,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "PART",
+                     "lex": "это"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 6,
+               "off_end": 8
+            },
+            {
+               "wf": "ты",
+               "sentence_index_neg": 6,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 10,
+               "off_end": 11
+            },
+            {
+               "wf": "тогда",
+               "sentence_index_neg": 5,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "тогда"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 13,
+               "off_end": 17
+            },
+            {
+               "wf": "увела",
+               "sentence_index_neg": 4,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "уводить"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 19,
+               "off_end": 23
+            },
+            {
+               "wf": "меня",
+               "sentence_index_neg": 3,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 25,
+               "off_end": 28
+            },
+            {
+               "wf": "оттуда",
+               "sentence_index_neg": 2,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "оттуда"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 30,
+               "off_end": 35
+            }
+         ]
+      },
+      {
+         "text": "Ты крепко сжала руку, которую я до этого держал в кармане,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 4002,
+            "off_start": 0,
+            "off_end": 57
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Ты",
+               "sentence_index_neg": 13,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 1
+            },
+            {
+               "wf": "крепко",
+               "sentence_index_neg": 12,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "крепко"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 3,
+               "off_end": 8
+            },
+            {
+               "wf": "сжала",
+               "sentence_index_neg": 11,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "сжинать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 10,
+               "off_end": 14
+            },
+            {
+               "wf": "руку",
+               "sentence_index_neg": 10,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "рука"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 16,
+               "off_end": 19
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 4,
+               "sentence_index_neg": 9,
+               "next_word": 5,
+               "off_start": 21,
+               "off_end": 22
+            },
+            {
+               "wf": "которую",
+               "sentence_index_neg": 8,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "который"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 24,
+               "off_end": 30
+            },
+            {
+               "wf": "я",
+               "sentence_index_neg": 7,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 32,
+               "off_end": 32
+            },
+            {
+               "wf": "до",
+               "sentence_index_neg": 6,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "до"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 34,
+               "off_end": 35
+            },
+            {
+               "wf": "этого",
+               "sentence_index_neg": 5,
+               "sentence_index": 8,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "это"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 9,
+               "off_start": 37,
+               "off_end": 41
+            },
+            {
+               "wf": "держал",
+               "sentence_index_neg": 4,
+               "sentence_index": 9,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "держать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 10,
+               "off_start": 43,
+               "off_end": 48
+            },
+            {
+               "wf": "в",
+               "sentence_index_neg": 3,
+               "sentence_index": 10,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "в"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 11,
+               "off_start": 50,
+               "off_end": 50
+            },
+            {
+               "wf": "кармане",
+               "sentence_index_neg": 2,
+               "sentence_index": 11,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "карман"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 12,
+               "off_start": 52,
+               "off_end": 58
+            }
+         ]
+      },
+      {
+         "text": "Ты, в пору поздней осени этого года,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 4003,
+            "off_start": 0,
+            "off_end": 35
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Ты",
+               "sentence_index_neg": 9,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 1
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 1,
+               "sentence_index_neg": 8,
+               "next_word": 2,
+               "off_start": 3,
+               "off_end": 4
+            },
+            {
+               "wf": "в",
+               "sentence_index_neg": 7,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "в"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 6,
+               "off_end": 6
+            },
+            {
+               "wf": "пору",
+               "sentence_index_neg": 6,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "пора"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 8,
+               "off_end": 11
+            },
+            {
+               "wf": "поздней",
+               "sentence_index_neg": 5,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "A",
+                     "lex": "поздний"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 13,
+               "off_end": 19
+            },
+            {
+               "wf": "осени",
+               "sentence_index_neg": 4,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "осень"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 21,
+               "off_end": 25
+            },
+            {
+               "wf": "этого",
+               "sentence_index_neg": 3,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "этот"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 27,
+               "off_end": 31
+            },
+            {
+               "wf": "года",
+               "sentence_index_neg": 2,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "год"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 33,
+               "off_end": 36
+            }
+         ]
+      },
+      {
+         "text": "Где бродишь ты сейчас?",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 4004,
+            "off_start": 0,
+            "off_end": 21
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Где",
+               "sentence_index_neg": 6,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "где"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 2
+            },
+            {
+               "wf": "бродишь",
+               "sentence_index_neg": 5,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "бродить"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 4,
+               "off_end": 10
+            },
+            {
+               "wf": "ты",
+               "sentence_index_neg": 4,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 12,
+               "off_end": 13
+            },
+            {
+               "wf": "сейчас",
+               "sentence_index_neg": 3,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "сейчас"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 15,
+               "off_end": 20
+            },
+            {
+               "wf": "?",
+               "wtype": "punct",
+               "sentence_index": 4,
+               "sentence_index_neg": 2,
+               "next_word": 5,
+               "off_start": 22,
+               "off_end": 22
+            }
+         ]
+      },
+      {
+         "text": "Да, это ты показала мне осень,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 5001,
+            "off_start": 0,
+            "off_end": 29
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Да",
+               "sentence_index_neg": 8,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "CONJ",
+                     "lex": "да"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 1
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 1,
+               "sentence_index_neg": 7,
+               "next_word": 2,
+               "off_start": 3,
+               "off_end": 4
+            },
+            {
+               "wf": "это",
+               "sentence_index_neg": 6,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "PART",
+                     "lex": "это"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 6,
+               "off_end": 8
+            },
+            {
+               "wf": "ты",
+               "sentence_index_neg": 5,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 10,
+               "off_end": 11
+            },
+            {
+               "wf": "показала",
+               "sentence_index_neg": 4,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "показывать"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 13,
+               "off_end": 20
+            },
+            {
+               "wf": "мне",
+               "sentence_index_neg": 3,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 22,
+               "off_end": 24
+            },
+            {
+               "wf": "осень",
+               "sentence_index_neg": 2,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "осень"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 26,
+               "off_end": 30
+            }
+         ]
+      },
+      {
+         "text": "Ночь, полную бесконечного золотисто-багряного одиночества.",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 5002,
+            "off_start": 0,
+            "off_end": 57
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Ночь",
+               "sentence_index_neg": 9,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "ночь"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 3
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 1,
+               "sentence_index_neg": 8,
+               "next_word": 2,
+               "off_start": 5,
+               "off_end": 6
+            },
+            {
+               "wf": "полную",
+               "sentence_index_neg": 7,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "A",
+                     "lex": "полный"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 8,
+               "off_end": 13
+            },
+            {
+               "wf": "бесконечного",
+               "sentence_index_neg": 6,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "A",
+                     "lex": "бесконечный"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 15,
+               "off_end": 26
+            },
+            {
+               "wf": "золотисто",
+               "sentence_index_neg": 5,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "золотисто"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 28,
+               "off_end": 36
+            },
+            {
+               "wf": "-",
+               "wtype": "punct",
+               "sentence_index": 5,
+               "sentence_index_neg": 4,
+               "next_word": 6,
+               "off_start": 38,
+               "off_end": 38
+            },
+            {
+               "wf": "багряного",
+               "sentence_index_neg": 3,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "A",
+                     "lex": "багряный"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 40,
+               "off_end": 48
+            },
+            {
+               "wf": "одиночества",
+               "sentence_index_neg": 2,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "одиночество"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 50,
+               "off_end": 60
+            }
+         ]
+      },
+      {
+         "text": "Я должен подготовиться к приходу зимы,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 5003,
+            "off_start": 0,
+            "off_end": 37
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Я",
+               "sentence_index_neg": 7,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "я"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 0
+            },
+            {
+               "wf": "должен",
+               "sentence_index_neg": 6,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "A",
+                     "lex": "должный"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 2,
+               "off_end": 7
+            },
+            {
+               "wf": "подготовиться",
+               "sentence_index_neg": 5,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "V",
+                     "lex": "подготавливаться"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 9,
+               "off_end": 21
+            },
+            {
+               "wf": "к",
+               "sentence_index_neg": 4,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "к"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 23,
+               "off_end": 23
+            },
+            {
+               "wf": "приходу",
+               "sentence_index_neg": 3,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "приход"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 25,
+               "off_end": 31
+            },
+            {
+               "wf": "зимы",
+               "sentence_index_neg": 2,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "зима"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 33,
+               "off_end": 36
+            }
+         ]
+      },
+      {
+         "text": "Моей зимы с длинными ночами,",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 5004,
+            "off_start": 0,
+            "off_end": 27
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Моей",
+               "sentence_index_neg": 6,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "мой"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 3
+            },
+            {
+               "wf": "зимы",
+               "sentence_index_neg": 5,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "зима"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 5,
+               "off_end": 8
+            },
+            {
+               "wf": "с",
+               "sentence_index_neg": 4,
+               "sentence_index": 2,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "с"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 3,
+               "off_start": 10,
+               "off_end": 10
+            },
+            {
+               "wf": "длинными",
+               "sentence_index_neg": 3,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "A",
+                     "lex": "длинный"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 12,
+               "off_end": 19
+            },
+            {
+               "wf": "ночами",
+               "sentence_index_neg": 2,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "ночь"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 21,
+               "off_end": 26
+            }
+         ]
+      },
+      {
+         "text": "Моей зимы, в которой так много от тебя.",
+         "lang": 2,
+         "para_alignment": {
+            "para_id": 5005,
+            "off_start": 0,
+            "off_end": 38
+         },
+         "meta": {
+            "possibly_rhymed_with": "",
+            "rhymed_with": "",
+            "last_word": "",
+            "ending": "",
+            "last_vowel": "",
+            "length_in_syllables": 0
+         },
+         "words": [
+            {
+               "wf": "Моей",
+               "sentence_index_neg": 10,
+               "sentence_index": 0,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "мой"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 1,
+               "off_start": 0,
+               "off_end": 3
+            },
+            {
+               "wf": "зимы",
+               "sentence_index_neg": 9,
+               "sentence_index": 1,
+               "ana": [
+                  {
+                     "pos": "S",
+                     "lex": "зима"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 2,
+               "off_start": 5,
+               "off_end": 8
+            },
+            {
+               "wf": ", ",
+               "wtype": "punct",
+               "sentence_index": 2,
+               "sentence_index_neg": 8,
+               "next_word": 3,
+               "off_start": 10,
+               "off_end": 11
+            },
+            {
+               "wf": "в",
+               "sentence_index_neg": 7,
+               "sentence_index": 3,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "в"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 4,
+               "off_start": 13,
+               "off_end": 13
+            },
+            {
+               "wf": "которой",
+               "sentence_index_neg": 6,
+               "sentence_index": 4,
+               "ana": [
+                  {
+                     "pos": "APRO",
+                     "lex": "который"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 5,
+               "off_start": 15,
+               "off_end": 21
+            },
+            {
+               "wf": "так",
+               "sentence_index_neg": 5,
+               "sentence_index": 5,
+               "ana": [
+                  {
+                     "pos": "ADVPRO",
+                     "lex": "так"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 6,
+               "off_start": 23,
+               "off_end": 25
+            },
+            {
+               "wf": "много",
+               "sentence_index_neg": 4,
+               "sentence_index": 6,
+               "ana": [
+                  {
+                     "pos": "ADV",
+                     "lex": "много"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 7,
+               "off_start": 27,
+               "off_end": 31
+            },
+            {
+               "wf": "от",
+               "sentence_index_neg": 3,
+               "sentence_index": 7,
+               "ana": [
+                  {
+                     "pos": "PR",
+                     "lex": "от"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 8,
+               "off_start": 33,
+               "off_end": 34
+            },
+            {
+               "wf": "тебя",
+               "sentence_index_neg": 2,
+               "sentence_index": 8,
+               "ana": [
+                  {
+                     "pos": "SPRO",
+                     "lex": "ты"
+                  }
+               ],
+               "wtype": "word",
+               "next_word": 9,
+               "off_start": 36,
+               "off_end": 39
+            }
+         ]
+      }
+   ]
+}
