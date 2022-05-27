@@ -2,7 +2,7 @@
 Hi! This repository contains codes and files related to my course paper dedicated to creating a korean-russian corpus of k-pop texts.
 
 Due to technical issues I had to host one half of the analysis in my Jupyter Notebook (the 1st part) and another part in Google Colab (the 2d part).  
-Also I restructured meta information partially automatically and partially manually, so the resulting meta information in the processed files is different to the one I recieve when analyzing the web page.
+Also I restructured meta information partially automatically and partially manually, so the resulting meta information in the processed files is somewhat different from the one I recieve when analyzing the web page.
 
 ## Description of contents
 **K-pop songs analizer part 1.ipynb** downloads lyrics, translation and meta data from https://lyricstranslate.com/ru.  
