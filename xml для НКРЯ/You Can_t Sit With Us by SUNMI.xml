@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<para id="2">
+		<se lang="kor" has_translit="true">
+			<w translit="maeil">
+				<ana lex="매일" gr="ADV" transl="каждый день, ежедневно" lex_translit="maeil">매일</ana>
+			</w>
+			<w translit="bam">
+				<ana lex="밤" gr="S" transl="ночь; каштан" lex_translit="bam">밤</ana>
+			</w>
+			<w translit="honja">
+				<ana lex="혼자" gr="S" transl="один, сам" lex_translit="honja">혼자</ana>
+			</w>
+		</se>
+		<se lang="rus">Но я каждый день одна
+		</se>
+	</para>
+	<para id="3">
+		<se lang="kor" has_translit="true">
+			<w translit="kkok">
+				<ana lex="꼭" gr="ADV" transl="обязательно, точно; прочно; терпеливо" lex_translit="kkok">꼭</ana>
+			</w>
+			<w translit="banjjeum">
+				<ana lex="반쯤" gr="S" transl="" lex_translit="banjjeum">반쯤</ana>
+			</w>
+			<w translit="michin">
+				<ana lex="미치다" gr="V,partcp" transl="сходить с ума, бесноваться; достигать, доходить" lex_translit="michida">미친</ana>
+			</w>
+			<w translit="ae">
+				<ana lex="애" gr="S" transl="ребёнок; новорожденный младенец; младенец; малыш; забота; переживание; старание; э; любовник; любовница; стараться; любимое животное; питомец; любовь" lex_translit="ae">애</ana>
+			</w>
+			<w translit="cheoreom">
+				<ana lex="처럼" gr="PART" transl="" lex_translit="cheoreom">처럼</ana>
+			</w>
+			<w translit="marya">
+				<ana lex="말야" gr="S" transl="" lex_translit="marya">말야</ana>
+			</w>
+		</se>
+		<se lang="rus">Как сошедший с ума ребенок
+		</se>
+	</para>
+	<para id="9001">
+		<se lang="kor" has_translit="true">
+			<w translit="wae">
+				<ana lex="외다" gr="A" transl="заучивать; запоминать; читать наизусть; декламировать" lex_translit="oeda">왜</ana>
+			</w>
+			<w translit="urin">
+				<ana lex="우리다" gr="V,partcp" transl="вымачивать; делать вытяжку; вымогать; конфисковать" lex_translit="urida">우린</ana>
+			</w>
+			<w translit="neul">
+				<ana lex="늘다" gr="A" transl="увеличиваться, расти, удлиняться" lex_translit="neulda">늘</ana>
+			</w>
+			<w translit="kkeut">
+				<ana lex="끝" gr="S" transl="конец" lex_translit="kkeut">끝</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="boneungeonji">
+				<ana lex="보다" gr="V,partcp" transl="смотреть" lex_translit="boda">보는건지</ana>
+			</w>
+		</se>
+		<se lang="rus">Почему мы всегда видим только конец?
+		</se>
+	</para>
+	<para id="9002">
+		<se lang="kor" has_translit="true">
+			<w translit="dasin">
+				<ana lex="다신" gr="S" transl="; политеизм; многобожие" lex_translit="dasin">다신</ana>
+			</w>
+			<w translit="an">
+				<ana lex="안" gr="S" transl="внутренняя часть; в пределах" lex_translit="an">안</ana>
+			</w>
+			<w translit="bol">
+				<ana lex="볼" gr="S" transl="щека" lex_translit="bol">볼</ana>
+			</w>
+			<w translit="saram">
+				<ana lex="사람" gr="S" transl="человек" lex_translit="saram">사람</ana>
+			</w>
+			<w translit="cheoreom">
+				<ana lex="처럼" gr="PART" transl="" lex_translit="cheoreom">처럼</ana>
+			</w>
+			<w translit="marya">
+				<ana lex="말야" gr="S" transl="" lex_translit="marya">말야</ana>
+			</w>
+		</se>
+		<se lang="rus">Как кто-то, кого ты больше никогда не увидишь
+		</se>
+	</para>
+	<para id="9004">
+		<se lang="kor" has_translit="true">
+			<w translit="geuraedo">
+				<ana lex="그리하다" gr="V,ger" transl="; делать так" lex_translit="geurihada">그래도</ana>
+			</w>
+			<w translit="neo">
+				<ana lex="널다" gr="V" transl="развешивать, вешать" lex_translit="neolda">너</ana>
+			</w>
+			<w translit="eopsin">
+				<ana lex="없이다" gr="V,partcp" transl="" lex_translit="eopsida">없인</ana>
+			</w>
+			<w translit="andoel">
+				<ana lex="안다" gr="V,partcp" transl="обнимать" lex_translit="anda">안될</ana>
+			</w>
+			<w translit="geot">
+				<ana lex="것" gr="S,aux" transl="вещь" lex_translit="geot">것</ana>
+			</w>
+			<w translit="gata">
+				<ana lex="같다" gr="V,ger" transl="одинаковый" lex_translit="gatda">같아</ana>
+			</w>
+		</se>
+		<se lang="rus">Но я не думаю, что сделаю это без тебя
+		</se>
+	</para></xml>
