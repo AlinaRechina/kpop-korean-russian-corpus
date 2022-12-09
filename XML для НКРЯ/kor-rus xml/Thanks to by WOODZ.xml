@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<para id="1001">
+		<se lang="kor" has_translit="true">
+			<w translit="nappeun">
+				<ana lex="나쁘다" gr="A,partcp" transl="плохой, худой, слабый, неприятный" lex_translit="nappeuda">나쁜</ana>
+			</w>
+			<w translit="gieogeun">
+				<ana lex="기억은" gr="S" transl="" lex_translit="gieogeun">기억은</ana>
+			</w>
+			<w translit="jeobeodugo">
+				<ana lex="접다" gr="V,ger" transl="складывать" lex_translit="jeopda">접어두고</ana>
+			</w>
+		</se>
+		<se lang="rus">Забудь о плохих воспоминаниях
+		</se>
+	</para>
+	<para id="1002">
+		<se lang="kor" has_translit="true">
+			<w translit="haengbokhan">
+				<ana lex="행복다" gr="V,partcp" transl="" lex_translit="haengbokda">행복한</ana>
+			</w>
+			<w translit="jigeum">
+				<ana lex="지금" gr="S" transl="сейчас; теперь; настоящее (время); сейчас; сейчас; в это время; в настоящем (времени); теперь; до сих пор" lex_translit="jigeum">지금</ana>
+			</w>
+			<w translit="idae">
+				<ana lex="이대" gr="S" transl="так, как есть; также; похоже; таким же образом; подносить; подставлять; приставлять; набрасываться; нападать" lex_translit="idae">이대</ana>
+			</w>
+			<w translit="ro">
+				<ana lex="로" gr="PART" transl="" lex_translit="ro">로</ana>
+			</w>
+			<w translit="man">
+				<ana lex="만" gr="PART" transl="" lex_translit="man">만</ana>
+			</w>
+		</se>
+		<se lang="rus">Будь счастлива как и сейчас
+		</se>
+	</para>
+	<para id="2004">
+		<se lang="kor" has_translit="true">
+			<w translit="ege">
+				<ana lex="에게" gr="PART" transl="" lex_translit="ege">에게</ana>
+			</w>
+		</se>
+		<se lang="rus">Для тебя
+		</se>
+	</para>
+	<para id="3002">
+		<se lang="kor" has_translit="true">
+			<w translit="gieokhae">
+				<ana lex="기억다" gr="V" transl="" lex_translit="gieokda">기억해</ana>
+			</w>
+			<w translit="neowa">
+				<ana lex="너와" gr="S" transl="нова; новаджип; " lex_translit="neowa">너와</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="modeun">
+				<ana lex="모든다" gr="A" transl="" lex_translit="modeunda">모든</ana>
+			</w>
+			<w translit="sungan">
+				<ana lex="순간" gr="S" transl="мгновение; миг; секунда; момент; момент; постоянно; непрерывно; каждый миг; постоянно; мгновенный; мимолётный; мгновенный; мимолётный; один момент; миг; мгновение" lex_translit="sungan">순간</ana>
+			</w>
+		</se>
+		<se lang="rus">Спасибо за твою любовь, за каждый благоухающий момент
+		</se>
+	</para>
+	<para id="4001">
+		<se lang="kor" has_translit="true">
+			<w translit="nappeun">
+				<ana lex="나쁘다" gr="A,partcp" transl="плохой, худой, слабый, неприятный" lex_translit="nappeuda">나쁜</ana>
+			</w>
+			<w translit="gieogeun">
+				<ana lex="기억은" gr="S" transl="" lex_translit="gieogeun">기억은</ana>
+			</w>
+			<w translit="jeobeodugo">
+				<ana lex="접다" gr="V,ger" transl="складывать" lex_translit="jeopda">접어두고</ana>
+			</w>
+		</se>
+		<se lang="rus">Забудь о плохих воспоминаниях
+		</se>
+	</para>
+	<para id="4002">
+		<se lang="kor" has_translit="true">
+			<w translit="haengbokhan">
+				<ana lex="행복다" gr="V,partcp" transl="" lex_translit="haengbokda">행복한</ana>
+			</w>
+			<w translit="jigeum">
+				<ana lex="지금" gr="S" transl="сейчас; теперь; настоящее (время); сейчас; сейчас; в это время; в настоящем (времени); теперь; до сих пор" lex_translit="jigeum">지금</ana>
+			</w>
+			<w translit="idae">
+				<ana lex="이대" gr="S" transl="так, как есть; также; похоже; таким же образом; подносить; подставлять; приставлять; набрасываться; нападать" lex_translit="idae">이대</ana>
+			</w>
+			<w translit="ro">
+				<ana lex="로" gr="PART" transl="" lex_translit="ro">로</ana>
+			</w>
+			<w translit="man">
+				<ana lex="만" gr="PART" transl="" lex_translit="man">만</ana>
+			</w>
+		</se>
+		<se lang="rus">Будь счастлива как и сейчас
+		</se>
+	</para>
+	<para id="5004">
+		<se lang="kor" has_translit="true">
+			<w translit="ege">
+				<ana lex="에게" gr="PART" transl="" lex_translit="ege">에게</ana>
+			</w>
+		</se>
+		<se lang="rus">Для тебя
+		</se>
+	</para>
+	<para id="6001">
+		<se lang="kor" has_translit="true">
+			<w translit="geu">
+				<ana lex="그다" gr="A" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">그</ana>
+			</w>
+			<w translit="boda">
+				<ana lex="보다" gr="PART" transl="" lex_translit="boda">보다</ana>
+			</w>
+			<w translit="areumdawotdeon">
+				<ana lex="아름답다" gr="A" transl="красивый, прекрасный" lex_translit="areumdapda">아름다웠던</ana>
+			</w>
+		</se>
+		<se lang="rus">Это самое прекрасное, чем что-либо другое на свете
+		</se>
+	</para>
+	<para id="6002">
+		<se lang="kor" has_translit="true">
+			<w translit="geu">
+				<ana lex="그다" gr="A" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">그</ana>
+			</w>
+			<w translit="boda">
+				<ana lex="보다" gr="PART" transl="" lex_translit="boda">보다</ana>
+			</w>
+			<w translit="hyanggirowotdeon">
+				<ana lex="향기다" gr="V,partcp" transl="" lex_translit="hyanggida">향기로웠던</ana>
+			</w>
+		</se>
+		<se lang="rus">Это самое благоухающее, чем что-либо другое на свете
+		</se>
+	</para>
+	<para id="6003">
+		<se lang="kor" has_translit="true">
+			<w translit="modeun">
+				<ana lex="모든다" gr="A" transl="" lex_translit="modeunda">모든</ana>
+			</w>
+			<w translit="sungan">
+				<ana lex="순간" gr="S" transl="мгновение; миг; секунда; момент; момент; постоянно; непрерывно; каждый миг; постоянно; мгновенный; мимолётный; мгновенный; мимолётный; один момент; миг; мгновение" lex_translit="sungan">순간</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="nan">
+				<ana lex="난" gr="S" transl="столбец, колонка; бунт, мятеж" lex_translit="nan">난</ana>
+			</w>
+			<w translit="gieokhanikka">
+				<ana lex="기억" gr="" transl="" lex_translit="gieok">기억하니까</ana>
+			</w>
+		</se>
+		<se lang="rus">Ибо я держу в памяти каждый миг
+		</se>
+	</para>
+	<para id="6004">
+		<se lang="kor" has_translit="true">
+			<w translit="urin">
+				<ana lex="우리다" gr="V,partcp" transl="вымачивать; делать вытяжку; вымогать; конфисковать" lex_translit="urida">우린</ana>
+			</w>
+			<w translit="jigeum">
+				<ana lex="지금" gr="S" transl="сейчас; теперь; настоящее (время); сейчас; сейчас; в это время; в настоящем (времени); теперь; до сих пор" lex_translit="jigeum">지금</ana>
+			</w>
+			<w translit="cheoreom">
+				<ana lex="처럼" gr="PART" transl="" lex_translit="cheoreom">처럼</ana>
+			</w>
+			<w translit="idae">
+				<ana lex="이대" gr="S" transl="так, как есть; также; похоже; таким же образом; подносить; подставлять; приставлять; набрасываться; нападать" lex_translit="idae">이대</ana>
+			</w>
+			<w translit="ro">
+				<ana lex="로" gr="PART" transl="" lex_translit="ro">로</ana>
+			</w>
+			<w translit="man">
+				<ana lex="만" gr="PART" transl="" lex_translit="man">만</ana>
+			</w>
+		</se>
+		<se lang="rus">Мы такие, какие мы есть сейчас
+		</se>
+	</para>
+	<para id="7004">
+		<se lang="kor" has_translit="true">
+			<w translit="ege">
+				<ana lex="에게" gr="PART" transl="" lex_translit="ege">에게</ana>
+			</w>
+		</se>
+		<se lang="rus">Для тебя
+		</se>
+	</para></xml>

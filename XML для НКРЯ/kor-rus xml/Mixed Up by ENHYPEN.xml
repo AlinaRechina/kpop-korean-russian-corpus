@@ -1,0 +1,860 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<para id="1">
+		<se lang="kor" has_translit="true">
+			<w translit="nal">
+				<ana lex="날" gr="S" transl="день, сутки, лезвие, острие, сырой, незрелый" lex_translit="nal">날</ana>
+			</w>
+			<w translit="gaman">
+				<ana lex="가만" gr="ADV" transl="тихо; молча; спокойно; неподвижно; не шелохнувшись; безучастно; равнодушно; как есть; спокойно; внимательно; постой(те); подожди(те); погоди(те); минуточку; тихо-тихо; украдкой; потихоньку; тайком; оставаться спокойным; быть неподвижным; быть безмолвным; бездействовать; оставаться безучастным; тихо подожди немного минутку; спокойно; тихо; безмолвно; неподвижно; бесшумно; безучастно; равнодушно; как есть; спокойно; внимательно; хладнокровно; тихо; украдкой; тихонько; незаметно; тихо-тихо; украдкой; потихоньку; тайком; оставлять; не трогать; не вмешиваться; оставлять в покое; чёрный; темный; отдалённый; вдалеке; несведущий; напрочь (забыть); несметный, бесчисленный; уйма, тьма" lex_translit="gaman">가만</ana>
+			</w>
+			<w translit="mot">
+				<ana lex="못" gr="S" transl="гвоздь; водоем, пруд; мозоль" lex_translit="mot">못</ana>
+			</w>
+			<w translit="duji">
+				<ana lex="두지" gr="S" transl="; руководство" lex_translit="duji">두지</ana>
+			</w>
+		</se>
+		<se lang="rus">Надоедают мне
+		</se>
+	</para>
+	<para id="2">
+		<se lang="kor" has_translit="true">
+			<w translit="mak">
+				<ana lex="막" gr="S" transl="палатка, шалаш, занавес; только что" lex_translit="mak">막</ana>
+			</w>
+			<w translit="sikkeureopge">
+				<ana lex="시끄럽" gr="ADV" transl="; шумный" lex_translit="sikkeureop">시끄럽게</ana>
+			</w>
+			<w translit="ulrin">
+				<ana lex="울리다" gr="V,partcp" transl="звучать, раздаваться (звук); заставлять плакать" lex_translit="ulrida">울린</ana>
+			</w>
+			<w translit="alrimeum">
+				<ana lex="알" gr="S" transl="яйцо; зерно; ядро; лампочка; штука; знать; уметь; касаться; понятно; я понял; знать; быть знакомым; давать знать; ставить в известность; уведомлять; сообщать; извещать; подходящий; соответствующий; выяснять; узнавать; узнать; распознавать; узнавать; распознавать; узнавать; признавать; узнавать; аллергия; становиться известным" lex_translit="al">알림음</ana>
+			</w>
+		</se>
+		<se lang="rus">Шумные уведомлений звуки
+		</se>
+	</para>
+	<para id="3">
+		<se lang="kor" has_translit="true">
+			<w translit="goyohagil">
+				<ana lex="고요" gr="S" transl="тишина" lex_translit="goyo">고요하길</ana>
+			</w>
+			<w translit="baran">
+				<ana lex="바라다" gr="V,partcp" transl="надеяться, желать" lex_translit="barada">바란</ana>
+			</w>
+			<w translit="sesang">
+				<ana lex="세상" gr="S" transl="мир, свет" lex_translit="sesang">세상</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+		</se>
+		<se lang="rus">Я желал мир, полный тишины
+		</se>
+	</para>
+	<para id="5">
+		<se lang="kor" has_translit="true">
+			<w translit="yodongchyeo">
+				<ana lex="요동치다" gr="V" transl="колебаться; вибрировать; трястись; колебаться" lex_translit="yodongchida">요동쳐</ana>
+			</w>
+			<w translit="dasi">
+				<ana lex="다시" gr="ADV" transl="снова, опять, вновь, еще раз" lex_translit="dasi">다시</ana>
+			</w>
+			<w translit="yodongchyeo">
+				<ana lex="요동치다" gr="V" transl="колебаться; вибрировать; трястись; колебаться" lex_translit="yodongchida">요동쳐</ana>
+			</w>
+			<w translit="dasi">
+				<ana lex="다시" gr="ADV" transl="снова, опять, вновь, еще раз" lex_translit="dasi">다시</ana>
+			</w>
+		</se>
+		<se lang="rus">Снова звук вибрации (снова звук)
+		</se>
+	</para>
+	<para id="1001">
+		<se lang="kor" has_translit="true">
+			<w translit="jageukjeogin">
+				<ana lex="자극적다" gr="V,partcp" transl="" lex_translit="jageukjeokda">자극적인</ana>
+			</w>
+			<w translit="gasip">
+				<ana lex="가시다" gr="V" transl="исчезать; уходить; проходить; переставать; полоскать; ополаскивать; промывать; умирать, возвращаться на небо; занудный; надоедливый" lex_translit="gasida">가십</ana>
+			</w>
+			<w translit="juingong">
+				<ana lex="주인공" gr="S" transl="героиня (фильма, книги)" lex_translit="juingong">주인공</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="dwae">
+				<ana lex="되다" gr="A" transl="становиться, превращаться" lex_translit="doeda">돼</ana>
+			</w>
+			<w translit="nan">
+				<ana lex="난" gr="S" transl="столбец, колонка; бунт, мятеж" lex_translit="nan">난</ana>
+			</w>
+		</se>
+		<se lang="rus">Как стал главным героем провокационных сплетен
+		</se>
+	</para>
+	<para id="1003">
+		<se lang="kor" has_translit="true">
+			<w translit="tteugeowo">
+				<ana lex="뜨겁다" gr="A" transl="горячий, жаркий" lex_translit="tteugeopda">뜨거워</ana>
+			</w>
+			<w translit="bulbuteun">
+				<ana lex="불붙다" gr="V,partcp" transl="загораться; воспламениться; зажечься; разгореться" lex_translit="bulbutda">불붙은</ana>
+			</w>
+			<w translit="diem">
+				<ana lex="디엠" gr="S" transl="" lex_translit="diem">디엠</ana>
+			</w>
+		</se>
+		<se lang="rus">Моя личка уже горит
+		</se>
+	</para>
+	<para id="1004">
+		<se lang="kor" has_translit="true">
+			<w translit="jigyeowo">
+				<ana lex="지겹다" gr="A" transl="; скучный; безысходный" lex_translit="jigyeopda">지겨워</ana>
+			</w>
+			<w translit="ireon">
+				<ana lex="이런다" gr="A" transl="" lex_translit="ireonda">이런</ana>
+			</w>
+			<w translit="yumyeongse">
+				<ana lex="유명세" gr="S" transl="; плата за славу" lex_translit="yumyeongse">유명세</ana>
+			</w>
+		</se>
+		<se lang="rus">Устал от такой славы
+		</se>
+	</para>
+	<para id="2001">
+		<se lang="kor" has_translit="true">
+			<w translit="geunde">
+				<ana lex="근데" gr="ADV" transl="кстати; однако; но; а ты знаешь; слушай; кстати" lex_translit="geunde">근데</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="da">
+				<ana lex="다" gr="S" transl="все; всё; всё; всё; все; почти; совсем; на удивление; бесполезно; впустую; без пользы; зря; всё; сходить; съездить" lex_translit="da">다</ana>
+			</w>
+			<w translit="mwoya">
+				<ana lex="뭐야" gr="PRO" transl="" lex_translit="mwoya">뭐야</ana>
+			</w>
+		</se>
+		<se lang="rus">Но что это всё такое
+		</se>
+	</para>
+	<para id="2002">
+		<se lang="kor" has_translit="true">
+			<w translit="mal">
+				<ana lex="말" gr="S" transl="лошадь, конь; слово, речь, язык; конец" lex_translit="mal">말</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="dwae">
+				<ana lex="되다" gr="A" transl="становиться, превращаться" lex_translit="doeda">돼</ana>
+			</w>
+			<w translit="mariya">
+				<ana lex="말이야" gr="S" transl="" lex_translit="mariya">말이야</ana>
+			</w>
+		</se>
+		<se lang="rus">Имеет ли это смысл
+		</se>
+	</para>
+	<para id="2003">
+		<se lang="kor" has_translit="true">
+			<w translit="nal">
+				<ana lex="날" gr="S" transl="день, сутки, лезвие, острие, сырой, незрелый" lex_translit="nal">날</ana>
+			</w>
+			<w translit="hyanghan">
+				<ana lex="향다" gr="V,partcp" transl="" lex_translit="hyangda">향한</ana>
+			</w>
+			<w translit="galjeungdeul">
+				<ana lex="갈증" gr="S" transl="жажда; страстное желание; тяга к чему" lex_translit="galjeung">갈증들</ana>
+			</w>
+		</se>
+		<se lang="rus">Меня настигла жажда
+		</se>
+	</para>
+	<para id="2004">
+		<se lang="kor" has_translit="true">
+			<w translit="mundeuk">
+				<ana lex="문득" gr="ADV" transl="вдруг; неожиданно; внезапно; вдруг; неожиданно; внезапно; вдруг; круто" lex_translit="mundeuk">문득</ana>
+			</w>
+			<w translit="nun">
+				<ana lex="눈" gr="S" transl="глаза; снег; почка, побег, росток" lex_translit="nun">눈</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="tteoboni">
+				<ana lex="떠보다" gr="V,ger" transl="; прощупывать; разузнавать" lex_translit="tteoboda">떠보니</ana>
+			</w>
+		</se>
+		<se lang="rus">Я вдруг открыл глаза
+		</se>
+	</para>
+	<para id="3002">
+		<se lang="kor" has_translit="true">
+			<w translit="sesang">
+				<ana lex="세상" gr="S" transl="мир, свет" lex_translit="sesang">세상</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="byeorangan">
+				<ana lex="별안간" gr="S" transl="; миг; мгновение" lex_translit="byeorangan">별안간</ana>
+			</w>
+		</se>
+		<se lang="rus">Мир внезапно
+		</se>
+	</para>
+	<para id="3003">
+		<se lang="kor" has_translit="true">
+			<w translit="dwijiphyeosseo">
+				<ana lex="뒤집히다" gr="V" transl="Вывернуться; перевернуться; Поменяться местами; перевернуться полностью; Переворачиваться; перекоситься; Переворачиваться; стоять на ушах; находиться в беспорядке; Выкатиться (о глазах); залезть на лоб" lex_translit="dwijiphida">뒤집혔어</ana>
+			</w>
+			<w translit="balkak">
+				<ana lex="발칵" gr="ADV" transl="внезапно; резко; вверх дном; беспорядочно; хаотично; резко" lex_translit="balkak">발칵</ana>
+			</w>
+		</se>
+		<se lang="rus">Перевернулся
+		</se>
+	</para>
+	<para id="4002">
+		<se lang="kor" has_translit="true">
+			<w translit="nae">
+				<ana lex="내" gr="S" transl="я, мой, моя, мое; речка, ручей; запах, аромат" lex_translit="nae">내</ana>
+			</w>
+			<w translit="yaegiman">
+				<ana lex="얘기만" gr="S" transl="" lex_translit="yaegiman">얘기만</ana>
+			</w>
+			<w translit="hae">
+				<ana lex="해" gr="S" transl="солнце; год; море; ущерб, вред" lex_translit="hae">해</ana>
+			</w>
+			<w translit="da">
+				<ana lex="다" gr="S" transl="все; всё; всё; всё; все; почти; совсем; на удивление; бесполезно; впустую; без пользы; зря; всё; сходить; съездить" lex_translit="da">다</ana>
+			</w>
+		</se>
+		<se lang="rus">Все говорят про меня
+		</se>
+	</para>
+	<para id="4003">
+		<se lang="kor" has_translit="true">
+			<w translit="geurae">
+				<ana lex="그리하다" gr="V,ger" transl="; делать так" lex_translit="geurihada">그래</ana>
+			</w>
+			<w translit="narago">
+				<ana lex="나라" gr="S" transl="страна, государство" lex_translit="nara">나라고</ana>
+			</w>
+		</se>
+		<se lang="rus">Да, про меня
+		</se>
+	</para>
+	<para id="5001">
+		<se lang="kor" has_translit="true">
+			<w translit="nado">
+				<ana lex="나돌다" gr="V" transl="бродить; распространяться" lex_translit="nadolda">나도</ana>
+			</w>
+			<w translit="moreuge">
+				<ana lex="모르" gr="ADV" transl="не знать; не понимать; не уметь; не знать; не знать; не замечать; не знать; не иметь представления; не представлять; не знать; не уметь; не знать; не понимать; не замечать; морфий; тайный; скрытый; невидимый; неизвестный; не понимать; не вникать; не осознавать; быть ребёнком; быть бездумным; быть неразумным" lex_translit="moreu">모르게</ana>
+			</w>
+			<w translit="juingong">
+				<ana lex="주인공" gr="S" transl="героиня (фильма, книги)" lex_translit="juingong">주인공</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="doen">
+				<ana lex="되다" gr="A,partcp" transl="становиться, превращаться" lex_translit="doeda">된</ana>
+			</w>
+			<w translit="gasip">
+				<ana lex="가시다" gr="V" transl="исчезать; уходить; проходить; переставать; полоскать; ополаскивать; промывать; умирать, возвращаться на небо; занудный; надоедливый" lex_translit="gasida">가십</ana>
+			</w>
+			<w translit="gasip">
+				<ana lex="가시다" gr="V" transl="исчезать; уходить; проходить; переставать; полоскать; ополаскивать; промывать; умирать, возвращаться на небо; занудный; надоедливый" lex_translit="gasida">가십</ana>
+			</w>
+		</se>
+		<se lang="rus">Я внезапно стал главным героем сплетен, сплетен
+		</se>
+	</para>
+	<para id="6001">
+		<se lang="kor" has_translit="true">
+			<w translit="hanbatang">
+				<ana lex="한바탕" gr="ADV" transl="; порядочно" lex_translit="hanbatang">한바탕</ana>
+			</w>
+			<w translit="tto">
+				<ana lex="또" gr="ADV" transl="снова, опять, и, еще, еще раз" lex_translit="tto">또</ana>
+			</w>
+			<w translit="morachyeo">
+				<ana lex="몰아치다" gr="V" transl="сгонять, мести, упрекать, порицать" lex_translit="morachida">몰아쳐</ana>
+			</w>
+			<w translit="sikkeureoun">
+				<ana lex="시끄럽다" gr="A,partcp" transl="шумный" lex_translit="sikkeureopda">시끄러운</ana>
+			</w>
+			<w translit="taepung">
+				<ana lex="태풍" gr="S" transl="; тайфун" lex_translit="taepung">태풍</ana>
+			</w>
+			<w translit="sok">
+				<ana lex="속" gr="S" transl="внутренняя часть, содержание, намерение" lex_translit="sok">속</ana>
+			</w>
+		</se>
+		<se lang="rus">В окружающем меня шумном тайфуне
+		</se>
+	</para>
+	<para id="6002">
+		<se lang="kor" has_translit="true">
+			<w translit="na">
+				<ana lex="나" gr="S" transl="я; " lex_translit="na">나</ana>
+			</w>
+			<w translit="honjaman">
+				<ana lex="혼자만" gr="S" transl="" lex_translit="honjaman">혼자만</ana>
+			</w>
+			<w translit="goyohal">
+				<ana lex="고요다" gr="V,partcp" transl="" lex_translit="goyoda">고요할</ana>
+			</w>
+			<w translit="ppun">
+				<ana lex="뿔다" gr="V,partcp" transl="" lex_translit="ppulda">뿐</ana>
+			</w>
+		</se>
+		<se lang="rus">Спокоен лишь я один
+		</se>
+	</para>
+	<para id="6003">
+		<se lang="kor" has_translit="true">
+			<w translit="uimi">
+				<ana lex="의미" gr="S" transl="значение" lex_translit="uimi">의미</ana>
+			</w>
+			<w translit="eopneun">
+				<ana lex="없다" gr="A,partcp" transl="не быть, не иметь, отсутствовать" lex_translit="eopda">없는</ana>
+			</w>
+			<w translit="daneo">
+				<ana lex="단어" gr="S" transl="слово" lex_translit="daneo">단어</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="buri">
+				<ana lex="불이" gr="S" transl="невыгода; невыполнение; несоблюдение; не притворять в жизнь; светляк; светлячок" lex_translit="buri">불이</ana>
+			</w>
+			<w translit="buteo">
+				<ana lex="붙다" gr="V,ger" transl="прилипать, приклеиваться" lex_translit="butda">붙어</ana>
+			</w>
+			<w translit="beonjyeoga">
+				<ana lex="번지다" gr="V" transl="растекаться; распространяться; распространяться; расходиться" lex_translit="beonjida">번져가</ana>
+			</w>
+		</se>
+		<se lang="rus">Огонь охватывает всё больше бессмысленных слов
+		</se>
+	</para>
+	<para id="6004">
+		<se lang="kor" has_translit="true">
+			<w translit="geotjabeul">
+				<ana lex="걷잡을" gr="S" transl="" lex_translit="geotjabeul">걷잡을</ana>
+			</w>
+			<w translit="su">
+				<ana lex="수" gr="S" transl="число; среда; мужской род; ход; некоторое количество; немного; горсть (чего-либо); способ; средство; возможность; вероятность; отличная оценка; самая высшая отметка;  баллов" lex_translit="su">수</ana>
+			</w>
+			<w translit="eopseojyeo">
+				<ana lex="없" gr="A,ger" transl="" lex_translit="eop">없어져</ana>
+			</w>
+			<w translit="eopseo">
+				<ana lex="없" gr="A,ger" transl="" lex_translit="eop">없어</ana>
+			</w>
+			<w translit="deo">
+				<ana lex="더" gr="S" transl="еще, более" lex_translit="deo">더</ana>
+			</w>
+		</se>
+		<se lang="rus">И его уже не остановить (поздно)
+		</se>
+	</para>
+	<para id="7001">
+		<se lang="kor" has_translit="true">
+			<w translit="nae">
+				<ana lex="내" gr="S" transl="я, мой, моя, мое; речка, ручей; запах, аромат" lex_translit="nae">내</ana>
+			</w>
+			<w translit="mamdaero">
+				<ana lex="맘대로" gr="ADV" transl="; по своему желанию" lex_translit="mamdaero">맘대로</ana>
+			</w>
+			<w translit="andwae">
+				<ana lex="안되다" gr="V" transl="жалкий; растроенный; нехороший (цвет лица); быть предусмотренным; быть учтённым; быть изобретённым; бережно храниться; храниться; сохраняться; утешаться" lex_translit="andoeda">안돼</ana>
+			</w>
+		</se>
+		<se lang="rus">Не могу сделать по-своему
+		</se>
+	</para>
+	<para id="7004">
+		<se lang="kor" has_translit="true">
+			<w translit="gamanhi">
+				<ana lex="가만히" gr="ADV" transl="спокойно; тихо; безмолвно; неподвижно; бесшумно; безучастно; равнодушно; как есть; спокойно; внимательно; хладнокровно; тихо; украдкой; тихонько; незаметно; тихо-тихо; украдкой; потихоньку; тайком" lex_translit="gamanhi">가만히</ana>
+			</w>
+			<w translit="isseodo">
+				<ana lex="있다" gr="V,ger" transl="быть, иметься, находиться" lex_translit="itda">있어도</ana>
+			</w>
+			<w translit="naege">
+				<ana lex="내" gr="ADV" transl="я, мой, моя, мое; речка, ручей; запах, аромат" lex_translit="nae">내게</ana>
+			</w>
+		</se>
+		<se lang="rus">Даже если я стою на месте,
+		</se>
+	</para>
+	<para id="7005">
+		<se lang="kor" has_translit="true">
+			<w translit="jilmun">
+				<ana lex="질문" gr="S" transl="вопрос" lex_translit="jilmun">질문</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="ieojyeo">
+				<ana lex="이어지다" gr="V" transl="продолжаться; влечь за собой; передаться (из поколения в поколение)" lex_translit="ieojida">이어져</ana>
+			</w>
+			<w translit="machi">
+				<ana lex="마치" gr="ADV" transl="точно, словно, как будто" lex_translit="machi">마치</ana>
+			</w>
+		</se>
+		<se lang="rus">Продолжающимся вопросам
+		</se>
+	</para>
+	<para id="7006">
+		<se lang="kor" has_translit="true">
+			<w translit="kkeutiran">
+				<ana lex="끝이란" gr="S" transl="" lex_translit="kkeutiran">끝이란</ana>
+			</w>
+			<w translit="eopseo">
+				<ana lex="없" gr="A,ger" transl="" lex_translit="eop">없어</ana>
+			</w>
+			<w translit="boyeo">
+				<ana lex="보이다" gr="V" transl="видно, виднеться" lex_translit="boida">보여</ana>
+			</w>
+		</se>
+		<se lang="rus">Будто нет конца
+		</se>
+	</para>
+	<para id="8001">
+		<se lang="kor" has_translit="true">
+			<w translit="hanjjok">
+				<ana lex="한쪽" gr="S" transl="; одна сторона" lex_translit="hanjjok">한쪽</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="man">
+				<ana lex="만" gr="PART" transl="" lex_translit="man">만</ana>
+			</w>
+			<w translit="doldeon">
+				<ana lex="돌다" gr="V" transl="вращаться; обходить; поворачиваться" lex_translit="dolda">돌던</ana>
+			</w>
+		</se>
+		<se lang="rus">Всё внимание на меня
+		</se>
+	</para>
+	<para id="8002">
+		<se lang="kor" has_translit="true">
+			<w translit="ilsangeun">
+				<ana lex="일상은" gr="S" transl="" lex_translit="ilsangeun">일상은</ana>
+			</w>
+			<w translit="eopseo">
+				<ana lex="없" gr="A,ger" transl="" lex_translit="eop">없어</ana>
+			</w>
+		</se>
+		<se lang="rus">Нет повседневной жизни
+		</se>
+	</para>
+	<para id="8003">
+		<se lang="kor" has_translit="true">
+			<w translit="byeorangan">
+				<ana lex="별안간" gr="S" transl="; миг; мгновение" lex_translit="byeorangan">별안간</ana>
+			</w>
+			<w translit="dwijiphyeo">
+				<ana lex="뒤집히다" gr="V" transl="Вывернуться; перевернуться; Поменяться местами; перевернуться полностью; Переворачиваться; перекоситься; Переворачиваться; стоять на ушах; находиться в беспорядке; Выкатиться (о глазах); залезть на лоб" lex_translit="dwijiphida">뒤집혀</ana>
+			</w>
+			<w translit="modeun">
+				<ana lex="모든다" gr="A" transl="" lex_translit="modeunda">모든</ana>
+			</w>
+			<w translit="ge">
+				<ana lex="게" gr="S" transl="краб" lex_translit="ge">게</ana>
+			</w>
+			<w translit="dwijiphyeo">
+				<ana lex="뒤집히다" gr="V" transl="Вывернуться; перевернуться; Поменяться местами; перевернуться полностью; Переворачиваться; перекоситься; Переворачиваться; стоять на ушах; находиться в беспорядке; Выкатиться (о глазах); залезть на лоб" lex_translit="dwijiphida">뒤집혀</ana>
+			</w>
+		</se>
+		<se lang="rus">Внезапно всё перевернулось (перевернулось)
+		</se>
+	</para>
+	<para id="8004">
+		<se lang="kor" has_translit="true">
+			<w translit="gyeonggye">
+				<ana lex="경계" gr="S" transl="граница; рубеж; предостережение, предупреждение; осторожность; сигнал тревоги; оповещение об угрозе; пограничная линия; бдительность; настороженность; предостерегать; предупреждать; нервная система" lex_translit="gyeonggye">경계</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="chimbeomhaewatji">
+				<ana lex="침범다" gr="V" transl="" lex_translit="chimbeomda">침범해왔지</ana>
+			</w>
+		</se>
+		<se lang="rus">Пересечена черта
+		</se>
+	</para>
+	<para id="9002">
+		<se lang="kor" has_translit="true">
+			<w translit="sesang">
+				<ana lex="세상" gr="S" transl="мир, свет" lex_translit="sesang">세상</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="byeorangan">
+				<ana lex="별안간" gr="S" transl="; миг; мгновение" lex_translit="byeorangan">별안간</ana>
+			</w>
+		</se>
+		<se lang="rus">Мир внезапно
+		</se>
+	</para>
+	<para id="9003">
+		<se lang="kor" has_translit="true">
+			<w translit="dwijiphyeosseo">
+				<ana lex="뒤집히다" gr="V" transl="Вывернуться; перевернуться; Поменяться местами; перевернуться полностью; Переворачиваться; перекоситься; Переворачиваться; стоять на ушах; находиться в беспорядке; Выкатиться (о глазах); залезть на лоб" lex_translit="dwijiphida">뒤집혔어</ana>
+			</w>
+			<w translit="balkak">
+				<ana lex="발칵" gr="ADV" transl="внезапно; резко; вверх дном; беспорядочно; хаотично; резко" lex_translit="balkak">발칵</ana>
+			</w>
+		</se>
+		<se lang="rus">Перевернулся
+		</se>
+	</para>
+	<para id="10002">
+		<se lang="kor" has_translit="true">
+			<w translit="nae">
+				<ana lex="내" gr="S" transl="я, мой, моя, мое; речка, ручей; запах, аромат" lex_translit="nae">내</ana>
+			</w>
+			<w translit="yaegiman">
+				<ana lex="얘기만" gr="S" transl="" lex_translit="yaegiman">얘기만</ana>
+			</w>
+			<w translit="hae">
+				<ana lex="해" gr="S" transl="солнце; год; море; ущерб, вред" lex_translit="hae">해</ana>
+			</w>
+			<w translit="da">
+				<ana lex="다" gr="S" transl="все; всё; всё; всё; все; почти; совсем; на удивление; бесполезно; впустую; без пользы; зря; всё; сходить; съездить" lex_translit="da">다</ana>
+			</w>
+		</se>
+		<se lang="rus">Все говорят про меня
+		</se>
+	</para>
+	<para id="10003">
+		<se lang="kor" has_translit="true">
+			<w translit="geurae">
+				<ana lex="그리하다" gr="V,ger" transl="; делать так" lex_translit="geurihada">그래</ana>
+			</w>
+			<w translit="narago">
+				<ana lex="나라" gr="S" transl="страна, государство" lex_translit="nara">나라고</ana>
+			</w>
+		</se>
+		<se lang="rus">Да, про меня
+		</se>
+	</para>
+	<para id="10004">
+		<se lang="kor" has_translit="true">
+			<w translit="nado">
+				<ana lex="나돌다" gr="V" transl="бродить; распространяться" lex_translit="nadolda">나도</ana>
+			</w>
+			<w translit="moreuge">
+				<ana lex="모르" gr="ADV" transl="не знать; не понимать; не уметь; не знать; не знать; не замечать; не знать; не иметь представления; не представлять; не знать; не уметь; не знать; не понимать; не замечать; морфий; тайный; скрытый; невидимый; неизвестный; не понимать; не вникать; не осознавать; быть ребёнком; быть бездумным; быть неразумным" lex_translit="moreu">모르게</ana>
+			</w>
+			<w translit="juingong">
+				<ana lex="주인공" gr="S" transl="героиня (фильма, книги)" lex_translit="juingong">주인공</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="doen">
+				<ana lex="되다" gr="A,partcp" transl="становиться, превращаться" lex_translit="doeda">된</ana>
+			</w>
+			<w translit="gasip">
+				<ana lex="가시다" gr="V" transl="исчезать; уходить; проходить; переставать; полоскать; ополаскивать; промывать; умирать, возвращаться на небо; занудный; надоедливый" lex_translit="gasida">가십</ana>
+			</w>
+			<w translit="gasip">
+				<ana lex="가시다" gr="V" transl="исчезать; уходить; проходить; переставать; полоскать; ополаскивать; промывать; умирать, возвращаться на небо; занудный; надоедливый" lex_translit="gasida">가십</ana>
+			</w>
+		</se>
+		<se lang="rus">Я внезапно стал главным героем сплетен, сплетен
+		</se>
+	</para>
+	<para id="11001">
+		<se lang="kor" has_translit="true">
+			<w translit="eojireo">
+				<ana lex="어지러" gr="S" transl="не в себе; беспорядочно; добрый; любезный; мягкосердечный; милосердный" lex_translit="eojireo">어지러</ana>
+			</w>
+			<w translit="eojireowo">
+				<ana lex="어지럽다" gr="A" transl="кружиться" lex_translit="eojireopda">어지러워</ana>
+			</w>
+		</se>
+		<se lang="rus">Кругом голова, кругом
+		</se>
+	</para>
+	<para id="11002">
+		<se lang="kor" has_translit="true">
+			<w translit="sumgyeodo">
+				<ana lex="숨기다" gr="V,ger" transl="прятать, скрывать" lex_translit="sumgida">숨겨도</ana>
+			</w>
+			<w translit="sikkeureo">
+				<ana lex="시다" gr="V,ger" transl="кислый" lex_translit="sida">시끄러</ana>
+			</w>
+			<w translit="sikkeureowo">
+				<ana lex="시끄럽다" gr="A" transl="шумный" lex_translit="sikkeureopda">시끄러워</ana>
+			</w>
+			<w translit="amuri">
+				<ana lex="아무리" gr="ADV" transl="как бы ни, что бы ни" lex_translit="amuri">아무리</ana>
+			</w>
+			<w translit="sumeodo">
+				<ana lex="숨다" gr="V,ger" transl="прятаться, скрываться" lex_translit="sumda">숨어도</ana>
+			</w>
+		</se>
+		<se lang="rus">Прячусь, но шумно, так шумно (как бы ни прятался)
+		</se>
+	</para>
+	<para id="11003">
+		<se lang="kor" has_translit="true">
+			<w translit="eonjena">
+				<ana lex="언제나" gr="ADV" transl="всегда; без изменений; когда же; ну когда же; всегда" lex_translit="eonjena">언제나</ana>
+			</w>
+			<w translit="hwaje">
+				<ana lex="화제" gr="S" transl="название; заголовок; тема; кинофестиваль; республиканский строй" lex_translit="hwaje">화제</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="jungsim">
+				<ana lex="중심" gr="S" transl="середина, центр" lex_translit="jungsim">중심</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="seo">
+				<ana lex="서" gr="S" transl="запад; три; третий; в; там; на; где; от; с; из; в; от; также...как; словно; как; такой; контракт; письменное обещание; вставать; стоять; вставать; вставать (дыбом); подниматься; принимать решение; решить; становиться наточенным; заостряться; создаваться; формироваться; образовываться; приниматься; забеременеть; беременеть; появляться; показываться; проявляться; останавливаться; стоять; простаивать; выпрямляться; распрямляться; стоять; вставать; стоять; три-четыре" lex_translit="seo">서</ana>
+			</w>
+			<w translit="itneun">
+				<ana lex="있다" gr="V,partcp" transl="быть, иметься, находиться" lex_translit="itda">있는</ana>
+			</w>
+			<w translit="na">
+				<ana lex="나" gr="S" transl="я; " lex_translit="na">나</ana>
+			</w>
+		</se>
+		<se lang="rus">Я всегда в центре обсуждения
+		</se>
+	</para>
+	<para id="11004">
+		<se lang="kor" has_translit="true">
+			<w translit="byeorangan">
+				<ana lex="별안간" gr="S" transl="; миг; мгновение" lex_translit="byeorangan">별안간</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="S" transl="зуб" lex_translit="i">이</ana>
+			</w>
+			<w translit="sesang">
+				<ana lex="세상" gr="S" transl="мир, свет" lex_translit="sesang">세상</ana>
+			</w>
+			<w translit="gajang">
+				<ana lex="가장" gr="ADV" transl="глава семьи, хозяин дома; самый, наиболее" lex_translit="gajang">가장</ana>
+			</w>
+			<w translit="teukbyeolhan">
+				<ana lex="특별다" gr="V,partcp" transl="" lex_translit="teukbyeolda">특별한</ana>
+			</w>
+			<w translit="ingan">
+				<ana lex="인간" gr="S" transl="человек" lex_translit="ingan">인간</ana>
+			</w>
+			<w translit="summan">
+				<ana lex="숨만" gr="S" transl="; лес; роща" lex_translit="summan">숨만</ana>
+			</w>
+			<w translit="swieodo">
+				<ana lex="쉬다" gr="V,ger" transl="киснуть, прокиснуть; отдыхать" lex_translit="swida">쉬어도</ana>
+			</w>
+			<w translit="nan">
+				<ana lex="난" gr="S" transl="столбец, колонка; бунт, мятеж" lex_translit="nan">난</ana>
+			</w>
+		</se>
+		<se lang="rus">Внезапно я самый особенный человек в мире (даже просто дыша)
+		</se>
+	</para>
+	<para id="11005">
+		<se lang="kor" has_translit="true">
+			<w translit="eojireo">
+				<ana lex="어지러" gr="S" transl="не в себе; беспорядочно; добрый; любезный; мягкосердечный; милосердный" lex_translit="eojireo">어지러</ana>
+			</w>
+			<w translit="eojireowo">
+				<ana lex="어지럽다" gr="A" transl="кружиться" lex_translit="eojireopda">어지러워</ana>
+			</w>
+		</se>
+		<se lang="rus">Кругом голова, кругом
+		</se>
+	</para>
+	<para id="11006">
+		<se lang="kor" has_translit="true">
+			<w translit="gamchwodo">
+				<ana lex="감추다" gr="V,ger" transl="прятать" lex_translit="gamchuda">감춰도</ana>
+			</w>
+			<w translit="sikkeureo">
+				<ana lex="시다" gr="V,ger" transl="кислый" lex_translit="sida">시끄러</ana>
+			</w>
+			<w translit="sikkeureowo">
+				<ana lex="시끄럽다" gr="A" transl="шумный" lex_translit="sikkeureopda">시끄러워</ana>
+			</w>
+			<w translit="jeonbu">
+				<ana lex="전부" gr="S" transl="целиком, полностью" lex_translit="jeonbu">전부</ana>
+			</w>
+			<w translit="da">
+				<ana lex="다" gr="S" transl="все; всё; всё; всё; все; почти; совсем; на удивление; бесполезно; впустую; без пользы; зря; всё; сходить; съездить" lex_translit="da">다</ana>
+			</w>
+			<w translit="nae">
+				<ana lex="내" gr="S" transl="я, мой, моя, мое; речка, ручей; запах, аромат" lex_translit="nae">내</ana>
+			</w>
+			<w translit="tasiya">
+				<ana lex="탓이야" gr="S" transl="" lex_translit="tasiya">탓이야</ana>
+			</w>
+		</se>
+		<se lang="rus">Прячусь, но шумно, так шумно (это всё моя вина)
+		</se>
+	</para>
+	<para id="11007">
+		<se lang="kor" has_translit="true">
+			<w translit="dasi">
+				<ana lex="다시" gr="ADV" transl="снова, опять, вновь, еще раз" lex_translit="dasi">다시</ana>
+			</w>
+			<w translit="tto">
+				<ana lex="또" gr="ADV" transl="снова, опять, и, еще, еще раз" lex_translit="tto">또</ana>
+			</w>
+			<w translit="hwaje">
+				<ana lex="화제" gr="S" transl="название; заголовок; тема; кинофестиваль; республиканский строй" lex_translit="hwaje">화제</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="jungsim">
+				<ana lex="중심" gr="S" transl="середина, центр" lex_translit="jungsim">중심</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="seo">
+				<ana lex="서" gr="S" transl="запад; три; третий; в; там; на; где; от; с; из; в; от; также...как; словно; как; такой; контракт; письменное обещание; вставать; стоять; вставать; вставать (дыбом); подниматься; принимать решение; решить; становиться наточенным; заостряться; создаваться; формироваться; образовываться; приниматься; забеременеть; беременеть; появляться; показываться; проявляться; останавливаться; стоять; простаивать; выпрямляться; распрямляться; стоять; вставать; стоять; три-четыре" lex_translit="seo">서</ana>
+			</w>
+			<w translit="itneun">
+				<ana lex="있다" gr="V,partcp" transl="быть, иметься, находиться" lex_translit="itda">있는</ana>
+			</w>
+			<w translit="na">
+				<ana lex="나" gr="S" transl="я; " lex_translit="na">나</ana>
+			</w>
+		</se>
+		<se lang="rus">Я всегда в центре обсуждения
+		</se>
+	</para>
+	<para id="11008">
+		<se lang="kor" has_translit="true">
+			<w translit="geurae">
+				<ana lex="그리하다" gr="V,ger" transl="; делать так" lex_translit="geurihada">그래</ana>
+			</w>
+			<w translit="nan">
+				<ana lex="난" gr="S" transl="столбец, колонка; бунт, мятеж" lex_translit="nan">난</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="S" transl="зуб" lex_translit="i">이</ana>
+			</w>
+			<w translit="sesang">
+				<ana lex="세상" gr="S" transl="мир, свет" lex_translit="sesang">세상</ana>
+			</w>
+			<w translit="gajang">
+				<ana lex="가장" gr="ADV" transl="глава семьи, хозяин дома; самый, наиболее" lex_translit="gajang">가장</ana>
+			</w>
+			<w translit="teukbyeolhan">
+				<ana lex="특별다" gr="V,partcp" transl="" lex_translit="teukbyeolda">특별한</ana>
+			</w>
+			<w translit="ingan">
+				<ana lex="인간" gr="S" transl="человек" lex_translit="ingan">인간</ana>
+			</w>
+		</se>
+		<se lang="rus">Внезапно я самый особенный человек в мире
+		</se>
+	</para>
+	<para id="12002">
+		<se lang="kor" has_translit="true">
+			<w translit="sesang">
+				<ana lex="세상" gr="S" transl="мир, свет" lex_translit="sesang">세상</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="byeorangan">
+				<ana lex="별안간" gr="S" transl="; миг; мгновение" lex_translit="byeorangan">별안간</ana>
+			</w>
+		</se>
+		<se lang="rus">Внезапно мир
+		</se>
+	</para>
+	<para id="12003">
+		<se lang="kor" has_translit="true">
+			<w translit="dwijibeonwa">
+				<ana lex="뒤집다" gr="V,ger" transl="выворачивать наизнанку; переворачивать; менять местами; переставлять; срывать; расстраивать; нарушать; свергать; закатывать; низвергать; ниспровергать; опровергать; переворачивать вверх дном; выворачивать; всполошить; взбудоражить; закатывать; закатить; выворачивать; выложить всё как на духу; вытаращить" lex_translit="dwijipda">뒤집어놔</ana>
+			</w>
+			<w translit="balkak">
+				<ana lex="발칵" gr="ADV" transl="внезапно; резко; вверх дном; беспорядочно; хаотично; резко" lex_translit="balkak">발칵</ana>
+			</w>
+		</se>
+		<se lang="rus">Перевернулся
+		</se>
+	</para>
+	<para id="13002">
+		<se lang="kor" has_translit="true">
+			<w translit="boyeojulge">
+				<ana lex="보여주다" gr="V" transl="показывать" lex_translit="boyeojuda">보여줄게</ana>
+			</w>
+			<w translit="jal">
+				<ana lex="자다" gr="A,partcp" transl="спать, ночевать" lex_translit="jada">잘</ana>
+			</w>
+			<w translit="bwa">
+				<ana lex="보다" gr="V" transl="смотреть" lex_translit="boda">봐</ana>
+			</w>
+		</se>
+		<se lang="rus">Я покажу, смотри сюда
+		</se>
+	</para>
+	<para id="13003">
+		<se lang="kor" has_translit="true">
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="narago">
+				<ana lex="나라" gr="S" transl="страна, государство" lex_translit="nara">나라고</ana>
+			</w>
+		</se>
+		<se lang="rus">Это и есть я
+		</se>
+	</para>
+	<para id="14001">
+		<se lang="kor" has_translit="true">
+			<w translit="nado">
+				<ana lex="나돌다" gr="V" transl="бродить; распространяться" lex_translit="nadolda">나도</ana>
+			</w>
+			<w translit="moreuge">
+				<ana lex="모르" gr="ADV" transl="не знать; не понимать; не уметь; не знать; не знать; не замечать; не знать; не иметь представления; не представлять; не знать; не уметь; не знать; не понимать; не замечать; морфий; тайный; скрытый; невидимый; неизвестный; не понимать; не вникать; не осознавать; быть ребёнком; быть бездумным; быть неразумным" lex_translit="moreu">모르게</ana>
+			</w>
+			<w translit="juingong">
+				<ana lex="주인공" gr="S" transl="героиня (фильма, книги)" lex_translit="juingong">주인공</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="doen">
+				<ana lex="되다" gr="A,partcp" transl="становиться, превращаться" lex_translit="doeda">된</ana>
+			</w>
+			<w translit="gasip">
+				<ana lex="가시다" gr="V" transl="исчезать; уходить; проходить; переставать; полоскать; ополаскивать; промывать; умирать, возвращаться на небо; занудный; надоедливый" lex_translit="gasida">가십</ana>
+			</w>
+			<w translit="gasip">
+				<ana lex="가시다" gr="V" transl="исчезать; уходить; проходить; переставать; полоскать; ополаскивать; промывать; умирать, возвращаться на небо; занудный; надоедливый" lex_translit="gasida">가십</ana>
+			</w>
+		</se>
+		<se lang="rus">Я внезапно стал главным героем сплетен, сплетен
+		</se>
+	</para></xml>

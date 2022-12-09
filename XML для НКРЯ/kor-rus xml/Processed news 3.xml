@@ -1,0 +1,1876 @@
+<xml>
+	<para id="0">
+		<se lang="kor" has_translit="true">
+			<w translit="haemada">
+				<ana lex="해마다" gr="ADV" transl="; ежегодно" lex_translit="haemada">해마다</ana>
+			</w>
+			<w translit="imamttaeman">
+				<ana lex="이맘때만" gr="S" transl="" lex_translit="imamttaeman">이맘때만</ana>
+			</w>
+			<w translit="doemyeon">
+				<ana lex="되다" gr="V,ger" transl="становиться, превращаться" lex_translit="doeda">되면</ana>
+			</w>
+			<w translit="tteooreuneun">
+				<ana lex="떠오르다" gr="V,partcp" transl="подниматься, всходить, всплывать, вспоминать на поверхность, приходить в голову" lex_translit="tteooreuda">떠오르는</ana>
+			</w>
+			<w translit="isyu">
+				<ana lex="이슈" gr="S" transl="; вопрос; предмет обсуждения; актуальный вопрос" lex_translit="isyu">이슈</ana>
+			</w>
+			<w translit="ga">
+				<ana lex="가" gr="PART" transl="" lex_translit="ga">가</ana>
+			</w>
+			<w translit="itda">
+				<ana lex="있다" gr="V,aux" transl="быть, иметься, находиться" lex_translit="itda">있다</ana>
+			</w>
+		</se>
+		<se lang="rus">Каждый год с наступлением весны на поверхность выплывают одни и те же проблемы:
+		</se>
+	</para>
+	<para id="1001">
+		<se lang="kor" has_translit="true">
+			<w translit="baro">
+				<ana lex="바로" gr="ADV" transl="прямо, ровно" lex_translit="baro">바로</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="sikryang">
+				<ana lex="식량" gr="S" transl="продовольствие" lex_translit="sikryang">식량</ana>
+			</w>
+			<w translit="munje">
+				<ana lex="문제" gr="S" transl="вопрос, проблема, задача" lex_translit="munje">문제</ana>
+			</w>
+			<w translit="wa">
+				<ana lex="와" gr="PART,com" transl="" lex_translit="wa">와</ana>
+			</w>
+			<w translit="daebuksikryangjiwonida">
+				<ana lex="대북식량지원이다" gr="S" transl="" lex_translit="daebuksikryangjiwonida">대북식량지원이다</ana>
+			</w>
+		</se>
+		<se lang="rus">нехватка продовольствия в Северной Корее и оказание помощи КНДР.
+		</se>
+	</para>
+	<para id="2002">
+		<se lang="kor" has_translit="true">
+			<w translit="gwayeon">
+				<ana lex="과연" gr="ADV" transl="действительно; на самом деле" lex_translit="gwayeon">과연</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="jumindeuri">
+				<ana lex="주민" gr="S" transl="население, жители" lex_translit="jumin">주민들이</ana>
+			</w>
+			<w translit="gulmeo">
+				<ana lex="굶다" gr="V,ger" transl="голодать" lex_translit="gumda">굶어</ana>
+			</w>
+			<w translit="jukgo">
+				<ana lex="죽다" gr="V,ger" transl="умирать" lex_translit="jukda">죽고</ana>
+			</w>
+			<w translit="sikryangnan">
+				<ana lex="식량난" gr="S" transl="; трудности с продовольствием" lex_translit="sikryangnan">식량난</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="gosaenghaneun">
+				<ana lex="고생다" gr="V,partcp" transl="" lex_translit="gosaengda">고생하는</ana>
+			</w>
+			<w translit="geosi">
+				<ana lex="것이" gr="S,aux" transl="" lex_translit="geosi">것이</ana>
+			</w>
+			<w translit="daehanminguk">
+				<ana lex="대한민국" gr="S" transl="; Республика Корея" lex_translit="daehanminguk">대한민국</ana>
+			</w>
+			<w translit="gwa">
+				<ana lex="과" gr="PART,com" transl="" lex_translit="gwa">과</ana>
+			</w>
+			<w translit="gukje">
+				<ana lex="국제" gr="S" transl="международный" lex_translit="gukje">국제</ana>
+			</w>
+			<w translit="sahoe">
+				<ana lex="사회" gr="S" transl="общество" lex_translit="sahoe">사회</ana>
+			</w>
+			<w translit="ga">
+				<ana lex="가" gr="PART" transl="" lex_translit="ga">가</ana>
+			</w>
+			<w translit="sikryang">
+				<ana lex="식량" gr="S" transl="продовольствие" lex_translit="sikryang">식량</ana>
+			</w>
+			<w translit="jiwon">
+				<ana lex="지원" gr="S" transl="поддержка, помощь; заявление" lex_translit="jiwon">지원</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="haji">
+				<ana lex="하다" gr="V,ger" transl="делать" lex_translit="hada">하지</ana>
+			</w>
+			<w translit="anki">
+				<ana lex="않" gr="S" transl="не делать; не; не; ни; не; ни; не уступать; быть не хуже; скоро; вскоре; с минуты на минуту; в скором времени; недолго; совершенно неподходящий; не имеющий никакого отношения" lex_translit="transcription_error">않기</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">때문일까?</ana>
+			</w>
+		</se>
+		<se lang="rus">Неужели жители Севера голодают и умирают из-за того, что ни Республика Корея, ни мировое сообщество не оказывают им помощь?
+		</se>
+	</para>
+	<para id="3003">
+		<se lang="kor" has_translit="true">
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="gukbangwiwonhoe">
+				<ana lex="국방위원회" gr="S" transl="" lex_translit="gukbangwiwonhoe">국방위원회</ana>
+			</w>
+			<w translit="je">
+				<ana lex="제" gr="S" transl="я, сам" lex_translit="je">제</ana>
+			</w>
+			<w translit="1wiwonjangija">
+				<ana lex="1" gr="S" transl="; Минута и  секунда" lex_translit="1">1위원장이자</ana>
+			</w>
+			<w translit="choego">
+				<ana lex="최고" gr="S" transl="наилучший; самый большой; самый высокий и т.п; наилучший; самый выдающийся; древнейший; старейший; высокое качество; первый класс; высший сорт; наивысший подъём; кульминация; апогей; Самая высокая цена; наивысшая степень; максимальный уровень; Пик, вершина; Самая высокая позиция; самая высокая должность" lex_translit="choego">최고</ana>
+			</w>
+			<w translit="gwonryeokjain">
+				<ana lex="권력자다" gr="V,partcp" transl="" lex_translit="gwonryeokjada">권력자인</ana>
+			</w>
+			<w translit="gimjeongeuni">
+				<ana lex="김" gr="S" transl="испарение; сорняк; порфира" lex_translit="gim">김정은이</ana>
+			</w>
+			<w translit="2012nyeon">
+				<ana lex="2012년" gr="S,aux" transl="" lex_translit="2012nyeon">2012년</ana>
+			</w>
+			<w translit="han">
+				<ana lex="한" gr="S" transl="какой-то; один; одинаковый; около; обида; недовольство; раскаяние; предел; граница; тяжёлый момент; непосильный момент; пока; поскольку; большой; огромный; чёткий; разгар; наружный; вне; свободный; река Ханган; Корея; корейские буквы" lex_translit="han">한</ana>
+			</w>
+			<w translit="hae">
+				<ana lex="해" gr="S" transl="солнце; год; море; ущерб, вред" lex_translit="hae">해</ana>
+			</w>
+			<w translit="dongan">
+				<ana lex="동안" gr="S" transl="промежуток времени" lex_translit="dongan">동안</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="man">
+				<ana lex="만" gr="PART" transl="" lex_translit="man">만</ana>
+			</w>
+			<w translit="sadeurin">
+				<ana lex="사들이다" gr="V,partcp" transl="; закупать; покупать" lex_translit="sadeurida">사들인</ana>
+			</w>
+			<w translit="hohwa">
+				<ana lex="호화" gr="S" transl="роскошь; великолепие; роскошный; яркий; кодирование; шифрование; шифровка; кодировка; кодировать (информации); зашифровывать; шифровать" lex_translit="hohwa">호화</ana>
+			</w>
+			<w translit="sachipum">
+				<ana lex="사치품" gr="S" transl="; предметы роскоши" lex_translit="sachipum">사치품</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="muryeo">
+				<ana lex="무려" gr="ADV" transl="больше чем; более чем; конечно; безусловно" lex_translit="muryeo">무려</ana>
+			</w>
+			<w translit="6eok">
+				<ana lex="6억" gr="NUM" transl="" lex_translit="6eok">6억</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">4천580달러(약</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">6900억원)나</ana>
+			</w>
+			<w translit="doendago">
+				<ana lex="되다" gr="V,ger" transl="становиться, превращаться" lex_translit="doeda">된다고</ana>
+			</w>
+			<w translit="handa">
+				<ana lex="하다" gr="V" transl="делать" lex_translit="hada">한다</ana>
+			</w>
+		</se>
+		<se lang="rus">По некоторым данным, первый председатель Государственного комитета обороны Ким Чен Ын только за 2012 год потратил на предметы роскоши около 600 миллионов долларов. (690 000 миллионов вон).
+		</se>
+	</para>
+	<para id="4004">
+		<se lang="kor" has_translit="true">
+			<w translit="jinan">
+				<ana lex="지나다" gr="V,partcp" transl="проходить; протекать; выходить; переступать; переходить; проходить; переходить; пройти; миновать; преодолеть; Проходить минуя" lex_translit="jinada">지난</ana>
+			</w>
+			<w translit="8il">
+				<ana lex="8일" gr="S,aux" transl="" lex_translit="8il">8일</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">인터내셔널뉴욕타임스(inyt)에</ana>
+			</w>
+			<w translit="naon">
+				<ana lex="나오다" gr="V,partcp" transl="выходить, появляться, выступать" lex_translit="naoda">나온</ana>
+			</w>
+			<w translit="pyeongyang">
+				<ana lex="평양" gr="S" transl="Пхёньян; Тихий океан" lex_translit="pyeongyang">평양</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="heonggeo">
+				<ana lex="헝다" gr="V" transl="" lex_translit="heongda">헝거</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">게임'이란</ana>
+			</w>
+			<w translit="gigomuneun">
+				<ana lex="기고문은" gr="S" transl="" lex_translit="gigomuneun">기고문은</ana>
+			</w>
+			<w translit="jinandal">
+				<ana lex="지난달" gr="S" transl="; прошлый месяц" lex_translit="jinandal">지난달</ana>
+			</w>
+			<w translit="balpyodoen">
+				<ana lex="발표다" gr="V,partcp" transl="" lex_translit="balpyoda">발표된</ana>
+			</w>
+			<w translit="yuen">
+				<ana lex="유엔" gr="S" transl="ООН; миротворческие силы ООН" lex_translit="yuen">유엔</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">북한인권조사위원회(coi</ana>
+			</w>
+			<w translit="bogoseo">
+				<ana lex="보고서" gr="S" transl="; сообщение; доклад; отчёт" lex_translit="bogoseo">보고서</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="todae">
+				<ana lex="토대" gr="S" transl="основание, фундамент, основа, база" lex_translit="todae">토대</ana>
+			</w>
+			<w translit="ro">
+				<ana lex="로" gr="PART" transl="" lex_translit="ro">로</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="bigeuk">
+				<ana lex="비극" gr="S" transl="трагедия; печальная драма; трагический; трагичный; трагический; трагичный; трагикомедия" lex_translit="bigeuk">비극</ana>
+			</w>
+			<w translit="gwa">
+				<ana lex="과" gr="PART,com" transl="" lex_translit="gwa">과</ana>
+			</w>
+			<w translit="joeak">
+				<ana lex="죄악" gr="S" transl="преступление, грех; чувство угрызения совести; Считаться преступлением; считать преступлением; рассматривать за преступление" lex_translit="joeak">죄악</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="damgo">
+				<ana lex="담다" gr="V,ger" transl="накладывать, наполнять" lex_translit="damda">담고</ana>
+			</w>
+			<w translit="itneun">
+				<ana lex="있다" gr="V,partcp" transl="быть, иметься, находиться" lex_translit="itda">있는</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="S" transl="зуб" lex_translit="i">이</ana>
+			</w>
+			<w translit="bogoseo">
+				<ana lex="보고서" gr="S" transl="; сообщение; доклад; отчёт" lex_translit="bogoseo">보고서</ana>
+			</w>
+			<w translit="eseo">
+				<ana lex="에서" gr="PART" transl="" lex_translit="eseo">에서</ana>
+			</w>
+			<w translit="deureonan">
+				<ana lex="드러나다" gr="V,partcp" transl="показаться; обнаружиться; выясниться; выразиться; отразиться; выделяться" lex_translit="deureonada">드러난</ana>
+			</w>
+			<w translit="6eok4580man">
+				<ana lex="6억4580만" gr="NUM" transl="" lex_translit="6eok4580man">6억4580만</ana>
+			</w>
+			<w translit="dalreoraneun">
+				<ana lex="달러다" gr="V,partcp" transl="" lex_translit="dalreoda">달러라는</ana>
+			</w>
+			<w translit="sutja">
+				<ana lex="숫자" gr="S" transl="цифра" lex_translit="sutja">숫자</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="jumokhaeya">
+				<ana lex="주목" gr="" transl="" lex_translit="jumok">주목해야</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">한다"고</ana>
+			</w>
+			<w translit="gangjohaetda">
+				<ana lex="강조하다" gr="V" transl="; подчёркивать; особо отмечать; акцентировать" lex_translit="gangjohada">강조했다</ana>
+			</w>
+		</se>
+		<se lang="rus">8 марта в The International New York Times была опубликована статья «Голодные игры Северной Кореи». Ссылаясь на представленный в феврале 2014 года доклад Комитета ООН по правам человека в КНДР, автор написал: «Нужно принять во внимание цифру в 645,8 миллионов долларов, появившуюся в докладе о критическом положении КНДР».
+		</se>
+	</para>
+	<para id="5005">
+		<se lang="kor" has_translit="true">
+			<w translit="segyeindeureul">
+				<ana lex="세계인" gr="S" transl="" lex_translit="segyein">세계인들을</ana>
+			</w>
+			<w translit="gyeongakhage">
+				<ana lex="경악다" gr="V" transl="" lex_translit="gyeongakda">경악하게</ana>
+			</w>
+			<w translit="han">
+				<ana lex="한" gr="S" transl="какой-то; один; одинаковый; около; обида; недовольство; раскаяние; предел; граница; тяжёлый момент; непосильный момент; пока; поскольку; большой; огромный; чёткий; разгар; наружный; вне; свободный; река Ханган; Корея; корейские буквы" lex_translit="han">한</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="S" transl="зуб" lex_translit="i">이</ana>
+			</w>
+			<w translit="bogoseo">
+				<ana lex="보고서" gr="S" transl="; сообщение; доклад; отчёт" lex_translit="bogoseo">보고서</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="ttareumyeon">
+				<ana lex="따르다" gr="V,ger" transl="следовать, догонять, наливать" lex_translit="ttareuda">따르면</ana>
+			</w>
+			<w translit="gimjeongeuneun">
+				<ana lex="김정은은" gr="S" transl="" lex_translit="gimjeongeuneun">김정은은</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="haedanghaneun">
+				<ana lex="해당다" gr="V,partcp" transl="" lex_translit="haedangda">해당하는</ana>
+			</w>
+			<w translit="geoaek">
+				<ana lex="거액" gr="S" transl="; большая сумма" lex_translit="geoaek">거액</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="don">
+				<ana lex="돈" gr="S" transl="деньги" lex_translit="don">돈</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="heungcheongmangcheong">
+				<ana lex="흥청망청" gr="ADV" transl="" lex_translit="heungcheongmangcheong">흥청망청</ana>
+			</w>
+			<w translit="sseodaemyeonseo">
+				<ana lex="쓰다" gr="V,ger" transl="писать; употреблять; горький; надевать (головной убор)" lex_translit="sseuda">써대면서</ana>
+			</w>
+			<w translit="goga">
+				<ana lex="고가" gr="S" transl="высокая цена; надземный" lex_translit="goga">고가</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="hwajangpum">
+				<ana lex="화장품" gr="S" transl="косметика" lex_translit="hwajangpum">화장품</ana>
+			</w>
+			<w translit="gwa">
+				<ana lex="과" gr="PART,com" transl="" lex_translit="gwa">과</ana>
+			</w>
+			<w translit="myeongpum">
+				<ana lex="명품" gr="S" transl="шедевр; произведение искусства; знаменитое произведение; товар известной марки; изобретение" lex_translit="myeongpum">명품</ana>
+			</w>
+			<w translit="haendeubaek">
+				<ana lex="핸드백" gr="S" transl="дамская сумка" lex_translit="haendeubaek">핸드백</ana>
+			</w>
+			<w translit="gogeup">
+				<ana lex="고급" gr="S" transl="высокое качество; высокий уровень; высококачественный; элегантный; богатый; старшая группа; высокосортный товар; высококачественный товар; дорогой товар; высококачественный; высокий; благородный; высокое качество; первый класс; высший сорт" lex_translit="gogeup">고급</ana>
+			</w>
+			<w translit="gajuk">
+				<ana lex="가죽" gr="S" transl="натуральная кожа" lex_translit="gajuk">가죽</ana>
+			</w>
+			<w translit="jepum">
+				<ana lex="제품" gr="S" transl="продукция, товар, изделие" lex_translit="jepum">제품</ana>
+			</w>
+			<w translit="gwa">
+				<ana lex="과" gr="PART,com" transl="" lex_translit="gwa">과</ana>
+			</w>
+			<w translit="seuwiseusan">
+				<ana lex="스위스" gr="S" transl="; Швейцария; Швейцарская Конфедерация" lex_translit="seuwiseu">스위스산</ana>
+			</w>
+			<w translit="sonmoksigye">
+				<ana lex="손목시계" gr="S" transl="; ручные часы" lex_translit="sonmoksigye">손목시계</ana>
+			</w>
+			<w translit="goga">
+				<ana lex="고가" gr="S" transl="высокая цена; надземный" lex_translit="goga">고가</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="jeonja">
+				<ana lex="전자" gr="S" transl="электрон; прошлый; пройденный; предыдущий человек; предыдущий предмет; микроволновая печь; электронный словарь; электронный калькулятор; электронные часы; электронные развлечения; комната с электронными развлечениями; клуб игровых автоматов; электронная почта; чайник" lex_translit="jeonja">전자</ana>
+			</w>
+			<w translit="jepum">
+				<ana lex="제품" gr="S" transl="продукция, товар, изделие" lex_translit="jepum">제품</ana>
+			</w>
+			<w translit="gwa">
+				<ana lex="과" gr="PART,com" transl="" lex_translit="gwa">과</ana>
+			</w>
+			<w translit="choegogeupseungyongcha">
+				<ana lex="최고급승용차" gr="S" transl="" lex_translit="choegogeupseungyongcha">최고급승용차</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="sachipum">
+				<ana lex="사치품" gr="S" transl="; предметы роскоши" lex_translit="sachipum">사치품</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="sadeuryeotda">
+				<ana lex="사들이다" gr="V" transl="; закупать; покупать" lex_translit="sadeurida">사들였다</ana>
+			</w>
+		</se>
+		<se lang="rus">Если верить этим шокирующим данным, то лидер Северной Кореи беспорядочно тратил баснословные деньги на элитный парфюм и брендовые сумки, элитные кожаные изделия и швейцарские часы, электронику, машины и другие предметы роскоши.
+		</se>
+	</para>
+	<para id="6006">
+		<se lang="kor" has_translit="true">
+			<w translit="ireon">
+				<ana lex="이런다" gr="A" transl="" lex_translit="ireonda">이런</ana>
+			</w>
+			<w translit="sachipumdeureun">
+				<ana lex="사치품" gr="S" transl="; предметы роскоши" lex_translit="sachipum">사치품들은</ana>
+			</w>
+			<w translit="2006nyeon">
+				<ana lex="2006년" gr="S,aux" transl="" lex_translit="2006nyeon">2006년</ana>
+			</w>
+			<w translit="ihu">
+				<ana lex="이후" gr="S" transl="после этого; после того; после" lex_translit="ihu">이후</ana>
+			</w>
+			<w translit="daebukgyeongje">
+				<ana lex="대북경제" gr="S" transl="" lex_translit="daebukgyeongje">대북경제</ana>
+			</w>
+			<w translit="jejae">
+				<ana lex="제재" gr="S" transl="санкции" lex_translit="jejae">제재</ana>
+			</w>
+			<w translit="ga">
+				<ana lex="가" gr="PART" transl="" lex_translit="ga">가</ana>
+			</w>
+			<w translit="jisokdoeneun">
+				<ana lex="지속다" gr="V,partcp" transl="" lex_translit="jisokda">지속되는</ana>
+			</w>
+			<w translit="sanghwang">
+				<ana lex="상황" gr="S" transl="положение; обстановка; ситуационная комната; оперативная комната; сводка; информационный бюллетень" lex_translit="sanghwang">상황</ana>
+			</w>
+			<w translit="eseo">
+				<ana lex="에서" gr="PART" transl="" lex_translit="eseo">에서</ana>
+			</w>
+			<w translit="jeongsangjeogin">
+				<ana lex="정상적다" gr="V,partcp" transl="" lex_translit="jeongsangjeokda">정상적인</ana>
+			</w>
+			<w translit="gyeongro">
+				<ana lex="경로" gr="S" transl="путь; курс; направление;  маршрут; путь; процесс; способ; дом престарелых; места для пожилых людей; канал товаросбыта; канал распределения" lex_translit="gyeongro">경로</ana>
+			</w>
+			<w translit="ga">
+				<ana lex="가" gr="PART" transl="" lex_translit="ga">가</ana>
+			</w>
+			<w translit="anin">
+				<ana lex="아니다" gr="V,partcp" transl="не (быть)" lex_translit="anida">아닌</ana>
+			</w>
+			<w translit="milsu">
+				<ana lex="밀수" gr="S" transl="контрабанда" lex_translit="milsu">밀수</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="tonghae">
+				<ana lex="통하다" gr="V" transl="проходить; совпадать" lex_translit="tonghada">통해</ana>
+			</w>
+			<w translit="guiphan">
+				<ana lex="구입다" gr="V,partcp" transl="" lex_translit="guipda">구입한</ana>
+			</w>
+			<w translit="geosida">
+				<ana lex="것이다" gr="S,aux" transl="" lex_translit="geosida">것이다</ana>
+			</w>
+		</se>
+		<se lang="rus">При этом, поскольку в стране с 2006 года действуют санкции за экономические преступления, все эти товары были куплены незаконным путем.
+		</se>
+	</para>
+	<para id="7007">
+		<se lang="kor" has_translit="true">
+			<w translit="gimjeongeuni">
+				<ana lex="김" gr="S" transl="испарение; сорняк; порфира" lex_translit="gim">김정은이</ana>
+			</w>
+			<w translit="hanhae">
+				<ana lex="한해" gr="S" transl="; однолетнее растение" lex_translit="hanhae">한해</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="tangjinhaneun">
+				<ana lex="탕진다" gr="V,partcp" transl="" lex_translit="tangjinda">탕진하는</ana>
+			</w>
+			<w translit="sachipum">
+				<ana lex="사치품" gr="S" transl="; предметы роскоши" lex_translit="sachipum">사치품</ana>
+			</w>
+			<w translit="guibaegeun">
+				<ana lex="구입" gr="S" transl="приобретать, покупать" lex_translit="guip">구입액은</ana>
+			</w>
+			<w translit="gateun">
+				<ana lex="같다" gr="A,partcp" transl="одинаковый" lex_translit="gatda">같은</ana>
+			</w>
+			<w translit="hae">
+				<ana lex="해" gr="S" transl="солнце; год; море; ущерб, вред" lex_translit="hae">해</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="haekmugi">
+				<ana lex="핵무기" gr="S" transl="; ядерное оружие" lex_translit="haekmugi">핵무기</ana>
+			</w>
+			<w translit="jangchak">
+				<ana lex="장착" gr="S" transl="; прикреплять" lex_translit="jangchak">장착</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="ganeunghan">
+				<ana lex="가능다" gr="V,partcp" transl="" lex_translit="ganeungda">가능한</ana>
+			</w>
+			<w translit="tando">
+				<ana lex="탄도" gr="S" transl="; траектория выстрела; траектория полёта" lex_translit="tando">탄도</ana>
+			</w>
+			<w translit="misail">
+				<ana lex="미사일" gr="S" transl="(от англ. ) ракета; реактивный снаряд; метательный снаряд; ядерная ракета" lex_translit="misail">미사일</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="gaebalhae">
+				<ana lex="개발다" gr="V" transl="" lex_translit="gaebalda">개발해</ana>
+			</w>
+			<w translit="balsahaneun">
+				<ana lex="발사다" gr="V,partcp" transl="" lex_translit="balsada">발사하는</ana>
+			</w>
+			<w translit="de">
+				<ana lex="데" gr="S" transl="место; Забирать с собой; приводить с собой; (от англ. ) свидание; встреча; обжечься; обжечься; знать цену; натерпеться; брать с собой; уводить с собой; везти с собой; увозить с собой; греть; подогревать; разогревать; обварить кипятком; ошпарить; демонстрация; демо-версия; демонстрация" lex_translit="de">데</ana>
+			</w>
+			<w translit="sseun">
+				<ana lex="쓰다" gr="A,partcp" transl="писать; употреблять; горький; надевать (головной убор)" lex_translit="sseuda">쓴</ana>
+			</w>
+			<w translit="13eok">
+				<ana lex="13억" gr="NUM" transl="" lex_translit="13eok">13억</ana>
+			</w>
+			<w translit="dalreo">
+				<ana lex="달러" gr="S" transl="доллар" lex_translit="dalreo">달러</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="jeolban">
+				<ana lex="절반" gr="S" transl="половина" lex_translit="jeolban">절반</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="haedanghanda">
+				<ana lex="해당다" gr="V" transl="" lex_translit="haedangda">해당한다</ana>
+			</w>
+		</se>
+		<se lang="rus">Сумма, израсходованная вождем на предметы роскоши, составляет половину денег, потраченных на запуск баллистической ракеты в том же году (1300 миллионов долларов).
+		</se>
+	</para>
+	<para id="8008">
+		<se lang="kor" has_translit="true">
+			<w translit="yuen">
+				<ana lex="유엔" gr="S" transl="ООН; миротворческие силы ООН" lex_translit="yuen">유엔</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">세계식량계획(wfp)이</ana>
+			</w>
+			<w translit="2013nyeon">
+				<ana lex="2013년" gr="S,aux" transl="" lex_translit="2013nyeon">2013년</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="sikryang">
+				<ana lex="식량" gr="S" transl="продовольствие" lex_translit="sikryang">식량</ana>
+			</w>
+			<w translit="munje">
+				<ana lex="문제" gr="S" transl="вопрос, проблема, задача" lex_translit="munje">문제</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="haegyeolhagi">
+				<ana lex="해결" gr="S" transl="решение, разрешение" lex_translit="haegyeol">해결하기</ana>
+			</w>
+			<w translit="wihan">
+				<ana lex="위다" gr="V,partcp" transl="худеть; быть худощавым; терять в весе; спадать с тела (с лица); худеть; обеднеть; тускнеть; стихать" lex_translit="wida">위한</ana>
+			</w>
+			<w translit="indojeok">
+				<ana lex="인도적" gr="S" transl="гуманный; человечный; гуманный; гуманитарный" lex_translit="indojeok">인도적</ana>
+			</w>
+			<w translit="jiwon">
+				<ana lex="지원" gr="S" transl="поддержка, помощь; заявление" lex_translit="jiwon">지원</ana>
+			</w>
+			<w translit="biyong">
+				<ana lex="비용" gr="S" transl="расходы, издержки" lex_translit="biyong">비용</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="chusanhan">
+				<ana lex="추산다" gr="V,partcp" transl="" lex_translit="chusanda">추산한</ana>
+			</w>
+			<w translit="1eok5000man">
+				<ana lex="1억5000만" gr="NUM" transl="" lex_translit="1eok5000man">1억5000만</ana>
+			</w>
+			<w translit="dalreo">
+				<ana lex="달러" gr="S" transl="доллар" lex_translit="dalreo">달러</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="ne">
+				<ana lex="네" gr="ANUM" transl="да; ты; четыре" lex_translit="ne">네</ana>
+			</w>
+			<w translit="baega">
+				<ana lex="배가" gr="S" transl="удвоение; удваивать(ся); увеличивать(ся)" lex_translit="baega">배가</ana>
+			</w>
+			<w translit="neomneun">
+				<ana lex="넘다" gr="V,partcp" transl="переходить, превышать, переваливать," lex_translit="neomda">넘는</ana>
+			</w>
+			<w translit="geumaegida">
+				<ana lex="금액이다" gr="S" transl="" lex_translit="geumaegida">금액이다</ana>
+			</w>
+		</se>
+		<se lang="rus">Эта сумма также в четыре раза превышает объем гуманитарной помощи, которая была оказана Всемирной продовольственной программой ООН в 2013 году (150 миллионов долларов).
+		</se>
+	</para>
+	<para id="9009">
+		<se lang="kor" has_translit="true">
+			<w translit="gimjeongeuneun">
+				<ana lex="김정은은" gr="S" transl="" lex_translit="gimjeongeuneun">김정은은</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="meogyeo">
+				<ana lex="먹이다" gr="V" transl="заставлять кого-то есть, пить, угощать, кормить, поить" lex_translit="meogida">먹여</ana>
+			</w>
+			<w translit="salril">
+				<ana lex="살리다" gr="V,partcp" transl="спасать, оставлять в живых" lex_translit="salrida">살릴</ana>
+			</w>
+			<w translit="su">
+				<ana lex="수" gr="S" transl="число; среда; мужской род; ход; некоторое количество; немного; горсть (чего-либо); способ; средство; возможность; вероятность; отличная оценка; самая высшая отметка;  баллов" lex_translit="su">수</ana>
+			</w>
+			<w translit="itneun">
+				<ana lex="있다" gr="V,partcp" transl="быть, иметься, находиться" lex_translit="itda">있는</ana>
+			</w>
+			<w translit="makdaehan">
+				<ana lex="막대다" gr="V,partcp" transl="" lex_translit="makdaeda">막대한</ana>
+			</w>
+			<w translit="biyong">
+				<ana lex="비용" gr="S" transl="расходы, издержки" lex_translit="biyong">비용</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="jeonyong">
+				<ana lex="전용" gr="S" transl="личное пользование; пользование; исключительное применение; применение; лично использоваться; исключительно использоваться; специально использоваться; специальная полоса дороги; лично использовать; исключительно использовать; специально использовать" lex_translit="jeonyong">전용</ana>
+			</w>
+			<w translit="seukijang">
+				<ana lex="스키장" gr="S" transl="; лыжная площадка" lex_translit="seukijang">스키장</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="geonseolhago">
+				<ana lex="건설" gr="" transl="" lex_translit="geonseol">건설하고</ana>
+			</w>
+			<w translit="gajeongyong">
+				<ana lex="가정용" gr="S" transl="; домашняя утварь; хозяйственные товары" lex_translit="gajeongyong">가정용</ana>
+			</w>
+			<w translit="sauna">
+				<ana lex="사우나" gr="S" transl="; сауна" lex_translit="sauna">사우나</ana>
+			</w>
+			<w translit="seolbi">
+				<ana lex="설비" gr="S" transl="оснащение; быть оборудованным; быть оснащённым; оборудовать; оснастить; дополнительное устройство" lex_translit="seolbi">설비</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="birothae">
+				<ana lex="비롯다" gr="V" transl="" lex_translit="birotda">비롯해</ana>
+			</w>
+			<w translit="choegogeup">
+				<ana lex="최고급" gr="S" transl="наивысший класс" lex_translit="choegogeup">최고급</ana>
+			</w>
+			<w translit="chulsanyongpum">
+				<ana lex="출산용품" gr="S" transl="" lex_translit="chulsanyongpum">출산용품</ana>
+			</w>
+			<w translit="yuayongpum">
+				<ana lex="유아용품" gr="S" transl="" lex_translit="yuayongpum">유아용품</ana>
+			</w>
+			<w translit="patiyong">
+				<ana lex="파티" gr="S" transl="званый вечер; вечеринка; Раздел (диска в операционных системах)" lex_translit="pati">파티용</ana>
+			</w>
+			<w translit="podoju">
+				<ana lex="포도주" gr="S" transl="; виноградное вино" lex_translit="podoju">포도주</ana>
+			</w>
+			<w translit="wa">
+				<ana lex="와" gr="PART,com" transl="" lex_translit="wa">와</ana>
+			</w>
+			<w translit="choegogeup">
+				<ana lex="최고급" gr="S" transl="наивысший класс" lex_translit="choegogeup">최고급</ana>
+			</w>
+			<w translit="yangju">
+				<ana lex="양주" gr="S" transl="; алкогольные напитки Запада; спиртные напитки" lex_translit="yangju">양주</ana>
+			</w>
+			<w translit="dambaekkaji">
+				<ana lex="담배까지" gr="S" transl="" lex_translit="dambaekkaji">담배까지</ana>
+			</w>
+			<w translit="suiphago">
+				<ana lex="수입" gr="" transl="" lex_translit="suip">수입하고</ana>
+			</w>
+			<w translit="itneun">
+				<ana lex="있다" gr="V,partcp" transl="быть, иметься, находиться" lex_translit="itda">있는</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="alryeojyeotda">
+				<ana lex="알리다" gr="V" transl="; давать знать; ставить в известность; уведомлять; сообщать; извещать" lex_translit="alrida">알려졌다</ana>
+			</w>
+		</se>
+		<se lang="rus">Колоссальное количество денег ушло на строительство горнолыжного курорта, а также на покупку оборудования для домашней сауны, товаров для новорожденных и детей, элитного алкоголя и табачных изделий, хотя на потраченные средства можно было бы накормить — и таким образом спасти жизни — 23 миллионов корейцев. Говорят, траты Ким Чен Ына превысили даже расходы его отца Ким Чен Ира, который ограничивал себя покупкой элитного алкоголя и автомобилей.
+		</se>
+	</para>
+	<para id="10010">
+		<se lang="kor" has_translit="true">
+			<w translit="gogeup">
+				<ana lex="고급" gr="S" transl="высокое качество; высокий уровень; высококачественный; элегантный; богатый; старшая группа; высокосортный товар; высококачественный товар; дорогой товар; высококачественный; высокий; благородный; высокое качество; первый класс; высший сорт" lex_translit="gogeup">고급</ana>
+			</w>
+			<w translit="yangju">
+				<ana lex="양주" gr="S" transl="; алкогольные напитки Запада; спиртные напитки" lex_translit="yangju">양주</ana>
+			</w>
+			<w translit="wa">
+				<ana lex="와" gr="PART,com" transl="" lex_translit="wa">와</ana>
+			</w>
+			<w translit="seonmuryong">
+				<ana lex="선물" gr="S" transl="подарок" lex_translit="seonmul">선물용</ana>
+			</w>
+			<w translit="charyang">
+				<ana lex="차량" gr="S" transl="транспортные средства" lex_translit="charyang">차량</ana>
+			</w>
+			<w translit="suip">
+				<ana lex="수입" gr="S" transl="доход; импорт" lex_translit="suip">수입</ana>
+			</w>
+			<w translit="jeongdo">
+				<ana lex="정도" gr="S" transl="степень; уровень; предел; граница; примерно; около; правильный путь" lex_translit="jeongdo">정도</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="geuchyeotdeon">
+				<ana lex="그치다" gr="V" transl="переставать, прекращать" lex_translit="geuchida">그쳤던</ana>
+			</w>
+			<w translit="gimjeongil">
+				<ana lex="김정일" gr="S" transl="" lex_translit="gimjeongil">김정일</ana>
+			</w>
+			<w translit="gukbang">
+				<ana lex="국방" gr="S" transl="национальная оборона; оборона страны; министерство обороны; обороноспособность страны; расходы на оборону страны; защитный цвет; цвет хаки; самостоятельная оборона" lex_translit="gukbang">국방</ana>
+			</w>
+			<w translit="wiwonjang">
+				<ana lex="위원장" gr="S" transl="; председатель комитета (комиссии)" lex_translit="wiwonjang">위원장</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="sobi">
+				<ana lex="소비" gr="S" transl="потребление, расходование" lex_translit="sobi">소비</ana>
+			</w>
+			<w translit="sujun">
+				<ana lex="수준" gr="S" transl="уровень" lex_translit="sujun">수준</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="neunggahago">
+				<ana lex="능가" gr="" transl="" lex_translit="neungga">능가하고</ana>
+			</w>
+			<w translit="itdago">
+				<ana lex="있다" gr="V,aux" transl="быть, иметься, находиться" lex_translit="itda">있다고</ana>
+			</w>
+			<w translit="hamyeo">
+				<ana lex="하다" gr="V,ger" transl="делать" lex_translit="hada">하며</ana>
+			</w>
+			<w translit="1cheokdang">
+				<ana lex="1척당" gr="S" transl="" lex_translit="1cheokdang">1척당</ana>
+			</w>
+			<w translit="1000mandalreo">
+				<ana lex="1000만달러" gr="S,aux" transl="" lex_translit="1000mandalreo">1000만달러</ana>
+			</w>
+			<w translit="jeongdo">
+				<ana lex="정도" gr="S" transl="степень; уровень; предел; граница; примерно; около; правильный путь" lex_translit="jeongdo">정도</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="yoteu">
+				<ana lex="요트" gr="S" transl="; яхта" lex_translit="yoteu">요트</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="guipharyeogo">
+				<ana lex="구입" gr="" transl="" lex_translit="guip">구입하려고</ana>
+			</w>
+			<w translit="haetdeon">
+				<ana lex="하다" gr="V" transl="делать" lex_translit="hada">했던</ana>
+			</w>
+			<w translit="jeogi">
+				<ana lex="적이" gr="ADV" transl="в некоторой степени; в какой-то степени; в какой-то мере; отчасти; враг; противник; враг; противник; просматривать; высматривать; копаться; рыться; перемешивать; переворачивать; случай; время; чесать; нацарапать; начертить; чиркать; писать неразборчиво; рисовать небрежно; прилипать; быть страстным; накалякать; намалевать" lex_translit="jeogi">적이</ana>
+			</w>
+			<w translit="itda">
+				<ana lex="있다" gr="V,aux" transl="быть, иметься, находиться" lex_translit="itda">있다</ana>
+			</w>
+		</se>
+		<se lang="rus">Были случаи, когда лидер КНДР собирался приобрести несколько яхт, каждая стоимостью не менее 10 миллионов долларов.
+		</se>
+	</para>
+	<para id="11011">
+		<se lang="kor" has_translit="true">
+			<w translit="sasil">
+				<ana lex="사실" gr="S" transl="факт, реальность, действительность" lex_translit="sasil">사실</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="gowicheung">
+				<ana lex="고위층" gr="S" transl="; высшие круги" lex_translit="gowicheung">고위층</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="chohohwasaenghwareun">
+				<ana lex="초호화생활은" gr="S" transl="" lex_translit="chohohwasaenghwareun">초호화생활은</ana>
+			</w>
+			<w translit="geu">
+				<ana lex="그다" gr="A" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">그</ana>
+			</w>
+			<w translit="gyumo">
+				<ana lex="규모" gr="S" transl="размах, масштаб" lex_translit="gyumo">규모</ana>
+			</w>
+			<w translit="wa">
+				<ana lex="와" gr="PART,com" transl="" lex_translit="wa">와</ana>
+			</w>
+			<w translit="silsang">
+				<ana lex="실상" gr="S" transl="действительность, реальность, факт; практика; истинное положение дел; действительное положение вещей; подлинная картина; в действительности; в реальности; вправду; по истине; фактически; в действительности; фактически; на самом деле; аналогичный; идентичный" lex_translit="silsang">실상</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="jedaero">
+				<ana lex="제대로" gr="ADV" transl="должным образом; как следует; правильно; должным образом; как следует; прямо; должным образом; как следует; правильно; верно; по существу; должным образом; как следует; правильно; надлежаще; по существу" lex_translit="jedaero">제대로</ana>
+			</w>
+			<w translit="bakhyeojin">
+				<ana lex="밝혀지다" gr="V,partcp" transl="озаряться; проясняться; обнаруживаться; раскрываться" lex_translit="bakhyeojida">밝혀진</ana>
+			</w>
+			<w translit="geosi">
+				<ana lex="것이" gr="S,aux" transl="" lex_translit="geosi">것이</ana>
+			</w>
+			<w translit="eopda">
+				<ana lex="없다" gr="A" transl="не быть, не иметь, отсутствовать" lex_translit="eopda">없다</ana>
+			</w>
+		</se>
+		<se lang="rus">Но на самом деле мы даже не представляем себе истинный размах красивой жизни высших кругов Северной Кореи.
+		</se>
+	</para>
+	<para id="12012">
+		<se lang="kor" has_translit="true">
+			<w translit="naega">
+				<ana lex="내가다" gr="V" transl="вывозить, выносить" lex_translit="naegada">내가</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="eseo">
+				<ana lex="에서" gr="PART" transl="" lex_translit="eseo">에서</ana>
+			</w>
+			<w translit="sal">
+				<ana lex="살" gr="S" transl="плоть; мясо; мышцы; кожа; плоть; мясо; мякоть; кожа; мясо; плоть; год; лет; ребро; спица; рубчик; узор; лучи; поток; морщины; складки; зубчик; зубчик-иголка; загон для улова; запруда; стрела; жить; существовать; жить; не тухнуть; поддерживать; оставаться прежним; просматриваться; проступать; проявляться; просматриваться;  проявляться; выражаться; иметься; быть; теплиться; работать; срабатывать; выжить; остаться в живых; быть живым; жить; проживать; оживлять; не затухать; поддерживать; оставлять прежним; просматривать; проявлять; проявлять; вспоминать; заставлять работать; выжить; остаться в живых; оживить" lex_translit="sal">살</ana>
+			</w>
+			<w translit="ttae">
+				<ana lex="때" gr="S" transl="время, пора, момент; случай; сезон; грязь" lex_translit="ttae">때</ana>
+			</w>
+			<w translit="baknamgi">
+				<ana lex="박남기" gr="S" transl="" lex_translit="baknamgi">박남기</ana>
+			</w>
+			<w translit="jaejeong">
+				<ana lex="재정" gr="S" transl="финансы" lex_translit="jaejeong">재정</ana>
+			</w>
+			<w translit="bujang">
+				<ana lex="부장" gr="S" transl="заведующий отделом; начальник отдела; глава семьи; пэкпуджан; руководитель филиала; директор филиала; патриархальный; патриархальный; патриархат; патриархат; патриархия" lex_translit="bujang">부장</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="ttal">
+				<ana lex="딸" gr="S" transl="дочь" lex_translit="ttal">딸</ana>
+			</w>
+			<w translit="gimilseong">
+				<ana lex="김일성" gr="S" transl="" lex_translit="gimilseong">김일성</ana>
+			</w>
+			<w translit="juchiui">
+				<ana lex="주치의" gr="S" transl="; семейный врач; лечащий врач" lex_translit="juchiui">주치의</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="eomeoni">
+				<ana lex="어머니" gr="S" transl="мама" lex_translit="eomeoni">어머니</ana>
+			</w>
+			<w translit="ro">
+				<ana lex="로" gr="PART" transl="" lex_translit="ro">로</ana>
+			</w>
+			<w translit="dun">
+				<ana lex="두다" gr="V,partcp" transl="положить, класть, оставлять" lex_translit="duda">둔</ana>
+			</w>
+			<w translit="han">
+				<ana lex="한" gr="S" transl="какой-то; один; одинаковый; около; обида; недовольство; раскаяние; предел; граница; тяжёлый момент; непосильный момент; пока; поскольку; большой; огромный; чёткий; разгар; наружный; вне; свободный; река Ханган; Корея; корейские буквы" lex_translit="han">한</ana>
+			</w>
+			<w translit="choego">
+				<ana lex="최고" gr="S" transl="наилучший; самый большой; самый высокий и т.п; наилучший; самый выдающийся; древнейший; старейший; высокое качество; первый класс; высший сорт; наивысший подъём; кульминация; апогей; Самая высокая цена; наивысшая степень; максимальный уровень; Пик, вершина; Самая высокая позиция; самая высокая должность" lex_translit="choego">최고</ana>
+			</w>
+			<w translit="wicheung">
+				<ana lex="위층" gr="S" transl="верхний этаж; высшие круги" lex_translit="wicheung">위층</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="adeul">
+				<ana lex="아들" gr="S" transl="сын" lex_translit="adeul">아들</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="algo">
+				<ana lex="알다" gr="V,ger" transl="знать" lex_translit="alda">알고</ana>
+			</w>
+			<w translit="jinaetneunde">
+				<ana lex="지내다" gr="V,ger" transl="проводить время, жить" lex_translit="jinaeda">지냈는데</ana>
+			</w>
+			<w translit="geudeurui">
+				<ana lex="그" gr="S" transl="тот, та, то" lex_translit="geu">그들의</ana>
+			</w>
+			<w translit="saenghwareun">
+				<ana lex="생활은" gr="S" transl="" lex_translit="saenghwareun">생활은</ana>
+			</w>
+			<w translit="silro">
+				<ana lex="실로" gr="ADV" transl="на самом деле; по-настоящему; поистине; ксилофон; действительно; истинно; виолончель" lex_translit="silro">실로</ana>
+			</w>
+			<w translit="sangsangoeyeotda">
+				<ana lex="상상외였다" gr="S" transl="" lex_translit="sangsangoeyeotda">상상외였다</ana>
+			</w>
+		</se>
+		<se lang="rus">Пока я жила в КНДР, я была знакома с дочкой главы комитета планирования и финансов Пак Нам Ги и человеком, чья мать была личным доктором Ким Ир Сена. Их образ жизни впечатлял.
+		</se>
+	</para>
+	<para id="13013">
+		<se lang="kor" has_translit="true">
+			<w translit="daebubun">
+				<ana lex="대부분" gr="S" transl="большая часть" lex_translit="daebubun">대부분</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="saengpilpum">
+				<ana lex="생필품" gr="S" transl="; предметы первой необходимости" lex_translit="saengpilpum">생필품</ana>
+			</w>
+			<w translit="gwa">
+				<ana lex="과" gr="PART,com" transl="" lex_translit="gwa">과</ana>
+			</w>
+			<w translit="sikryopumeun">
+				<ana lex="식료품은" gr="S" transl="" lex_translit="sikryopumeun">식료품은</ana>
+			</w>
+			<w translit="modu">
+				<ana lex="모두" gr="ADV" transl="все" lex_translit="modu">모두</ana>
+			</w>
+			<w translit="oehwa">
+				<ana lex="외화" gr="S" transl="иностранная валюта; зарубежный кинофильм" lex_translit="oehwa">외화</ana>
+			</w>
+			<w translit="sangjeom">
+				<ana lex="상점" gr="S" transl="магазин" lex_translit="sangjeom">상점</ana>
+			</w>
+			<w translit="eseo">
+				<ana lex="에서" gr="PART" transl="" lex_translit="eseo">에서</ana>
+			</w>
+			<w translit="guiphae">
+				<ana lex="구입다" gr="V" transl="" lex_translit="guipda">구입해</ana>
+			</w>
+			<w translit="sseotgo">
+				<ana lex="쓰다" gr="V,ger" transl="писать; употреблять; горький; надевать (головной убор)" lex_translit="sseuda">썼고</ana>
+			</w>
+			<w translit="sogot">
+				<ana lex="속옷" gr="S" transl="нижнее бельё" lex_translit="sogot">속옷</ana>
+			</w>
+			<w translit="ina">
+				<ana lex="이나" gr="PART,com" transl="" lex_translit="ina">이나</ana>
+			</w>
+			<w translit="bolpen">
+				<ana lex="볼펜" gr="S" transl="; шариковая авторучка" lex_translit="bolpen">볼펜</ana>
+			</w>
+			<w translit="mannyeonpil">
+				<ana lex="만년필" gr="S" transl="; авторучка" lex_translit="mannyeonpil">만년필</ana>
+			</w>
+			<w translit="gateun">
+				<ana lex="같다" gr="A,partcp" transl="одинаковый" lex_translit="gatda">같은</ana>
+			</w>
+			<w translit="sasohan">
+				<ana lex="사소다" gr="V,partcp" transl="" lex_translit="sasoda">사소한</ana>
+			</w>
+			<w translit="mulgeondo">
+				<ana lex="물건도" gr="S" transl="" lex_translit="mulgeondo">물건도</ana>
+			</w>
+			<w translit="subaekdalreossik">
+				<ana lex="수백" gr="S" transl="несколько сотен; сотни; несколько миллионов; миллионы; несколько миллионов" lex_translit="subaek">수백달러씩</ana>
+			</w>
+			<w translit="haneun">
+				<ana lex="하다" gr="V,partcp" transl="делать" lex_translit="hada">하는</ana>
+			</w>
+			<w translit="goga">
+				<ana lex="고가" gr="S" transl="высокая цена; надземный" lex_translit="goga">고가</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="geotdeurieotda">
+				<ana lex="것다" gr="V" transl="" lex_translit="geotda">것들이었다</ana>
+			</w>
+		</se>
+		<se lang="rus">Большинство товаров первой необходимости и продуктов питания они приобретали в валютных магазинах. А на такие мелочи, как шариковая ручка или нижнее белье, тратили сотни долларов.
+		</se>
+	</para>
+	<para id="14014">
+		<se lang="kor" has_translit="true">
+			<w translit="geuttae">
+				<ana lex="그때" gr="S" transl="тогда, в то время" lex_translit="geuttae">그때</ana>
+			</w>
+			<w translit="deureun">
+				<ana lex="듣다" gr="V,partcp" transl="слышать, слушать, действовать, быть эффективным" lex_translit="deutda">들은</ana>
+			</w>
+			<w translit="baroneun">
+				<ana lex="바로는" gr="ADV" transl="" lex_translit="baroneun">바로는</ana>
+			</w>
+			<w translit="yeoja">
+				<ana lex="여자" gr="S" transl="женщина" lex_translit="yeoja">여자</ana>
+			</w>
+			<w translit="chingu">
+				<ana lex="친구" gr="S" transl="друг" lex_translit="chingu">친구</ana>
+			</w>
+			<w translit="ege">
+				<ana lex="에게" gr="PART" transl="" lex_translit="ege">에게</ana>
+			</w>
+			<w translit="seonmulhaneun">
+				<ana lex="선물다" gr="V,partcp" transl="" lex_translit="seonmulda">선물하는</ana>
+			</w>
+			<w translit="hyangsudo">
+				<ana lex="향수도" gr="S" transl="" lex_translit="hyangsudo">향수도</ana>
+			</w>
+			<w translit="peurangseu">
+				<ana lex="프랑스" gr="S" transl="Франция; Французская Республика; французский язык" lex_translit="peurangseu">프랑스</ana>
+			</w>
+			<w translit="san">
+				<ana lex="산" gr="S" transl="гора" lex_translit="san">산</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="subaek">
+				<ana lex="수백" gr="NUM" transl="несколько сотен; сотни; несколько миллионов; миллионы; несколько миллионов" lex_translit="subaek">수백</ana>
+			</w>
+			<w translit="dalreo">
+				<ana lex="달러" gr="S,aux" transl="доллар" lex_translit="dalreo">달러</ana>
+			</w>
+			<w translit="jjariyeotgo">
+				<ana lex="짜리다" gr="V,ger" transl="" lex_translit="jjarida">짜리였고</ana>
+			</w>
+			<w translit="gudu">
+				<ana lex="구두" gr="S" transl="туфли" lex_translit="gudu">구두</ana>
+			</w>
+			<w translit="sonmoksigye">
+				<ana lex="손목시계" gr="S" transl="; ручные часы" lex_translit="sonmoksigye">손목시계</ana>
+			</w>
+			<w translit="dambae">
+				<ana lex="담배" gr="S" transl="сигарета, папироса, табак" lex_translit="dambae">담배</ana>
+			</w>
+			<w translit="gabang">
+				<ana lex="가방" gr="S" transl="сумка" lex_translit="gabang">가방</ana>
+			</w>
+			<w translit="nektai">
+				<ana lex="넥타이" gr="S" transl="галстук" lex_translit="nektai">넥타이</ana>
+			</w>
+			<w translit="waisyeocheu">
+				<ana lex="와이셔츠" gr="S" transl="; верхняя рубашка; сорочка" lex_translit="waisyeocheu">와이셔츠</ana>
+			</w>
+			<w translit="deungdo">
+				<ana lex="등도" gr="S,aux" transl="" lex_translit="deungdo">등도</ana>
+			</w>
+			<w translit="modu">
+				<ana lex="모두" gr="ADV" transl="все" lex_translit="modu">모두</ana>
+			</w>
+			<w translit="gogeup">
+				<ana lex="고급" gr="S" transl="высокое качество; высокий уровень; высококачественный; элегантный; богатый; старшая группа; высокосортный товар; высококачественный товар; дорогой товар; высококачественный; высокий; благородный; высокое качество; первый класс; высший сорт" lex_translit="gogeup">고급</ana>
+			</w>
+			<w translit="oejepumieotda">
+				<ana lex="외제품이었다" gr="S" transl="" lex_translit="oejepumieotda">외제품이었다</ana>
+			</w>
+		</se>
+		<se lang="rus">Мой знакомый делал своей девушке дорогие подарки в виде французского парфюма. Все товары, включая туфли, наручные часы, сумки, табачные изделия, галстуки и рубашки, импортировались из других стран и отличались соответствующим качеством.
+		</se>
+	</para>
+	<para id="15015">
+		<se lang="kor" has_translit="true">
+			<w translit="nara">
+				<ana lex="나라" gr="S" transl="страна, государство" lex_translit="nara">나라</ana>
+			</w>
+			<w translit="byeol">
+				<ana lex="별" gr="S" transl="звезда" lex_translit="byeol">별</ana>
+			</w>
+			<w translit="ro">
+				<ana lex="로" gr="PART" transl="" lex_translit="ro">로</ana>
+			</w>
+			<w translit="neun">
+				<ana lex="는" gr="PART" transl="" lex_translit="neun">는</ana>
+			</w>
+			<w translit="ilbonje">
+				<ana lex="일본제" gr="S" transl="" lex_translit="ilbonje">일본제</ana>
+			</w>
+			<w translit="wa">
+				<ana lex="와" gr="PART,com" transl="" lex_translit="wa">와</ana>
+			</w>
+			<w translit="peurangseuje">
+				<ana lex="프랑스제" gr="S" transl="" lex_translit="peurangseuje">프랑스제</ana>
+			</w>
+			<w translit="italriaje">
+				<ana lex="이탈리아" gr="S" transl="Италия; Итальянская Республика; итальянский язык" lex_translit="italria">이탈리아제</ana>
+			</w>
+			<w translit="yeonggukje">
+				<ana lex="영국제" gr="S" transl="" lex_translit="yeonggukje">영국제</ana>
+			</w>
+			<w translit="deungi">
+				<ana lex="등이" gr="S,aux" transl="" lex_translit="deungi">등이</ana>
+			</w>
+			<w translit="manatgo">
+				<ana lex="많" gr="A,ger" transl="" lex_translit="transcription_error">많았고</ana>
+			</w>
+			<w translit="makaoje">
+				<ana lex="마카오" gr="S" transl="" lex_translit="makao">마카오제</ana>
+			</w>
+			<w translit="sangpum">
+				<ana lex="상품" gr="S" transl="товар; премия, приз" lex_translit="sangpum">상품</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="gajang">
+				<ana lex="가장" gr="ADV" transl="глава семьи, хозяин дома; самый, наиболее" lex_translit="gajang">가장</ana>
+			</w>
+			<w translit="ssaguryeoyeotda">
+				<ana lex="싸구려였다" gr="S" transl="" lex_translit="ssaguryeoyeotda">싸구려였다</ana>
+			</w>
+		</se>
+		<se lang="rus">Особенно много товаров привозили из Японии, Франции, Италии и Великобритании. Изделия из Макао были самыми дешевыми.
+		</se>
+	</para>
+	<para id="16016">
+		<se lang="kor" has_translit="true">
+			<w translit="simjieo">
+				<ana lex="심지어" gr="ADV" transl="; даже; к тому же" lex_translit="simjieo">심지어</ana>
+			</w>
+			<w translit="mul">
+				<ana lex="물" gr="S" transl="вода" lex_translit="mul">물</ana>
+			</w>
+			<w translit="ina">
+				<ana lex="이나" gr="PART,com" transl="" lex_translit="ina">이나</ana>
+			</w>
+			<w translit="ssal">
+				<ana lex="쌀" gr="S" transl="рис" lex_translit="ssal">쌀</ana>
+			</w>
+			<w translit="gateun">
+				<ana lex="같다" gr="A,partcp" transl="одинаковый" lex_translit="gatda">같은</ana>
+			</w>
+			<w translit="geotdo">
+				<ana lex="것도" gr="S,aux" transl="не говоря уже и о; и говорить нечего; мало того и" lex_translit="geotdo">것도</ana>
+			</w>
+			<w translit="oehwa">
+				<ana lex="외화" gr="S" transl="иностранная валюта; зарубежный кинофильм" lex_translit="oehwa">외화</ana>
+			</w>
+			<w translit="sangjeom">
+				<ana lex="상점" gr="S" transl="магазин" lex_translit="sangjeom">상점</ana>
+			</w>
+			<w translit="eseo">
+				<ana lex="에서" gr="PART" transl="" lex_translit="eseo">에서</ana>
+			</w>
+			<w translit="saseo">
+				<ana lex="사서" gr="S" transl="библиотекарь; абонентский ящик; " lex_translit="saseo">사서</ana>
+			</w>
+			<w translit="meokneundago">
+				<ana lex="먹다" gr="V" transl="есть" lex_translit="meokda">먹는다고</ana>
+			</w>
+			<w translit="hayeotda">
+				<ana lex="하였다" gr="S,aux" transl="; " lex_translit="hayeotda">하였다</ana>
+			</w>
+		</se>
+		<se lang="rus">Кроме того, еще говорили, что эти люди даже воду и рис покупали в валютных магазинах.
+		</se>
+	</para>
+	<para id="17017">
+		<se lang="kor" has_translit="true">
+			<w translit="1990nyeondae">
+				<ana lex="1990년대" gr="S,aux" transl="" lex_translit="1990nyeondae">1990년대</ana>
+			</w>
+			<w translit="choban">
+				<ana lex="초반" gr="S" transl="; начало; начальная стадия" lex_translit="choban">초반</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="geu">
+				<ana lex="그다" gr="A" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">그</ana>
+			</w>
+			<w translit="chingudeuri">
+				<ana lex="친구" gr="S" transl="друг" lex_translit="chingu">친구들이</ana>
+			</w>
+			<w translit="haru">
+				<ana lex="하루" gr="S" transl="один день" lex_translit="haru">하루</ana>
+			</w>
+			<w translit="jeonyeok">
+				<ana lex="저녁" gr="S" transl="вечер; ужин" lex_translit="jeonyeok">저녁</ana>
+			</w>
+			<w translit="siksa">
+				<ana lex="식사" gr="S" transl="пища, еда" lex_translit="siksa">식사</ana>
+			</w>
+			<w translit="bi">
+				<ana lex="비" gr="S" transl="дождь; веник" lex_translit="bi">비</ana>
+			</w>
+			<w translit="wa">
+				<ana lex="와" gr="PART,com" transl="" lex_translit="wa">와</ana>
+			</w>
+			<w translit="sulgap">
+				<ana lex="술값" gr="S" transl="" lex_translit="sulgap">술값</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="jibulhaneun">
+				<ana lex="지불다" gr="V,partcp" transl="" lex_translit="jibulda">지불하는</ana>
+			</w>
+			<w translit="don">
+				<ana lex="돈" gr="S" transl="деньги" lex_translit="don">돈</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">120~150달러였다</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="don">
+				<ana lex="돈" gr="S" transl="деньги" lex_translit="don">돈</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="hwansanhamyeon">
+				<ana lex="환산" gr="" transl="" lex_translit="hwansan">환산하면</ana>
+			</w>
+			<w translit="eseo">
+				<ana lex="에서" gr="PART" transl="" lex_translit="eseo">에서</ana>
+			</w>
+			<w translit="1man5000won">
+				<ana lex="1만5000원" gr="S,aux" transl="" lex_translit="1man5000won">1만5000원</ana>
+			</w>
+			<w translit="jeongdoyeotda">
+				<ana lex="정도였다" gr="S" transl="" lex_translit="jeongdoyeotda">정도였다</ana>
+			</w>
+		</se>
+		<se lang="rus">В первой половине 90-ых годов мои знакомые за ужин могли заплатить 120-150 долларов, что составляет приблизительно 10.000-15.000 северокорейских вон.
+		</se>
+	</para>
+	<para id="18018">
+		<se lang="kor" has_translit="true">
+			<w translit="geu">
+				<ana lex="그다" gr="A" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">그</ana>
+			</w>
+			<w translit="dangsi">
+				<ana lex="당시" gr="S" transl="тогда, в то время, во время" lex_translit="dangsi">당시</ana>
+			</w>
+			<w translit="sukryeondoen">
+				<ana lex="숙련다" gr="V,partcp" transl="" lex_translit="sukryeonda">숙련된</ana>
+			</w>
+			<w translit="gogeup">
+				<ana lex="고급" gr="S" transl="высокое качество; высокий уровень; высококачественный; элегантный; богатый; старшая группа; высокосортный товар; высококачественный товар; дорогой товар; высококачественный; высокий; благородный; высокое качество; первый класс; высший сорт" lex_translit="gogeup">고급</ana>
+			</w>
+			<w translit="nodongja">
+				<ana lex="노동자" gr="S" transl="рабочий; работник; разнорабочий; наёмный работник; разнорабочий; чернорабочий" lex_translit="nodongja">노동자</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="han">
+				<ana lex="한" gr="S" transl="какой-то; один; одинаковый; около; обида; недовольство; раскаяние; предел; граница; тяжёлый момент; непосильный момент; пока; поскольку; большой; огромный; чёткий; разгар; наружный; вне; свободный; река Ханган; Корея; корейские буквы" lex_translit="han">한</ana>
+			</w>
+			<w translit="dal">
+				<ana lex="달" gr="S" transl="месяц" lex_translit="dal">달</ana>
+			</w>
+			<w translit="wolgeup">
+				<ana lex="월급" gr="S" transl="зарплата, жалование" lex_translit="wolgeup">월급</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="80won">
+				<ana lex="80원" gr="S,aux" transl="" lex_translit="80won">80원</ana>
+			</w>
+			<w translit="jeongdoyeosseuni">
+				<ana lex="정도다" gr="V,ger" transl="" lex_translit="jeongdoda">정도였으니</ana>
+			</w>
+			<w translit="geudeuri">
+				<ana lex="그" gr="S" transl="тот, та, то" lex_translit="geu">그들이</ana>
+			</w>
+			<w translit="haru">
+				<ana lex="하루" gr="S" transl="один день" lex_translit="haru">하루</ana>
+			</w>
+			<w translit="jeonyeok">
+				<ana lex="저녁" gr="S" transl="вечер; ужин" lex_translit="jeonyeok">저녁</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="sikdang">
+				<ana lex="식당" gr="S" transl="столовая" lex_translit="sikdang">식당</ana>
+			</w>
+			<w translit="eseo">
+				<ana lex="에서" gr="PART" transl="" lex_translit="eseo">에서</ana>
+			</w>
+			<w translit="tangjinhaneun">
+				<ana lex="탕진다" gr="V,partcp" transl="" lex_translit="tangjinda">탕진하는</ana>
+			</w>
+			<w translit="doneun">
+				<ana lex="돈은" gr="S" transl="" lex_translit="doneun">돈은</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="nodongja">
+				<ana lex="노동자" gr="S" transl="рабочий; работник; разнорабочий; наёмный работник; разнорабочий; чернорабочий" lex_translit="nodongja">노동자</ana>
+			</w>
+			<w translit="ga">
+				<ana lex="가" gr="PART" transl="" lex_translit="ga">가</ana>
+			</w>
+			<w translit="batneun">
+				<ana lex="받다" gr="V,partcp" transl="получать" lex_translit="batda">받는</ana>
+			</w>
+			<w translit="wolgeup">
+				<ana lex="월급" gr="S" transl="зарплата, жалование" lex_translit="wolgeup">월급</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="subaek">
+				<ana lex="수백" gr="NUM" transl="несколько сотен; сотни; несколько миллионов; миллионы; несколько миллионов" lex_translit="subaek">수백</ana>
+			</w>
+			<w translit="bae">
+				<ana lex="배" gr="S" transl="живот; груша; корабль" lex_translit="bae">배</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="haedanghaneun">
+				<ana lex="해당다" gr="V,partcp" transl="" lex_translit="haedangda">해당하는</ana>
+			</w>
+			<w translit="gyumoyeotda">
+				<ana lex="규모였다" gr="S" transl="" lex_translit="gyumoyeotda">규모였다</ana>
+			</w>
+		</se>
+		<se lang="rus">В среднем высококвалифицированный рабочий получал 80 вон в месяц. Ежедневно они оставляли в кафе суммы, в несколько раз превышающие зарплату рабочего.
+		</se>
+	</para>
+	<para id="19019">
+		<se lang="kor" has_translit="true">
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="gwonryeokcheungdeureun">
+				<ana lex="권력층" gr="S" transl="; влиятельный класс; властные круги; власть имущие" lex_translit="gwonryeokcheung">권력층들은</ana>
+			</w>
+			<w translit="yeonghwa">
+				<ana lex="영화" gr="S" transl="кинокартина, кинофильм" lex_translit="yeonghwa">영화</ana>
+			</w>
+			<w translit="na">
+				<ana lex="나" gr="PART,com" transl="" lex_translit="na">나</ana>
+			</w>
+			<w translit="gangyeonhoe">
+				<ana lex="강연회" gr="S" transl="публичная лекция" lex_translit="gangyeonhoe">강연회</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="tonghaeseoneun">
+				<ana lex="통하다" gr="V,ger" transl="проходить; совпадать" lex_translit="tonghada">통해서는</ana>
+			</w>
+			<w translit="aewanyong">
+				<ana lex="애완용" gr="S" transl="" lex_translit="aewanyong">애완용</ana>
+			</w>
+			<w translit="gae">
+				<ana lex="개" gr="S" transl="собака; штука (счетное слово)" lex_translit="gae">개</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="gireuneun">
+				<ana lex="기르다" gr="V,partcp" transl="выращивать, воспитывать; прививать" lex_translit="gireuda">기르는</ana>
+			</w>
+			<w translit="geosi">
+				<ana lex="것이" gr="S,aux" transl="" lex_translit="geosi">것이</ana>
+			</w>
+			<w translit="sseokgo">
+				<ana lex="썩다" gr="V,ger" transl="гнить" lex_translit="sseokda">썩고</ana>
+			</w>
+			<w translit="byeongdeun">
+				<ana lex="병들다" gr="V,partcp" transl="заболеть; заболеть скрытой болезнью" lex_translit="byeongdeulda">병든</ana>
+			</w>
+			<w translit="jabonjuui">
+				<ana lex="자본주의" gr="S" transl="капитализм; капиталистическое государство" lex_translit="jabonjuui">자본주의</ana>
+			</w>
+			<w translit="sahoe">
+				<ana lex="사회" gr="S" transl="общество" lex_translit="sahoe">사회</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="moseubirago">
+				<ana lex="모습다" gr="V,ger" transl="" lex_translit="moseupda">모습이라고</ana>
+			</w>
+			<w translit="yokhamyeonseo">
+				<ana lex="욕하다" gr="V,ger" transl="ругаться; злословить; ругать кого-либо; чрезмерно жадный; проявлять сильную жадность; жадничать; воздерживаться; полностью отказываться; вести аскетическую жизнь; умерщвлять плоть; презирать; оскорблять; не уважать; позорить; пренебрегать; изнасиловать; унижать; оскорблять; презирать; купаться; мыться; принимать ванну; бескорысный; великодушный; щедрый; смывать позор; мстить; Принимать ванну" lex_translit="yokhada">욕하면서</ana>
+			</w>
+			<w translit="jasindeureun">
+				<ana lex="자신" gr="S" transl="сам, уверенность, вера в себя" lex_translit="jasin">자신들은</ana>
+			</w>
+			<w translit="sucheonmanwonssigeul">
+				<ana lex="수천만" gr="S" transl="десятки миллионов; мномиллионный; бессчётный" lex_translit="sucheonman">수천만원씩을</ana>
+			</w>
+			<w translit="deuryeo">
+				<ana lex="들이다" gr="V" transl="впустить; пропустить; впускать; вселять; поселять; вступить; входить; вносить; заносить; принимать; нанимать; окрашивать; вкладывать; прививать, делать привычным; принимать; принять; закупать; покупать; гарнировать; приручать, делать домашним; приучить; адаптировать; вводить; ввозить; подключаться; впутываться; доставать; привлекать; завлекать; включать; влечь за собой; впутывать; вмешивать; окрасить; влиять; зазывать; вызывать; собирать; убирать (урожай); собирать; приводить в порядок; прибирать; убирать; добиваться; достигать; забирать, убирать (труп); воспитывать; ухаживать; растить; собирать; убирать; брать (свои слова) обратно; отводить взгляд; терять интерес; прекращать; сворачивать (атаку); отводить (войска); собирать; получать; собирать; убирать (урожай); собирать; приводить в порядок; прибирать; убирать; добиваться; достигать; забирать, убирать (труп); воспитывать; ухаживать; растить; собирать; убирать; брать (свои слова) обратно; отводить взгляд; терять интерес; прекращать; сворачивать (атаку); отводить (войска); собирать; получать" lex_translit="deurida">들여</ana>
+			</w>
+			<w translit="aewanyong">
+				<ana lex="애완용" gr="S" transl="" lex_translit="aewanyong">애완용</ana>
+			</w>
+			<w translit="gae">
+				<ana lex="개" gr="S" transl="собака; штука (счетное слово)" lex_translit="gae">개</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="kiugo">
+				<ana lex="키우다" gr="V,ger" transl="выращивать, воспитывать" lex_translit="kiuda">키우고</ana>
+			</w>
+			<w translit="wa">
+				<ana lex="와" gr="PART,com" transl="" lex_translit="wa">와</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="" transl="" lex_translit="">꼬냑</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="seonmul">
+				<ana lex="선물" gr="S" transl="подарок" lex_translit="seonmul">선물</ana>
+			</w>
+			<w translit="ro">
+				<ana lex="로" gr="PART" transl="" lex_translit="ro">로</ana>
+			</w>
+			<w translit="jumyeonseo">
+				<ana lex="주다" gr="V,ger" transl="давать, отдавать, вручать" lex_translit="juda">주면서</ana>
+			</w>
+			<w translit="chungseongsim">
+				<ana lex="충성심" gr="S" transl="; преданность" lex_translit="chungseongsim">충성심</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="yudohagido">
+				<ana lex="유도" gr="S" transl="стимулирование; вызов; индукция; дзюдо; стимулироваться; приводиться; индуцировать; наводящий вопрос; стимуливать; наводить; вызывать; индуктировать" lex_translit="yudo">유도하기도</ana>
+			</w>
+			<w translit="haetda">
+				<ana lex="하다" gr="V" transl="делать" lex_translit="hada">했다</ana>
+			</w>
+		</se>
+		<se lang="rus">С помощью кинематографа и различных лекций северокорейская элита осуждает разлагающееся капиталистическое общество, сравнивая его с растущим псом. Но северокорейский истеблишмент, тратящий тысячи долларов, сам подкармливает этого пса черной икрой и коньяком.
+		</se>
+	</para>
+	<para id="20020">
+		<se lang="kor" has_translit="true">
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="choego">
+				<ana lex="최고" gr="S" transl="наилучший; самый большой; самый высокий и т.п; наилучший; самый выдающийся; древнейший; старейший; высокое качество; первый класс; высший сорт; наивысший подъём; кульминация; апогей; Самая высокая цена; наивысшая степень; максимальный уровень; Пик, вершина; Самая высокая позиция; самая высокая должность" lex_translit="choego">최고</ana>
+			</w>
+			<w translit="wicheung">
+				<ana lex="위층" gr="S" transl="верхний этаж; высшие круги" lex_translit="wicheung">위층</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="janyeo">
+				<ana lex="자녀" gr="S" transl="дети: сыновья и дочери" lex_translit="janyeo">자녀</ana>
+			</w>
+			<w translit="na">
+				<ana lex="나" gr="PART,com" transl="" lex_translit="na">나</ana>
+			</w>
+			<w translit="myeoneuri">
+				<ana lex="며느리" gr="S" transl="сноха" lex_translit="myeoneuri">며느리</ana>
+			</w>
+			<w translit="buindeureun">
+				<ana lex="부인" gr="S" transl="замужняя женщина, дама" lex_translit="buin">부인들은</ana>
+			</w>
+			<w translit="juro">
+				<ana lex="주로" gr="ADV" transl="обычно, главным образом" lex_translit="juro">주로</ana>
+			</w>
+			<w translit="oehwa">
+				<ana lex="외화" gr="S" transl="иностранная валюта; зарубежный кинофильм" lex_translit="oehwa">외화</ana>
+			</w>
+			<w translit="sangjeom">
+				<ana lex="상점" gr="S" transl="магазин" lex_translit="sangjeom">상점</ana>
+			</w>
+			<w translit="gwa">
+				<ana lex="과" gr="PART,com" transl="" lex_translit="gwa">과</ana>
+			</w>
+			<w translit="oehwasikdang">
+				<ana lex="외화식당" gr="S" transl="" lex_translit="oehwasikdang">외화식당</ana>
+			</w>
+			<w translit="oegugin">
+				<ana lex="외국인" gr="S" transl="иностранец" lex_translit="oegugin">외국인</ana>
+			</w>
+			<w translit="hotel">
+				<ana lex="호텔" gr="S" transl="отель, гостиница" lex_translit="hotel">호텔</ana>
+			</w>
+			<w translit="eseo">
+				<ana lex="에서" gr="PART" transl="" lex_translit="eseo">에서</ana>
+			</w>
+			<w translit="ilhanda">
+				<ana lex="일하다" gr="V" transl="работать, трудиться" lex_translit="ilhada">일한다</ana>
+			</w>
+		</se>
+		<se lang="rus">Жены чиновников, их дочери, снохи и невестки работают в валютных магазинах, валютных кафе или международных отелях.
+		</se>
+	</para>
+	<para id="21021">
+		<se lang="kor" has_translit="true">
+			<w translit="hyeongje">
+				<ana lex="형제" gr="S" transl="братья" lex_translit="hyeongje">형제</ana>
+			</w>
+			<w translit="na">
+				<ana lex="나" gr="PART,com" transl="" lex_translit="na">나</ana>
+			</w>
+			<w translit="adeul">
+				<ana lex="아들" gr="S" transl="сын" lex_translit="adeul">아들</ana>
+			</w>
+			<w translit="sawi">
+				<ana lex="사위" gr="S" transl="зять, муж дочери" lex_translit="sawi">사위</ana>
+			</w>
+			<w translit="deungeun">
+				<ana lex="등은" gr="S,aux" transl="" lex_translit="deungeun">등은</ana>
+			</w>
+			<w translit="haeoegonggwan">
+				<ana lex="해외공관" gr="S" transl="" lex_translit="haeoegonggwan">해외공관</ana>
+			</w>
+			<w translit="deunge">
+				<ana lex="등에" gr="S" transl="" lex_translit="deunge">등에</ana>
+			</w>
+			<w translit="seo">
+				<ana lex="서" gr="PART" transl="" lex_translit="seo">서</ana>
+			</w>
+			<w translit="oegyogwan">
+				<ana lex="외교관" gr="S" transl="; дипломат" lex_translit="oegyogwan">외교관</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="geunmuhaneun">
+				<ana lex="근무다" gr="V,partcp" transl="" lex_translit="geunmuda">근무하는</ana>
+			</w>
+			<w translit="gyeongu">
+				<ana lex="경우" gr="S" transl="случай; обстоятельство" lex_translit="gyeongu">경우</ana>
+			</w>
+			<w translit="ga">
+				<ana lex="가" gr="PART" transl="" lex_translit="ga">가</ana>
+			</w>
+			<w translit="manta">
+				<ana lex="많다" gr="A" transl="многочисленный, много" lex_translit="manta">많다</ana>
+			</w>
+		</se>
+		<se lang="rus">Сыновья, братья и зятья обычно находятся на дипломатической службе в посольствах.
+		</se>
+	</para>
+	<para id="22022">
+		<se lang="kor" has_translit="true">
+			<w translit="ireon">
+				<ana lex="이런다" gr="A" transl="" lex_translit="ireonda">이런</ana>
+			</w>
+			<w translit="gihoe">
+				<ana lex="기회" gr="S" transl="случай, шанс" lex_translit="gihoe">기회</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="tonghae">
+				<ana lex="통하다" gr="V" transl="проходить; совпадать" lex_translit="tonghada">통해</ana>
+			</w>
+			<w translit="dalreo">
+				<ana lex="달러" gr="S" transl="доллар" lex_translit="dalreo">달러</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="mul">
+				<ana lex="물" gr="S" transl="вода" lex_translit="mul">물</ana>
+			</w>
+			<w translit="sseudeut">
+				<ana lex="쓰다" gr="V,ger" transl="писать; употреблять; горький; надевать (головной убор)" lex_translit="sseuda">쓰듯</ana>
+			</w>
+			<w translit="hago">
+				<ana lex="하다" gr="V,ger" transl="делать" lex_translit="hada">하고</ana>
+			</w>
+			<w translit="itda">
+				<ana lex="있다" gr="V,aux" transl="быть, иметься, находиться" lex_translit="itda">있다</ana>
+			</w>
+		</se>
+		<se lang="rus">Поэтому они и распоряжаются валютой с такой легкостью.
+		</se>
+	</para>
+	<para id="23023">
+		<se lang="kor" has_translit="true">
+			<w translit="hanguk">
+				<ana lex="한국" gr="S" transl="Республика Корея" lex_translit="hanguk">한국</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="ilbu">
+				<ana lex="일부" gr="S" transl="часть; доля; экземпляр; нарочно; намеренно; часть; полигамия; многожёнство; моногамия; моногамия; единобрачие" lex_translit="ilbu">일부</ana>
+			</w>
+			<w translit="insadeulgwa">
+				<ana lex="인사" gr="S" transl="приветствие; представление друг другу" lex_translit="insa">인사들과</ana>
+			</w>
+			<w translit="jeongchiindeuri">
+				<ana lex="정치인" gr="S" transl="; политик; политический деятель" lex_translit="jeongchiin">정치인들이</ana>
+			</w>
+			<w translit="geokjeonghaneun">
+				<ana lex="걱정다" gr="V,partcp" transl="" lex_translit="geokjeongda">걱정하는</ana>
+			</w>
+			<w translit="cheoreom">
+				<ana lex="처럼" gr="PART" transl="" lex_translit="cheoreom">처럼</ana>
+			</w>
+			<w translit="bukhan">
+				<ana lex="북한" gr="S" transl="Северная Корея" lex_translit="bukhan">북한</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="sikryangnaneun">
+				<ana lex="식량난은" gr="S" transl="" lex_translit="sikryangnaneun">식량난은</ana>
+			</w>
+			<w translit="daebuk">
+				<ana lex="대북" gr="S" transl="" lex_translit="daebuk">대북</ana>
+			</w>
+			<w translit="sikryangjiwon">
+				<ana lex="식량지원" gr="S" transl="" lex_translit="sikryangjiwon">식량지원</ana>
+			</w>
+			<w translit="jungdan">
+				<ana lex="중단" gr="S" transl="перерыв, пауза" lex_translit="jungdan">중단</ana>
+			</w>
+			<w translit="ina">
+				<ana lex="이나" gr="PART,com" transl="" lex_translit="ina">이나</ana>
+			</w>
+			<w translit="miguk">
+				<ana lex="미국" gr="S" transl="Соединенные Штаты Америки" lex_translit="miguk">미국</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="gyeongjebongswae">
+				<ana lex="경제봉쇄" gr="S" transl="" lex_translit="gyeongjebongswae">경제봉쇄</ana>
+			</w>
+			<w translit="nambuk">
+				<ana lex="남북" gr="S" transl="юг и север" lex_translit="nambuk">남북</ana>
+			</w>
+			<w translit="gwangye">
+				<ana lex="관계" gr="S" transl="отношение; связь" lex_translit="gwangye">관계</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="gyeongsaek">
+				<ana lex="경색" gr="S" transl="застой; инертность; инфаркт; застаиваться; становиться инертным" lex_translit="gyeongsaek">경색</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="inhae">
+				<ana lex="인하다" gr="V" transl="вытекать из; в ряд; сильный; стойкий; терпеливый; восходить к чему-либо; проистекать; исходить из чего-либо; жестокий; безжалостный; ставить штамп (печать); запомнить; запечатлеть; ясно помнить; буксировать; вести; тянуть за собой; официально признавать; аккредитовывать; сертифицировать; лицензировать; аттестовать; широко признавать; Арестовывать" lex_translit="inhada">인해</ana>
+			</w>
+			<w translit="ireonan">
+				<ana lex="일어나다" gr="V,partcp" transl="появляться, возникать, происходить" lex_translit="ireonada">일어난</ana>
+			</w>
+			<w translit="il">
+				<ana lex="일" gr="S" transl="один; работа, дело, занятие" lex_translit="il">일</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="anida">
+				<ana lex="아니다다" gr="V,cop,neg" transl="" lex_translit="anidada">아니다</ana>
+			</w>
+		</se>
+		<se lang="rus">Беспокойство политических кругов Южной Кореи, как и сама проблема нехватки продовольствия в КНДР, никак не связаны с экономической блокадой США, кризисом в отношениях на Корейском полуострове или перерывами в поставках продовольствия в КНДР.
+		</se>
+	</para>
+	<para id="24024">
+		<se lang="kor" has_translit="true">
+			<w translit="gimilseong">
+				<ana lex="김일성" gr="S" transl="" lex_translit="gimilseong">김일성</ana>
+			</w>
+			<w translit="euro">
+				<ana lex="으로" gr="PART" transl="" lex_translit="euro">으로</ana>
+			</w>
+			<w translit="buteo">
+				<ana lex="부터" gr="PART" transl="" lex_translit="buteo">부터</ana>
+			</w>
+			<w translit="mulryeobadeun">
+				<ana lex="물려받다" gr="V,partcp" transl="наследовать, получать" lex_translit="mulryeobatda">물려받은</ana>
+			</w>
+			<w translit="seseup">
+				<ana lex="세습" gr="S" transl="наследственность; наследственный; унаследованный" lex_translit="seseup">세습</ana>
+			</w>
+			<w translit="wangjo">
+				<ana lex="왕조" gr="S" transl="династия; Чосонванджосиллок" lex_translit="wangjo">왕조</ana>
+			</w>
+			<w translit="dokjae">
+				<ana lex="독재" gr="S" transl="диктатура" lex_translit="dokjae">독재</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="bupae">
+				<ana lex="부패" gr="S" transl="разложение; разлагаться; разложение; развращение; гибель; разрушение; разлагаться; расщепляться; развращаться; гнить; коррумпироваться; коррупция; продажность" lex_translit="bupae">부패</ana>
+			</w>
+			<w translit="wa">
+				<ana lex="와" gr="PART,com" transl="" lex_translit="wa">와</ana>
+			</w>
+			<w translit="tarak">
+				<ana lex="타락" gr="S" transl="падение, деградация, моральное разложение" lex_translit="tarak">타락</ana>
+			</w>
+			<w translit="ttaemunida">
+				<ana lex="때문이다" gr="S,aux" transl="" lex_translit="ttaemunida">때문이다</ana>
+			</w>
+		</se>
+		<se lang="rus">Причина кроется в диктатуре, унаследованной вместе с разложением и коррупцией высших кругов еще со времен Ким Ир Сена.
+		</se>
+	</para>
+	<para id="25025">
+		<se lang="kor" has_translit="true">
+			<w translit="baekseongdeurui">
+				<ana lex="백성" gr="S" transl="народ; подданные; люди" lex_translit="baekseong">백성들의</ana>
+			</w>
+			<w translit="saenghwal">
+				<ana lex="생활" gr="S" transl="жизнь" lex_translit="saenghwal">생활</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="neun">
+				<ana lex="는" gr="PART" transl="" lex_translit="neun">는</ana>
+			</w>
+			<w translit="gwansimjocha">
+				<ana lex="관심조차" gr="S" transl="" lex_translit="gwansimjocha">관심조차</ana>
+			</w>
+			<w translit="eopgo">
+				<ana lex="없" gr="A,ger" transl="" lex_translit="eop">없고</ana>
+			</w>
+			<w translit="jasindeurui">
+				<ana lex="자신" gr="S" transl="сам, уверенность, вера в себя" lex_translit="jasin">자신들의</ana>
+			</w>
+			<w translit="yokmang">
+				<ana lex="욕망" gr="S" transl="страстное желание; жажда чего-либо; страстно желать чего-либо; жаждать чего-либо; чаять чего-либо" lex_translit="yokmang">욕망</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="wihae">
+				<ana lex="위하다" gr="V" transl="служить; ухаживать; заботиться; дорожить; почитать; поклоняться; стремиться; обширный; масштабный; короноваться; Всесильный; всемогущий; охранять; защищать; оборонять; сохранять; защищать; протестовать; бастовать; протестовать; митинговать; проводить забастовку; самоуспокаиваться; мастурбировать" lex_translit="wihada">위해</ana>
+			</w>
+			<w translit="gukbu">
+				<ana lex="국부" gr="S" transl="часть; интимная область; интимные части тела; отец отечества (истор.: император); отец-основатель; национальное богатство; частичный; частичный" lex_translit="gukbu">국부</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="maeumdaero">
+				<ana lex="마음대로" gr="ADV" transl="; как душе угодно" lex_translit="maeumdaero">마음대로</ana>
+			</w>
+			<w translit="tangjinhaneun">
+				<ana lex="탕진다" gr="V,partcp" transl="" lex_translit="tangjinda">탕진하는</ana>
+			</w>
+			<w translit="gim">
+				<ana lex="김" gr="S" transl="испарение; сорняк; порфира" lex_translit="gim">김</ana>
+			</w>
+			<w translit="jeongeun">
+				<ana lex="정은" gr="S" transl="" lex_translit="jeongeun">정은</ana>
+			</w>
+			<w translit="gwa">
+				<ana lex="과" gr="PART,com" transl="" lex_translit="gwa">과</ana>
+			</w>
+			<w translit="choego">
+				<ana lex="최고" gr="S" transl="наилучший; самый большой; самый высокий и т.п; наилучший; самый выдающийся; древнейший; старейший; высокое качество; первый класс; высший сорт; наивысший подъём; кульминация; апогей; Самая высокая цена; наивысшая степень; максимальный уровень; Пик, вершина; Самая высокая позиция; самая высокая должность" lex_translit="choego">최고</ana>
+			</w>
+			<w translit="wicheung">
+				<ana lex="위층" gr="S" transl="верхний этаж; высшие круги" lex_translit="wicheung">위층</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="hohwa">
+				<ana lex="호화" gr="S" transl="роскошь; великолепие; роскошный; яркий; кодирование; шифрование; шифровка; кодировка; кодировать (информации); зашифровывать; шифровать" lex_translit="hohwa">호화</ana>
+			</w>
+			<w translit="sachi">
+				<ana lex="사치" gr="S" transl="роскошь; роскошество; роскошный; роскошество; предметы роскоши; приблизительное значение; приблизительная величина; торгаш; пах; формальное приветствие; формальности" lex_translit="sachi">사치</ana>
+			</w>
+			<w translit="saenghwal">
+				<ana lex="생활" gr="S" transl="жизнь" lex_translit="saenghwal">생활</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="gajang">
+				<ana lex="가장" gr="ADV" transl="глава семьи, хозяин дома; самый, наиболее" lex_translit="gajang">가장</ana>
+			</w>
+			<w translit="keun">
+				<ana lex="크다" gr="A,partcp" transl="большой" lex_translit="keuda">큰</ana>
+			</w>
+			<w translit="yoinida">
+				<ana lex="요인이다" gr="S" transl="" lex_translit="yoinida">요인이다</ana>
+			</w>
+		</se>
+		<se lang="rus">Ким Чен Ын и северокорейский истеблишмент не думают о жизни простого человека, растрачивая «народное богатство» и исполняя личные прихоти.
+		</se>
+	</para></xml>
