@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<para id="1">
+		<se lang="kor" has_translit="true">
+			<w translit="saranghandago">
+				<ana lex="사랑" gr="" transl="" lex_translit="sarang">사랑한다고</ana>
+			</w>
+			<w translit="haejwo">
+				<ana lex="하다" gr="V" transl="делать" lex_translit="hada">해줘</ana>
+			</w>
+		</se>
+		<se lang="rus">Скажи, что любишь меня.
+		</se>
+	</para>
+	<para id="4">
+		<se lang="kor" has_translit="true">
+			<w translit="ajikdo">
+				<ana lex="아직도" gr="ADV" transl="" lex_translit="ajikdo">아직도</ana>
+			</w>
+			<w translit="nal">
+				<ana lex="날" gr="S" transl="день, сутки, лезвие, острие, сырой, незрелый" lex_translit="nal">날</ana>
+			</w>
+			<w translit="wonhandago">
+				<ana lex="원하다" gr="V,ger" transl="желать что-либо; хотеть что-либо; прохладный; освежающий; приятно горячий; просторный; широкий; оживлённый; бодрый; свежий; чистый; удовлетворённый; облегчённый; свободный; удовлетворённый; приятный; сокращать людей; открывать; держаться почтительно, но на расстоянии; относиться с уважением, но холодно; Спасать; Избавлять от грехов; иметь своим источником что-либо; вести начало от чего-либо; восходить к чему-либо; происходить от чего-либо; исходить от чего-либо; молить; молиться; просить; умолять; желать" lex_translit="wonhada">원한다고</ana>
+			</w>
+		</se>
+		<se lang="rus">Что всё ещё жаждешь меня.
+		</se>
+	</para>
+	<para id="1001">
+		<se lang="kor" has_translit="true">
+			<w translit="gaseum">
+				<ana lex="가슴" gr="S" transl="грудь; душа, сердце" lex_translit="gaseum">가슴</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="michil">
+				<ana lex="미치다" gr="V,partcp" transl="сходить с ума, бесноваться; достигать, доходить" lex_translit="michida">미칠</ana>
+			</w>
+			<w translit="deusi">
+				<ana lex="듯이" gr="S,aux" transl="словно; до такой степени; как будто; словно; как будто; такой; подобно этому; вежливо; обходительно; тепло; тепло; негорячо; прямо; ровно; ровно; прямо" lex_translit="deusi">듯이</ana>
+			</w>
+			<w translit="dapdaphae">
+				<ana lex="답답다" gr="V" transl="" lex_translit="dapdapda">답답해</ana>
+			</w>
+		</se>
+		<se lang="rus">Моё сердце будто бы разрывается от боли.
+		</se>
+	</para>
+	<para id="1002">
+		<se lang="kor" has_translit="true">
+			<w translit="geunyang">
+				<ana lex="그냥" gr="ADV" transl="по-прежнему, просто" lex_translit="geunyang">그냥</ana>
+			</w>
+			<w translit="ireoke">
+				<ana lex="이렇" gr="ADV" transl="такой; такой; подобный; такой; подобный; верно; правильно; быть так; в такой мере; до такой степени; настолько" lex_translit="ireo">이렇게</ana>
+			</w>
+			<w translit="nal">
+				<ana lex="날" gr="S" transl="день, сутки, лезвие, острие, сырой, незрелый" lex_translit="nal">날</ana>
+			</w>
+			<w translit="tteonaneun">
+				<ana lex="떠나다" gr="V,partcp" transl="отправляться, оставлять, покидать" lex_translit="tteonada">떠나는</ana>
+			</w>
+			<w translit="neol">
+				<ana lex="널" gr="S" transl="доска" lex_translit="neol">널</ana>
+			</w>
+			<w translit="japji">
+				<ana lex="잡지" gr="S" transl="журнал" lex_translit="japji">잡지</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="" transl="" lex_translit="">못해</ana>
+			</w>
+		</se>
+		<se lang="rus">Ты вот так покидаешь меня. Я не могу удержать тебя.
+		</se>
+	</para>
+	<para id="1005">
+		<se lang="kor" has_translit="true">
+			<w translit="neujeun">
+				<ana lex="늦다" gr="A,partcp" transl="отставать, опаздывать, поздний час" lex_translit="neutda">늦은</ana>
+			</w>
+			<w translit="huhoe">
+				<ana lex="후회" gr="S" transl="раскаяние, покаяние" lex_translit="huhoe">후회</ana>
+			</w>
+		</se>
+		<se lang="rus">Столь позднее раскаяние.
+		</se>
+	</para>
+	<para id="1006">
+		<se lang="kor" has_translit="true">
+			<w translit="geunyang">
+				<ana lex="그냥" gr="ADV" transl="по-прежнему, просто" lex_translit="geunyang">그냥</ana>
+			</w>
+			<w translit="honjatmalman">
+				<ana lex="혼잣말만" gr="S" transl="" lex_translit="honjatmalman">혼잣말만</ana>
+			</w>
+		</se>
+		<se lang="rus">Я просто разговариваю сам с собой.
+		</se>
+	</para>
+	<para id="1007">
+		<se lang="kor" has_translit="true">
+			<w translit="neomu">
+				<ana lex="너무" gr="ADV" transl="слишком, чрезмерно" lex_translit="neomu">너무</ana>
+			</w>
+			<w translit="neujeun">
+				<ana lex="늦다" gr="A,partcp" transl="отставать, опаздывать, поздний час" lex_translit="neutda">늦은</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="S" transl="зуб" lex_translit="i">이</ana>
+			</w>
+			<w translit="malman">
+				<ana lex="말만" gr="S" transl="" lex_translit="malman">말만</ana>
+			</w>
+		</se>
+		<se lang="rus">Однако уже слишком поздно говорить об этом.
+		</se>
+	</para>
+	<para id="4001">
+		<se lang="kor" has_translit="true">
+			<w translit="maeil">
+				<ana lex="매일" gr="ADV" transl="каждый день, ежедневно" lex_translit="maeil">매일</ana>
+			</w>
+			<w translit="bam">
+				<ana lex="밤" gr="S" transl="ночь; каштан" lex_translit="bam">밤</ana>
+			</w>
+			<w translit="na">
+				<ana lex="나" gr="S" transl="я; " lex_translit="na">나</ana>
+			</w>
+			<w translit="holro">
+				<ana lex="홀로" gr="ADV" transl="; один; в одиночестве; в одиночку; одиноко" lex_translit="holro">홀로</ana>
+			</w>
+		</se>
+		<se lang="rus">Каждый день и каждую ночь я одинок.
+		</se>
+	</para>
+	<para id="4003">
+		<se lang="kor" has_translit="true">
+			<w translit="eoreum">
+				<ana lex="얼음" gr="S" transl="лед" lex_translit="eoreum">얼음</ana>
+			</w>
+			<w translit="cheoreom">
+				<ana lex="처럼" gr="PART" transl="" lex_translit="cheoreom">처럼</ana>
+			</w>
+			<w translit="chagawojin">
+				<ana lex="차가워지다" gr="V,partcp" transl="" lex_translit="chagawojida">차가워진</ana>
+			</w>
+			<w translit="na">
+				<ana lex="나" gr="S" transl="я; " lex_translit="na">나</ana>
+			</w>
+			<w translit="simjang">
+				<ana lex="심장" gr="S" transl="сердце" lex_translit="simjang">심장</ana>
+			</w>
+		</se>
+		<se lang="rus">Моё сердце застывало, словно лёд,
+		</se>
+	</para>
+	<para id="4004">
+		<se lang="kor" has_translit="true">
+			<w translit="amuri">
+				<ana lex="아무리" gr="ADV" transl="как бы ни, что бы ни" lex_translit="amuri">아무리</ana>
+			</w>
+			<w translit="nogyeoboryeogo">
+				<ana lex="녹이다" gr="V,ger" transl="плавить; растапливать; расплавлять; растворять; плавить; греть; разогреть; согреть; отогреть; растопить; размягчить; растворять" lex_translit="nogida">녹여보려고</ana>
+			</w>
+			<w translit="haedo">
+				<ana lex="하다" gr="V,ger" transl="делать" lex_translit="hada">해도</ana>
+			</w>
+		</se>
+		<se lang="rus">Не зависимо от того, сколько раз я пытался его растопить.
+		</se>
+	</para>
+	<para id="5003">
+		<se lang="kor" has_translit="true">
+			<w translit="neujeun">
+				<ana lex="늦다" gr="A,partcp" transl="отставать, опаздывать, поздний час" lex_translit="neutda">늦은</ana>
+			</w>
+			<w translit="huhoe">
+				<ana lex="후회" gr="S" transl="раскаяние, покаяние" lex_translit="huhoe">후회</ana>
+			</w>
+		</se>
+		<se lang="rus">Столь позднее раскаяние.
+		</se>
+	</para>
+	<para id="5004">
+		<se lang="kor" has_translit="true">
+			<w translit="geunyang">
+				<ana lex="그냥" gr="ADV" transl="по-прежнему, просто" lex_translit="geunyang">그냥</ana>
+			</w>
+			<w translit="honjatmalman">
+				<ana lex="혼잣말만" gr="S" transl="" lex_translit="honjatmalman">혼잣말만</ana>
+			</w>
+		</se>
+		<se lang="rus">Я просто разговариваю сам с собой.
+		</se>
+	</para>
+	<para id="5005">
+		<se lang="kor" has_translit="true">
+			<w translit="neomu">
+				<ana lex="너무" gr="ADV" transl="слишком, чрезмерно" lex_translit="neomu">너무</ana>
+			</w>
+			<w translit="neujeun">
+				<ana lex="늦다" gr="A,partcp" transl="отставать, опаздывать, поздний час" lex_translit="neutda">늦은</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="S" transl="зуб" lex_translit="i">이</ana>
+			</w>
+			<w translit="malman">
+				<ana lex="말만" gr="S" transl="" lex_translit="malman">말만</ana>
+			</w>
+		</se>
+		<se lang="rus">Однако уже слишком поздно говорить об этом.
+		</se>
+	</para>
+	<para id="8003">
+		<se lang="kor" has_translit="true">
+			<w translit="amuri">
+				<ana lex="아무리" gr="ADV" transl="как бы ни, что бы ни" lex_translit="amuri">아무리</ana>
+			</w>
+			<w translit="honja">
+				<ana lex="혼자" gr="S" transl="один, сам" lex_translit="honja">혼자</ana>
+			</w>
+			<w translit="oechyeobwado">
+				<ana lex="외치다" gr="V,ger" transl="кричать; орать; говорить громким голосом; твёрдо настаивать" lex_translit="oechida">외쳐봐도</ana>
+			</w>
+		</se>
+		<se lang="rus">Сколько бы я не кричал это в одиночестве,
+		</se>
+	</para>
+	<para id="8004">
+		<se lang="kor" has_translit="true">
+			<w translit="neomu">
+				<ana lex="너무" gr="ADV" transl="слишком, чрезмерно" lex_translit="neomu">너무</ana>
+			</w>
+			<w translit="neujeobeoringeol">
+				<ana lex="늦다" gr="V,ger" transl="отставать, опаздывать, поздний час" lex_translit="neutda">늦어버린걸</ana>
+			</w>
+		</se>
+		<se lang="rus">Уже слишком поздно.
+		</se>
+	</para></xml>

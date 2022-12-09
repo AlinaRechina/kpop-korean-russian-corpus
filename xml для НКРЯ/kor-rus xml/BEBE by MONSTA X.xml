@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<para id="1">
+		<se lang="kor" has_translit="true">
+			<w translit="haru">
+				<ana lex="하루" gr="S" transl="один день" lex_translit="haru">하루</ana>
+			</w>
+			<w translit="jongil">
+				<ana lex="종일" gr="S" transl="целый день, весь день" lex_translit="jongil">종일</ana>
+			</w>
+			<w translit="manyang">
+				<ana lex="마냥" gr="ADV" transl="вдоволь, не торопясь, не спеша," lex_translit="manyang">마냥</ana>
+			</w>
+			<w translit="geotdaga">
+				<ana lex="걷다" gr="V,ger" transl="убирать; собирать; шагать" lex_translit="geotda">걷다가</ana>
+			</w>
+			<w translit="jamsi">
+				<ana lex="잠시" gr="ADV" transl="на минуточку, ненадолго, на короткое время" lex_translit="jamsi">잠시</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="tteoolryeo&#10;1">
+				<ana lex="떠올리다" gr="V" transl="вспоминать; приходить в голову; припоминать; воскресить; оживить; вызывать; всплывать; всходить; показываться" lex_translit="tteoolrida">떠올려
+1</ana>
+			</w>
+		</se>
+		<se lang="rus">Каждый раз, прогуливаясь, я думаю о тебе
+		</se>
+	</para>
+	<para id="2">
+		<se lang="kor" has_translit="true">
+			<w translit="geureoda">
+				<ana lex="그러다" gr="V" transl="делая что-нибудь" lex_translit="geureoda">그러다</ana>
+			</w>
+			<w translit="tto">
+				<ana lex="또" gr="ADV" transl="снова, опять, и, еще, еще раз" lex_translit="tto">또</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="eolgul">
+				<ana lex="얼굴" gr="S" transl="лицо" lex_translit="eolgul">얼굴</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="hwanhan">
+				<ana lex="환다" gr="V,partcp" transl="" lex_translit="hwanda">환한</ana>
+			</w>
+			<w translit="miso">
+				<ana lex="미소" gr="S" transl="улыбка" lex_translit="miso">미소</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="jitgo">
+				<ana lex="짓다" gr="V,ger" transl="создавать, строить (дом), слагать (стихи)" lex_translit="jitda">짓고</ana>
+			</w>
+		</se>
+		<se lang="rus">И каждый раз на моем лице появляется улыбка
+		</se>
+	</para>
+	<para id="1001">
+		<se lang="kor" has_translit="true">
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="sigan">
+				<ana lex="시간" gr="S" transl="время" lex_translit="sigan">시간</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="do">
+				<ana lex="도" gr="PART" transl="" lex_translit="do">도</ana>
+			</w>
+			<w translit="naega">
+				<ana lex="내가다" gr="V" transl="вывозить, выносить" lex_translit="naegada">내가</ana>
+			</w>
+			<w translit="isseosseum">
+				<ana lex="있" gr="S" transl="быть; быть; иметься; происходить; иметь место; быть; иметься; быть; происходить; мочь; вкусный; привлекательный; прелестный; замечательный; интересный; увлекательный; нескучный; ненудный; радостный; оставаться спокойным; быть неподвижным; быть безмолвным; бездействовать; оставаться безучастным; тихо подожди немного минутку; иметь отношение к" lex_translit="it">있었음</ana>
+			</w>
+			<w translit="hago">
+				<ana lex="하다" gr="V,ger" transl="делать" lex_translit="hada">하고</ana>
+			</w>
+			<w translit="nan">
+				<ana lex="난" gr="S" transl="столбец, колонка; бунт, мятеж" lex_translit="nan">난</ana>
+			</w>
+			<w translit="tto">
+				<ana lex="또" gr="ADV" transl="снова, опять, и, еще, еще раз" lex_translit="tto">또</ana>
+			</w>
+		</se>
+		<se lang="rus">Надеюсь, что такое происходит и с тобой
+		</se>
+	</para>
+	<para id="1002">
+		<se lang="kor" has_translit="true">
+			<w translit="jinan">
+				<ana lex="지나다" gr="V,partcp" transl="проходить; протекать; выходить; переступать; переходить; проходить; переходить; пройти; миновать; преодолеть; Проходить минуя" lex_translit="jinada">지난</ana>
+			</w>
+			<w translit="chueokdeureul">
+				<ana lex="추억" gr="S" transl="воспоминание" lex_translit="chueok">추억들을</ana>
+			</w>
+			<w translit="dudeuryeo">
+				<ana lex="두드리다" gr="V" transl="стучать, бить, колотить" lex_translit="dudeurida">두드려</ana>
+			</w>
+		</se>
+		<se lang="rus">Навевая старые воспоминания
+		</se>
+	</para>
+	<para id="4002">
+		<se lang="kor" has_translit="true">
+			<w translit="tto">
+				<ana lex="또" gr="ADV" transl="снова, опять, и, еще, еще раз" lex_translit="tto">또</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="saranghago">
+				<ana lex="사랑" gr="" transl="" lex_translit="sarang">사랑하고</ana>
+			</w>
+		</se>
+		<se lang="rus">И я снова люблю тебя
+		</se>
+	</para>
+	<para id="4003">
+		<se lang="kor" has_translit="true">
+			<w translit="ireoke">
+				<ana lex="이렇" gr="ADV" transl="такой; такой; подобный; такой; подобный; верно; правильно; быть так; в такой мере; до такой степени; настолько" lex_translit="ireo">이렇게</ana>
+			</w>
+			<w translit="seoro">
+				<ana lex="서로" gr="S" transl="между собой" lex_translit="seoro">서로</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="baewogamyeo">
+				<ana lex="배워가다" gr="V,ger" transl="" lex_translit="baewogada">배워가며</ana>
+			</w>
+		</se>
+		<se lang="rus">Вот так вот мы учимся друг у друга
+		</se>
+	</para>
+	<para id="5001">
+		<se lang="kor" has_translit="true">
+			<w translit="cheoeumira">
+				<ana lex="처음다" gr="V,ger" transl="" lex_translit="cheoeumda">처음이라</ana>
+			</w>
+			<w translit="seotun">
+				<ana lex="서툴다" gr="A,partcp" transl="; неопытный; неловкий; неумелый" lex_translit="seotulda">서툰</ana>
+			</w>
+			<w translit="bujokhaetdeon">
+				<ana lex="부족다" gr="V" transl="" lex_translit="bujokda">부족했던</ana>
+			</w>
+			<w translit="nareul">
+				<ana lex="나르다" gr="V,partcp" transl="возить, носить, переносить" lex_translit="nareuda">나를</ana>
+			</w>
+		</se>
+		<se lang="rus">Это первый раз, когда я настолько неуклюж
+		</se>
+	</para>
+	<para id="6001">
+		<se lang="kor" has_translit="true">
+			<w translit="i">
+				<ana lex="이" gr="S" transl="зуб" lex_translit="i">이</ana>
+			</w>
+			<w translit="gin">
+				<ana lex="기다" gr="A,partcp" transl="ползать" lex_translit="gida">긴</ana>
+			</w>
+			<w translit="gyeoul">
+				<ana lex="겨울" gr="S" transl="зима" lex_translit="gyeoul">겨울</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="jinaseo">
+				<ana lex="지나다" gr="V,ger" transl="проходить; протекать; выходить; переступать; переходить; проходить; переходить; пройти; миновать; преодолеть; Проходить минуя" lex_translit="jinada">지나서</ana>
+			</w>
+			<w translit="ege">
+				<ana lex="에게" gr="PART" transl="" lex_translit="ege">에게</ana>
+			</w>
+			<w translit="daeul">
+				<ana lex="닿다" gr="V,partcp" transl="соприкасаться, доставать" lex_translit="data">닿을</ana>
+			</w>
+			<w translit="ttaen">
+				<ana lex="때다" gr="V,partcp" transl="топить, разжигать, паять, сварить" lex_translit="ttaeda">땐</ana>
+			</w>
+		</se>
+		<se lang="rus">Если встречу тебя после долгой зимы
+		</se>
+	</para>
+	<para id="9002">
+		<se lang="kor" has_translit="true">
+			<w translit="tto">
+				<ana lex="또" gr="ADV" transl="снова, опять, и, еще, еще раз" lex_translit="tto">또</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="saranghago">
+				<ana lex="사랑" gr="" transl="" lex_translit="sarang">사랑하고</ana>
+			</w>
+		</se>
+		<se lang="rus">И я снова люблю тебя
+		</se>
+	</para>
+	<para id="9003">
+		<se lang="kor" has_translit="true">
+			<w translit="ireoke">
+				<ana lex="이렇" gr="ADV" transl="такой; такой; подобный; такой; подобный; верно; правильно; быть так; в такой мере; до такой степени; настолько" lex_translit="ireo">이렇게</ana>
+			</w>
+			<w translit="seoro">
+				<ana lex="서로" gr="S" transl="между собой" lex_translit="seoro">서로</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="baewogamyeo">
+				<ana lex="배워가다" gr="V,ger" transl="" lex_translit="baewogada">배워가며</ana>
+			</w>
+		</se>
+		<se lang="rus">Вот так вот мы учимся друг у друга
+		</se>
+	</para>
+	<para id="11001">
+		<se lang="kor" has_translit="true">
+			<w translit="haru">
+				<ana lex="하루" gr="S" transl="один день" lex_translit="haru">하루</ana>
+			</w>
+			<w translit="jongil">
+				<ana lex="종일" gr="S" transl="целый день, весь день" lex_translit="jongil">종일</ana>
+			</w>
+			<w translit="manyang">
+				<ana lex="마냥" gr="ADV" transl="вдоволь, не торопясь, не спеша," lex_translit="manyang">마냥</ana>
+			</w>
+			<w translit="geotdaga">
+				<ana lex="걷다" gr="V,ger" transl="убирать; собирать; шагать" lex_translit="geotda">걷다가</ana>
+			</w>
+			<w translit="jamsi">
+				<ana lex="잠시" gr="ADV" transl="на минуточку, ненадолго, на короткое время" lex_translit="jamsi">잠시</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="tteoolryeo">
+				<ana lex="떠올리다" gr="V" transl="вспоминать; приходить в голову; припоминать; воскресить; оживить; вызывать; всплывать; всходить; показываться" lex_translit="tteoolrida">떠올려</ana>
+			</w>
+		</se>
+		<se lang="rus">Каждый раз, прогуливаясь, я думаю о тебе
+		</se>
+	</para>
+	<para id="11002">
+		<se lang="kor" has_translit="true">
+			<w translit="geureoda">
+				<ana lex="그러다" gr="V" transl="делая что-нибудь" lex_translit="geureoda">그러다</ana>
+			</w>
+			<w translit="tto">
+				<ana lex="또" gr="ADV" transl="снова, опять, и, еще, еще раз" lex_translit="tto">또</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="eolgul">
+				<ana lex="얼굴" gr="S" transl="лицо" lex_translit="eolgul">얼굴</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="hwanhan">
+				<ana lex="환다" gr="V,partcp" transl="" lex_translit="hwanda">환한</ana>
+			</w>
+			<w translit="miso">
+				<ana lex="미소" gr="S" transl="улыбка" lex_translit="miso">미소</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="jitgo">
+				<ana lex="짓다" gr="V,ger" transl="создавать, строить (дом), слагать (стихи)" lex_translit="jitda">짓고</ana>
+			</w>
+		</se>
+		<se lang="rus">И каждый раз на моем лице появляется улыбка
+		</se>
+	</para>
+	<para id="12001">
+		<se lang="kor" has_translit="true">
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+			<w translit="sigan">
+				<ana lex="시간" gr="S" transl="время" lex_translit="sigan">시간</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="do">
+				<ana lex="도" gr="PART" transl="" lex_translit="do">도</ana>
+			</w>
+			<w translit="naega">
+				<ana lex="내가다" gr="V" transl="вывозить, выносить" lex_translit="naegada">내가</ana>
+			</w>
+			<w translit="isseosseum">
+				<ana lex="있" gr="S" transl="быть; быть; иметься; происходить; иметь место; быть; иметься; быть; происходить; мочь; вкусный; привлекательный; прелестный; замечательный; интересный; увлекательный; нескучный; ненудный; радостный; оставаться спокойным; быть неподвижным; быть безмолвным; бездействовать; оставаться безучастным; тихо подожди немного минутку; иметь отношение к" lex_translit="it">있었음</ana>
+			</w>
+			<w translit="hago">
+				<ana lex="하다" gr="V,ger" transl="делать" lex_translit="hada">하고</ana>
+			</w>
+			<w translit="nan">
+				<ana lex="난" gr="S" transl="столбец, колонка; бунт, мятеж" lex_translit="nan">난</ana>
+			</w>
+			<w translit="tto">
+				<ana lex="또" gr="ADV" transl="снова, опять, и, еще, еще раз" lex_translit="tto">또</ana>
+			</w>
+		</se>
+		<se lang="rus">Надеюсь, что такое происходит и с тобой
+		</se>
+	</para>
+	<para id="12002">
+		<se lang="kor" has_translit="true">
+			<w translit="jinan">
+				<ana lex="지나다" gr="V,partcp" transl="проходить; протекать; выходить; переступать; переходить; проходить; переходить; пройти; миновать; преодолеть; Проходить минуя" lex_translit="jinada">지난</ana>
+			</w>
+			<w translit="chueokdeureul">
+				<ana lex="추억" gr="S" transl="воспоминание" lex_translit="chueok">추억들을</ana>
+			</w>
+			<w translit="dudeurijana">
+				<ana lex="두드리다" gr="V" transl="стучать, бить, колотить" lex_translit="dudeurida">두드리잖아</ana>
+			</w>
+		</se>
+		<se lang="rus">Навевая старые воспоминания
+		</se>
+	</para>
+	<para id="13003">
+		<se lang="kor" has_translit="true">
+			<w translit="tto">
+				<ana lex="또" gr="ADV" transl="снова, опять, и, еще, еще раз" lex_translit="tto">또</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="saranghago">
+				<ana lex="사랑" gr="" transl="" lex_translit="sarang">사랑하고</ana>
+			</w>
+			<w translit="ireoke">
+				<ana lex="이렇" gr="ADV" transl="такой; такой; подобный; такой; подобный; верно; правильно; быть так; в такой мере; до такой степени; настолько" lex_translit="ireo">이렇게</ana>
+			</w>
+			<w translit="seoro">
+				<ana lex="서로" gr="S" transl="между собой" lex_translit="seoro">서로</ana>
+			</w>
+			<w translit="reul">
+				<ana lex="를" gr="PART,acc" transl="" lex_translit="reul">를</ana>
+			</w>
+			<w translit="baewogamyeo">
+				<ana lex="배워가다" gr="V,ger" transl="" lex_translit="baewogada">배워가며</ana>
+			</w>
+		</se>
+		<se lang="rus">Я люблю тебя все больше и больше
+		</se>
+	</para>
+	<para id="14002">
+		<se lang="kor" has_translit="true">
+			<w translit="sigan">
+				<ana lex="시간" gr="S" transl="время" lex_translit="sigan">시간</ana>
+			</w>
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="heulreodo">
+				<ana lex="흐르다" gr="V,ger" transl="течь, протекать, проходить" lex_translit="heureuda">흘러도</ana>
+			</w>
+		</se>
+		<se lang="rus">И сколько бы времени ни прошло
+		</se>
+	</para></xml>

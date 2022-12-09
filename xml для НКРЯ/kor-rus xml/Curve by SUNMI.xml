@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<para id="1">
+		<se lang="kor" has_translit="true">
+			<w translit="ama">
+				<ana lex="아마" gr="ADV" transl="вероятно, может быть" lex_translit="ama">아마</ana>
+			</w>
+			<w translit="ginjanghago">
+				<ana lex="긴장" gr="" transl="" lex_translit="ginjang">긴장하고</ana>
+			</w>
+			<w translit="itgetji&#10;1">
+				<ana lex="있다" gr="V,ger" transl="быть, иметься, находиться" lex_translit="itda">있겠지
+1</ana>
+			</w>
+		</se>
+		<se lang="rus">Я уверена, что ты волнуешься
+		</se>
+	</para>
+	<para id="2">
+		<se lang="kor" has_translit="true">
+			<w translit="eodida">
+				<ana lex="어디다" gr="PRO" transl="" lex_translit="eodida">어디다</ana>
+			</w>
+			<w translit="nun">
+				<ana lex="눈" gr="S" transl="глаза; снег; почка, побег, росток" lex_translit="nun">눈</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="dwoya">
+				<ana lex="두다" gr="V,ger" transl="положить, класть, оставлять" lex_translit="duda">둬야</ana>
+			</w>
+			<w translit="halji">
+				<ana lex="하다" gr="V,ger" transl="делать" lex_translit="hada">할지</ana>
+			</w>
+		</se>
+		<se lang="rus">Где должны быть твои глаза?
+		</se>
+	</para>
+	<para id="3">
+		<se lang="kor" has_translit="true">
+			<w translit="tteolrigo">
+				<ana lex="떨리다" gr="V,ger" transl="дрожать; голос дрожит; отрываться; отходить; отпадать; очиститься" lex_translit="tteolrida">떨리고</ana>
+			</w>
+			<w translit="itjana">
+				<ana lex="있다" gr="V" transl="быть, иметься, находиться" lex_translit="itda">있잖아</ana>
+			</w>
+		</se>
+		<se lang="rus">Ты нервничаешь
+		</se>
+	</para>
+	<para id="4">
+		<se lang="kor" has_translit="true">
+			<w translit="da">
+				<ana lex="다" gr="S" transl="все; всё; всё; всё; все; почти; совсем; на удивление; бесполезно; впустую; без пользы; зря; всё; сходить; съездить" lex_translit="da">다</ana>
+			</w>
+			<w translit="boyeo">
+				<ana lex="보이다" gr="V" transl="видно, виднеться" lex_translit="boida">보여</ana>
+			</w>
+		</se>
+		<se lang="rus">Я вижу это
+		</se>
+	</para>
+	<para id="5">
+		<se lang="kor" has_translit="true">
+			<w translit="ja">
+				<ana lex="자" gr="S" transl="линейка; буква; число; дата; ча; человек; " lex_translit="ja">자</ana>
+			</w>
+			<w translit="eojjeol">
+				<ana lex="어쩌다" gr="V,partcp" transl="каким-то образом; как-то; как-нибудь; случайно; ненамеренно; нечаянно; иногда; время от времени; порой; почему-то; отчего-то; случайно; нечаянно; иногда; временами; иной раз; иногда; случайно; нечаянно" lex_translit="eojjeoda">어쩔</ana>
+			</w>
+			<w translit="geoya">
+				<ana lex="그다" gr="V,ger" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">거야</ana>
+			</w>
+			<w translit="ije">
+				<ana lex="이제" gr="ADV" transl="теперь, сейчас" lex_translit="ije">이제</ana>
+			</w>
+		</se>
+		<se lang="rus">Что ты будешь делать теперь?
+		</se>
+	</para>
+	<para id="7">
+		<se lang="kor" has_translit="true">
+			<w translit="neomu">
+				<ana lex="너무" gr="ADV" transl="слишком, чрезмерно" lex_translit="neomu">너무</ana>
+			</w>
+			<w translit="ppalra">
+				<ana lex="빻다" gr="V,ger" transl="; толочь; молоть; превращать в порошок" lex_translit="ppata">빨라</ana>
+			</w>
+		</se>
+		<se lang="rus">Это слишком быстро
+		</se>
+	</para>
+	<para id="9">
+		<se lang="kor" has_translit="true">
+			<w translit="joeul">
+				<ana lex="좋다" gr="A,partcp" transl="хороший, неплохой, порядочный" lex_translit="jota">좋을</ana>
+			</w>
+			<w translit="geo">
+				<ana lex="거" gr="S" transl="то; туда; это; этот; это дитя; там; здесь; то; там; там; то; ты; вы; эй там; улица; расстояние; дистанция; интервал; дистанция; разница; различие; разница; гостиная комната; зеркало; образец; пример; почти" lex_translit="geo">거</ana>
+			</w>
+			<w translit="hanado">
+				<ana lex="하나도" gr="NUM" transl="" lex_translit="hanado">하나도</ana>
+			</w>
+			<w translit="eopseo">
+				<ana lex="없" gr="A,ger" transl="" lex_translit="eop">없어</ana>
+			</w>
+		</se>
+		<se lang="rus">Ничего хорошего в этом нет
+		</se>
+	</para>
+	<para id="11">
+		<se lang="kor" has_translit="true">
+			<w translit="keunil">
+				<ana lex="큰일" gr="S" transl="большое (серьезное, важное) дело, событие" lex_translit="keunil">큰일</ana>
+			</w>
+			<w translit="nal">
+				<ana lex="날" gr="S" transl="день, сутки, лезвие, острие, сырой, незрелый" lex_translit="nal">날</ana>
+			</w>
+			<w translit="ppeonhaesseo">
+				<ana lex="뻔하다" gr="A" transl="очевидный; ясный; чуть не; наглый; бессовестный; чуть не; чуть не" lex_translit="ppeonhada">뻔했어</ana>
+			</w>
+		</se>
+		<se lang="rus">Ты уже почти в беде
+		</se>
+	</para>
+	<para id="1002">
+		<se lang="kor" has_translit="true">
+			<w translit="dansume">
+				<ana lex="단숨에" gr="ADV" transl="; на одном дыхании; одним разом; враз" lex_translit="dansume">단숨에</ana>
+			</w>
+			<w translit="neol">
+				<ana lex="널" gr="S" transl="доска" lex_translit="neol">널</ana>
+			</w>
+			<w translit="samkyeobeoril">
+				<ana lex="삼키다" gr="V,partcp" transl="глотать; проглатывать; присвоить; прикарманить; сдерживать; заглатывать" lex_translit="samkida">삼켜버릴</ana>
+			</w>
+			<w translit="geoya">
+				<ana lex="그다" gr="V,ger" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">거야</ana>
+			</w>
+		</se>
+		<se lang="rus">Я могу поглотить тебя в один миг
+		</se>
+	</para>
+	<para id="1005">
+		<se lang="kor" has_translit="true">
+			<w translit="jom">
+				<ana lex="좀" gr="S" transl="немного; немного; недолго; нисколько; ничуть; мелкий воришка; карманник; ничтожество; мелкий; маловажный; мелочный; ничтожный; пустяковый; незначительный; мелочный; низкий; узкий; ограниченный; антимоль; нафталин; нисколько; ничуть; мелкий мелочный человек" lex_translit="jom">좀</ana>
+			</w>
+			<w translit="jinamyeon">
+				<ana lex="지나다" gr="V,ger" transl="проходить; протекать; выходить; переступать; переходить; проходить; переходить; пройти; миновать; преодолеть; Проходить минуя" lex_translit="jinada">지나면</ana>
+			</w>
+			<w translit="da">
+				<ana lex="다" gr="S" transl="все; всё; всё; всё; все; почти; совсем; на удивление; бесполезно; впустую; без пользы; зря; всё; сходить; съездить" lex_translit="da">다</ana>
+			</w>
+			<w translit="gwaenchanajil">
+				<ana lex="괜찮" gr="A,ger" transl="" lex_translit="transcription_error">괜찮아질</ana>
+			</w>
+			<w translit="geoya">
+				<ana lex="그다" gr="V,ger" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">거야</ana>
+			</w>
+		</se>
+		<se lang="rus">Пройдет немного времени и всё будет в порядке
+		</se>
+	</para>
+	<para id="1006">
+		<se lang="kor" has_translit="true">
+			<w translit="sum">
+				<ana lex="숨" gr="S" transl="дыхание, свежесть овощей" lex_translit="sum">숨</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="swieobwa">
+				<ana lex="쉬다" gr="V,ger" transl="киснуть, прокиснуть; отдыхать" lex_translit="swida">쉬어봐</ana>
+			</w>
+		</se>
+		<se lang="rus">Дыши
+		</se>
+	</para>
+	<para id="3002">
+		<se lang="kor" has_translit="true">
+			<w translit="aaa">
+				<ana lex="아다" gr="V,ger" transl="летать повсюду; метаться; суетиться; прогуливаться; ездить; бродить; ходить; облететь вокруг чего; распространяться; преследовать; слоняться; искать; оглядываться; оборачиваться; переосмысливать; оглядываться на прошлое; вспоминать; бродить; скитаться; плыть; кружиться по воздуху; плавать; летать; распространяться; разноситься; " lex_translit="ada">아아아</ana>
+			</w>
+			<w translit="ajjilhae">
+				<ana lex="아찔다" gr="V" transl="" lex_translit="ajjilda">아찔해</ana>
+			</w>
+		</se>
+		<se lang="rus">От этого перехватывает дыхание
+		</se>
+	</para>
+	<para id="3004">
+		<se lang="kor" has_translit="true">
+			<w translit="josimhae">
+				<ana lex="조심다" gr="V" transl="" lex_translit="josimda">조심해</ana>
+			</w>
+		</se>
+		<se lang="rus">Будь аккуратнее
+		</se>
+	</para>
+	<para id="3006">
+		<se lang="kor" has_translit="true">
+			<w translit="eoeoeo">
+				<ana lex="어다" gr="V,ger" transl="носиться туда-сюда; бегать; юлить; носиться; мотаться; бегать; смотреть (из-за чего-либо); смотреть с жадностью; взирать наверх; смотреть; взирать" lex_translit="eoda">어어어</ana>
+			</w>
+			<w translit="eojilhae">
+				<ana lex="어질다" gr="A,partcp" transl="; добрый; любезный; мягкосердечный; милосердный" lex_translit="eojilda">어질해</ana>
+			</w>
+		</se>
+		<se lang="rus">Головокружительно
+		</se>
+	</para>
+	<para id="3008">
+		<se lang="kor" has_translit="true">
+			<w translit="josimhae">
+				<ana lex="조심다" gr="V" transl="" lex_translit="josimda">조심해</ana>
+			</w>
+		</se>
+		<se lang="rus">Будь осторожнее
+		</se>
+	</para>
+	<para id="5001">
+		<se lang="kor" has_translit="true">
+			<w translit="ara">
+				<ana lex="알다" gr="V,ger" transl="знать" lex_translit="alda">알아</ana>
+			</w>
+			<w translit="neon">
+				<ana lex="널다" gr="V,partcp" transl="развешивать, вешать" lex_translit="neolda">넌</ana>
+			</w>
+			<w translit="eojjeomyeon">
+				<ana lex="어쩌면" gr="ADV" transl="а может; да как же; какой; как; " lex_translit="eojjeomyeon">어쩌면</ana>
+			</w>
+		</se>
+		<se lang="rus">Я знаю
+		</se>
+	</para>
+	<para id="5002">
+		<se lang="kor" has_translit="true">
+			<w translit="i">
+				<ana lex="이" gr="PART" transl="" lex_translit="i">이</ana>
+			</w>
+			<w translit="siheomiraneun">
+				<ana lex="시험다" gr="V,partcp" transl="" lex_translit="siheomda">시험이라는</ana>
+			</w>
+			<w translit="geol">
+				<ana lex="걸" gr="S" transl="кол; вешать; накидывать: нацеплять; зацеплять; запирать; ставить; готовить; ставить; вставлять; выставлять; запускать; заводить; втянуть; закладывать; ставить (на кон); оставлять в залог; подавать; ввести; подвешивать; подвешивать (замок); запирать; идти; ходить пешком; идти; прийти пешком; приходить пешком; прийти пешком; приходить пешком; проходить пешком; передаваться; проходить; шаг; поход; действие; шаг; тряпка; тряпка;  тряпьё; висеть; повиснуть; взойти над; охватывать; простираться; длиться; тянуться; висеть; быть переброшенным; набрасывать; накидывать; повесить; переброситься; перекинуться" lex_translit="geol">걸</ana>
+			</w>
+		</se>
+		<se lang="rus">Может быть это всего лишь эксперимент
+		</se>
+	</para>
+	<para id="5003">
+		<se lang="kor" has_translit="true">
+			<w translit="neo">
+				<ana lex="널다" gr="V" transl="развешивать, вешать" lex_translit="neolda">너</ana>
+			</w>
+			<w translit="honja">
+				<ana lex="혼자" gr="S" transl="один, сам" lex_translit="honja">혼자</ana>
+			</w>
+			<w translit="seo">
+				<ana lex="서" gr="PART" transl="" lex_translit="seo">서</ana>
+			</w>
+			<w translit="duryeopdamyeon">
+				<ana lex="두렵" gr="A,ger" transl="" lex_translit="duryeop">두렵다면</ana>
+			</w>
+			<w translit="yeop">
+				<ana lex="옆" gr="S" transl="боковая сторона, бок" lex_translit="yeop">옆</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="isseojulge">
+				<ana lex="있다" gr="V,ger" transl="быть, иметься, находиться" lex_translit="itda">있어줄게</ana>
+			</w>
+		</se>
+		<se lang="rus">Если тебе страшно и одиноко, я буду рядом с тобой
+		</se>
+	</para>
+	<para id="5004">
+		<se lang="kor" has_translit="true">
+			<w translit="igeon">
+				<ana lex="이다" gr="V,ger" transl="ставить на голову; следующий; позже; кипятить; варить; кипятить; кипеть; кипятиться; собираться; скопляться; собираться; коллекционироваться; скапливаться; скапливаться; накопляться; накапливаться; собираться; собираться; быть покорённым; быть видным; виднеться; виднеться; выглядеть; показаться; выглядеть; виднеться; выглядеть; показаться; видеть; увидеть; распознать; смотреть; просматривать; претерпеть; проказывать; показать" lex_translit="ida">이건</ana>
+			</w>
+			<w translit="jom">
+				<ana lex="좀" gr="S" transl="немного; немного; недолго; нисколько; ничуть; мелкий воришка; карманник; ничтожество; мелкий; маловажный; мелочный; ничтожный; пустяковый; незначительный; мелочный; низкий; узкий; ограниченный; антимоль; нафталин; нисколько; ничуть; мелкий мелочный человек" lex_translit="jom">좀</ana>
+			</w>
+			<w translit="dareun">
+				<ana lex="다른다" gr="A" transl="" lex_translit="dareunda">다른</ana>
+			</w>
+			<w translit="seon">
+				<ana lex="선" gr="S" transl="линия, черта; знакомство" lex_translit="seon">선</ana>
+			</w>
+			<w translit="ilppuniya">
+				<ana lex="일뿐이야" gr="S" transl="" lex_translit="ilppuniya">일뿐이야</ana>
+			</w>
+		</se>
+		<se lang="rus">Это всего лишь другая линия
+		</se>
+	</para>
+	<para id="5005">
+		<se lang="kor" has_translit="true">
+			<w translit="eojjeoji">
+				<ana lex="어쩌다" gr="V,ger" transl="каким-то образом; как-то; как-нибудь; случайно; ненамеренно; нечаянно; иногда; время от времени; порой; почему-то; отчего-то; случайно; нечаянно; иногда; временами; иной раз; иногда; случайно; нечаянно" lex_translit="eojjeoda">어쩌지</ana>
+			</w>
+			<w translit="haji">
+				<ana lex="하다" gr="V,ger" transl="делать" lex_translit="hada">하지</ana>
+			</w>
+			<w translit="ma">
+				<ana lex="마" gr="S" transl="конопля" lex_translit="ma">마</ana>
+			</w>
+		</se>
+		<se lang="rus">Не паникуй
+		</se>
+	</para>
+	<para id="5009">
+		<se lang="kor" has_translit="true">
+			<w translit="eochapi">
+				<ana lex="어차피" gr="ADV" transl="так или иначе, во всяком случае" lex_translit="eochapi">어차피</ana>
+			</w>
+			<w translit="cheoeumiya">
+				<ana lex="처음이야" gr="S" transl="" lex_translit="cheoeumiya">처음이야</ana>
+			</w>
+		</se>
+		<se lang="rus">Это твой первый раз, неважно
+		</se>
+	</para>
+	<para id="6002">
+		<se lang="kor" has_translit="true">
+			<w translit="dansume">
+				<ana lex="단숨에" gr="ADV" transl="; на одном дыхании; одним разом; враз" lex_translit="dansume">단숨에</ana>
+			</w>
+			<w translit="neol">
+				<ana lex="널" gr="S" transl="доска" lex_translit="neol">널</ana>
+			</w>
+			<w translit="samkyeobeoril">
+				<ana lex="삼키다" gr="V,partcp" transl="глотать; проглатывать; присвоить; прикарманить; сдерживать; заглатывать" lex_translit="samkida">삼켜버릴</ana>
+			</w>
+			<w translit="geoya">
+				<ana lex="그다" gr="V,ger" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">거야</ana>
+			</w>
+		</se>
+		<se lang="rus">Я могу поглотить тебя в один миг
+		</se>
+	</para>
+	<para id="6005">
+		<se lang="kor" has_translit="true">
+			<w translit="jom">
+				<ana lex="좀" gr="S" transl="немного; немного; недолго; нисколько; ничуть; мелкий воришка; карманник; ничтожество; мелкий; маловажный; мелочный; ничтожный; пустяковый; незначительный; мелочный; низкий; узкий; ограниченный; антимоль; нафталин; нисколько; ничуть; мелкий мелочный человек" lex_translit="jom">좀</ana>
+			</w>
+			<w translit="jinamyeon">
+				<ana lex="지나다" gr="V,ger" transl="проходить; протекать; выходить; переступать; переходить; проходить; переходить; пройти; миновать; преодолеть; Проходить минуя" lex_translit="jinada">지나면</ana>
+			</w>
+			<w translit="da">
+				<ana lex="다" gr="S" transl="все; всё; всё; всё; все; почти; совсем; на удивление; бесполезно; впустую; без пользы; зря; всё; сходить; съездить" lex_translit="da">다</ana>
+			</w>
+			<w translit="gwaenchanajil">
+				<ana lex="괜찮" gr="A,ger" transl="" lex_translit="transcription_error">괜찮아질</ana>
+			</w>
+			<w translit="geoya">
+				<ana lex="그다" gr="V,ger" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">거야</ana>
+			</w>
+		</se>
+		<se lang="rus">Пройдет немного времени и всё будет в порядке
+		</se>
+	</para>
+	<para id="6006">
+		<se lang="kor" has_translit="true">
+			<w translit="ja">
+				<ana lex="자" gr="S" transl="линейка; буква; число; дата; ча; человек; " lex_translit="ja">자</ana>
+			</w>
+			<w translit="sum">
+				<ana lex="숨" gr="S" transl="дыхание, свежесть овощей" lex_translit="sum">숨</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="swieobwa">
+				<ana lex="쉬다" gr="V,ger" transl="киснуть, прокиснуть; отдыхать" lex_translit="swida">쉬어봐</ana>
+			</w>
+		</se>
+		<se lang="rus">Дыши
+		</se>
+	</para>
+	<para id="8002">
+		<se lang="kor" has_translit="true">
+			<w translit="aaa">
+				<ana lex="아다" gr="V,ger" transl="летать повсюду; метаться; суетиться; прогуливаться; ездить; бродить; ходить; облететь вокруг чего; распространяться; преследовать; слоняться; искать; оглядываться; оборачиваться; переосмысливать; оглядываться на прошлое; вспоминать; бродить; скитаться; плыть; кружиться по воздуху; плавать; летать; распространяться; разноситься; " lex_translit="ada">아아아</ana>
+			</w>
+			<w translit="ajjilhae">
+				<ana lex="아찔다" gr="V" transl="" lex_translit="ajjilda">아찔해</ana>
+			</w>
+		</se>
+		<se lang="rus">От этого перехватывает дыхание
+		</se>
+	</para>
+	<para id="8004">
+		<se lang="kor" has_translit="true">
+			<w translit="josimhae">
+				<ana lex="조심다" gr="V" transl="" lex_translit="josimda">조심해</ana>
+			</w>
+		</se>
+		<se lang="rus">Будь аккуратнее
+		</se>
+	</para>
+	<para id="8006">
+		<se lang="kor" has_translit="true">
+			<w translit="eoeoeo">
+				<ana lex="어다" gr="V,ger" transl="носиться туда-сюда; бегать; юлить; носиться; мотаться; бегать; смотреть (из-за чего-либо); смотреть с жадностью; взирать наверх; смотреть; взирать" lex_translit="eoda">어어어</ana>
+			</w>
+			<w translit="eojilhae">
+				<ana lex="어질다" gr="A,partcp" transl="; добрый; любезный; мягкосердечный; милосердный" lex_translit="eojilda">어질해</ana>
+			</w>
+		</se>
+		<se lang="rus">Головокружительно
+		</se>
+	</para>
+	<para id="8008">
+		<se lang="kor" has_translit="true">
+			<w translit="josimhae">
+				<ana lex="조심다" gr="V" transl="" lex_translit="josimda">조심해</ana>
+			</w>
+		</se>
+		<se lang="rus">Будь осторожнее
+		</se>
+	</para>
+	<para id="10001">
+		<se lang="kor" has_translit="true">
+			<w translit="kkeut">
+				<ana lex="끝" gr="S" transl="конец" lex_translit="kkeut">끝</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="seomyeon">
+				<ana lex="서면" gr="S" transl="документ, письмо; " lex_translit="seomyeon">서면</ana>
+			</w>
+			<w translit="algetji">
+				<ana lex="알다" gr="V" transl="знать" lex_translit="alda">알겠지</ana>
+			</w>
+		</se>
+		<se lang="rus">Ты поймешь, когда однажды дойдешь до конца
+		</se>
+	</para>
+	<para id="10002">
+		<se lang="kor" has_translit="true">
+			<w translit="kkeut">
+				<ana lex="끝" gr="S" transl="конец" lex_translit="kkeut">끝</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="seu">
+				<ana lex="스" gr="S" transl="стресс; напряжённое состояние; напряжение; нагрузка; давление; Швейцария; Швейцарская Конфедерация; школьный автобус; нержавеющая сталь; стюардесса; бортпроводница; сфинкс; двадцать; сам; собственной персоной; самостоятельно; само собой; сам; самостоятельно; сам" lex_translit="seu">스</ana>
+			</w>
+			<w translit="seoseon">
+				<ana lex="어다" gr="V" transl="носиться туда-сюда; бегать; юлить; носиться; мотаться; бегать; смотреть (из-за чего-либо); смотреть с жадностью; взирать наверх; смотреть; взирать" lex_translit="eoda">서선</ana>
+			</w>
+			<w translit="">
+				<ana lex="" gr="punct" transl="" lex_translit="">웃겠지(울겠지</ana>
+			</w>
+		</se>
+		<se lang="rus">Ты будешь смеяться, когда однажды достигнешь конца (ты будешь плакать)
+		</se>
+	</para>
+	<para id="10003">
+		<se lang="kor" has_translit="true">
+			<w translit="kkeut">
+				<ana lex="끝" gr="S" transl="конец" lex_translit="kkeut">끝</ana>
+			</w>
+			<w translit="e">
+				<ana lex="에" gr="PART" transl="" lex_translit="e">에</ana>
+			</w>
+			<w translit="dadareumyeon">
+				<ana lex="다다르다" gr="V,ger" transl="подходить; доходить" lex_translit="dadareuda">다다르면</ana>
+			</w>
+			<w translit="geuttae">
+				<ana lex="그때" gr="S" transl="тогда, в то время" lex_translit="geuttae">그때</ana>
+			</w>
+			<w translit="jinachyeo">
+				<ana lex="지나치다" gr="V" transl="превышающий; чрезмерный; проходить; миновать; не принимать серьёзно; не обращать внимания; смотреть сквозь пальцы" lex_translit="jinachida">지나쳐</ana>
+			</w>
+			<w translit="on">
+				<ana lex="온" gr="S" transl="весь, целый" lex_translit="on">온</ana>
+			</w>
+			<w translit="geu">
+				<ana lex="그다" gr="A" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">그</ana>
+			</w>
+			<w translit="sungandeul">
+				<ana lex="순간" gr="S" transl="мгновение; миг; секунда; момент; момент; постоянно; непрерывно; каждый миг; постоянно; мгновенный; мимолётный; мгновенный; мимолётный; один момент; миг; мгновение" lex_translit="sungan">순간들</ana>
+			</w>
+		</se>
+		<se lang="rus">В конце, однажды ты дойдешь до конца
+		</se>
+	</para>
+	<para id="10004">
+		<se lang="kor" has_translit="true">
+			<w translit="da">
+				<ana lex="다" gr="S" transl="все; всё; всё; всё; все; почти; совсем; на удивление; бесполезно; впустую; без пользы; зря; всё; сходить; съездить" lex_translit="da">다</ana>
+			</w>
+			<w translit="seuchyeo">
+				<ana lex="스치다" gr="V" transl="задеть; едва коснуться; дотронуться; пронестись (о запахе, ветре, звуке); промелькнуть; проскользнуть; проскользнуть" lex_translit="seuchida">스쳐</ana>
+			</w>
+			<w translit="gal">
+				<ana lex="가다" gr="V,partcp" transl="уходить, уезжать" lex_translit="gada">갈</ana>
+			</w>
+			<w translit="geoya">
+				<ana lex="그다" gr="V,ger" transl="настолько; следующий; погружать; мариновать; солить; настаивать; запирать; закрывать; застёгивать; закрывать (себе рот); закрыть (себе рот)" lex_translit="geuda">거야</ana>
+			</w>
+		</se>
+		<se lang="rus">Все эти мгновения будут снова проноситься
+		</se>
+	</para>
+	<para id="11002">
+		<se lang="kor" has_translit="true">
+			<w translit="aaaajjilhae">
+				<ana lex="아다" gr="V,ger" transl="летать повсюду; метаться; суетиться; прогуливаться; ездить; бродить; ходить; облететь вокруг чего; распространяться; преследовать; слоняться; искать; оглядываться; оборачиваться; переосмысливать; оглядываться на прошлое; вспоминать; бродить; скитаться; плыть; кружиться по воздуху; плавать; летать; распространяться; разноситься; " lex_translit="ada">아아아아찔해</ana>
+			</w>
+		</se>
+		<se lang="rus">От этого перехватывает дыхание
+		</se>
+	</para>
+	<para id="11004">
+		<se lang="kor" has_translit="true">
+			<w translit="josimhae">
+				<ana lex="조심다" gr="V" transl="" lex_translit="josimda">조심해</ana>
+			</w>
+		</se>
+		<se lang="rus">Будь аккуратнее
+		</se>
+	</para>
+	<para id="11006">
+		<se lang="kor" has_translit="true">
+			<w translit="eoeoeoeojilhae">
+				<ana lex="어다" gr="V,ger" transl="носиться туда-сюда; бегать; юлить; носиться; мотаться; бегать; смотреть (из-за чего-либо); смотреть с жадностью; взирать наверх; смотреть; взирать" lex_translit="eoda">어어어어질해</ana>
+			</w>
+		</se>
+		<se lang="rus">Головокружительно
+		</se>
+	</para>
+	<para id="11008">
+		<se lang="kor" has_translit="true">
+			<w translit="josimhae">
+				<ana lex="조심다" gr="V" transl="" lex_translit="josimda">조심해</ana>
+			</w>
+		</se>
+		<se lang="rus">Будь осторожнее
+		</se>
+	</para></xml>
