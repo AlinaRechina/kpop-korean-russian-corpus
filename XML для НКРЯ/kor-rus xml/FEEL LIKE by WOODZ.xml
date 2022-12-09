@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<para id="1">
+		<se lang="kor" has_translit="true">
+			<w translit="chagawojin">
+				<ana lex="차가워지다" gr="V,partcp" transl="" lex_translit="chagawojida">차가워진</ana>
+			</w>
+			<w translit="gonggi">
+				<ana lex="공기" gr="S" transl="воздух" lex_translit="gonggi">공기</ana>
+			</w>
+			<w translit="majeodo">
+				<ana lex="마저다" gr="V" transl="" lex_translit="majeoda">마저도</ana>
+			</w>
+		</se>
+		<se lang="rus">Твоя речь захватывает в плен даже холодный воздух
+		</se>
+	</para>
+	<para id="2">
+		<se lang="kor" has_translit="true">
+			<w translit="sarojaba">
+				<ana lex="사로잡다" gr="V,ger" transl="захватить в плен; захватить; затуманить разум" lex_translit="sarojapda">사로잡아</ana>
+			</w>
+			<w translit="beorin">
+				<ana lex="버리다" gr="V,partcp" transl="бросать" lex_translit="beorida">버린</ana>
+			</w>
+			<w translit="">
+				<ana lex="talk" gr="S,sg" transl="" lex_translit="talk">talk</ana>
+			</w>
+			<w translit="ui">
+				<ana lex="의" gr="PART,gen" transl="" lex_translit="ui">의</ana>
+			</w>
+		</se>
+		<se lang="rus">А также и твоё ровное дыхание
+		</se>
+	</para>
+	<para id="3">
+		<se lang="kor" has_translit="true">
+			<w translit="nalkaroun">
+				<ana lex="날카롭다" gr="A,partcp" transl="острый, резкий" lex_translit="nalkaropda">날카로운</ana>
+			</w>
+			<w translit="sumsorido">
+				<ana lex="숨소리도" gr="S" transl="" lex_translit="sumsorido">숨소리도</ana>
+			</w>
+		</se>
+		<se lang="rus">И рассеянный взгляд
+		</se>
+	</para>
+	<para id="1003">
+		<se lang="kor" has_translit="true">
+			<w translit="neon">
+				<ana lex="널다" gr="V,partcp" transl="развешивать, вешать" lex_translit="neolda">넌</ana>
+			</w>
+			<w translit="gidarimi">
+				<ana lex="기다리" gr="S" transl="; ждать; ожидать; подождать" lex_translit="gidari">기다림이</ana>
+			</w>
+			<w translit="iksukchiga">
+				<ana lex="익숙" gr="" transl="" lex_translit="iksuk">익숙치가</ana>
+			</w>
+			<w translit="ana">
+				<ana lex="않다" gr="V,ger" transl="не" lex_translit="anta">않아</ana>
+			</w>
+		</se>
+		<se lang="rus">Ты не привыкла к ожиданию
+		</se>
+	</para>
+	<para id="2003">
+		<se lang="kor" has_translit="true">
+			<w translit="neoneun">
+				<ana lex="너는" gr="PRO" transl="; развешивать" lex_translit="neoneun">너는</ana>
+			</w>
+			<w translit="imi">
+				<ana lex="이미" gr="ADV" transl="уже; образ" lex_translit="imi">이미</ana>
+			</w>
+			<w translit="algo">
+				<ana lex="알다" gr="V,ger" transl="знать" lex_translit="alda">알고</ana>
+			</w>
+			<w translit="isseotgetji">
+				<ana lex="있었다" gr="V" transl="" lex_translit="isseotda">있었겠지</ana>
+			</w>
+		</se>
+		<se lang="rus">Ты уже, должно быть, знаешь, что я имею в виду
+		</se>
+	</para>
+	<para id="5002">
+		<se lang="kor" has_translit="true">
+			<w translit="neon">
+				<ana lex="널다" gr="V,partcp" transl="развешивать, вешать" lex_translit="neolda">넌</ana>
+			</w>
+			<w translit="dap">
+				<ana lex="답" gr="S" transl="ответ" lex_translit="dap">답</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="algo">
+				<ana lex="알다" gr="V,ger" transl="знать" lex_translit="alda">알고</ana>
+			</w>
+			<w translit="itneun">
+				<ana lex="있다" gr="V,partcp" transl="быть, иметься, находиться" lex_translit="itda">있는</ana>
+			</w>
+			<w translit="deuthae">
+				<ana lex="듯해다" gr="A,aux" transl="" lex_translit="deuthaeda">듯해</ana>
+			</w>
+		</se>
+		<se lang="rus">Ты выглядишь так, словно знаешь ответ
+		</se>
+	</para>
+	<para id="5004">
+		<se lang="kor" has_translit="true">
+			<w translit="judogwon">
+				<ana lex="주도권" gr="S" transl="; главенство; ведущая роль; руководящая роль; лидерство" lex_translit="judogwon">주도권</ana>
+			</w>
+			<w translit="eul">
+				<ana lex="을" gr="PART,acc" transl="" lex_translit="eul">을</ana>
+			</w>
+			<w translit="ppaeatgo">
+				<ana lex="빼앗다" gr="V,ger" transl="отнимать" lex_translit="ppaeatda">빼앗고</ana>
+			</w>
+		</se>
+		<se lang="rus">Отравляющая любовь, которая доминирует надо мной и ужесточает
+		</se>
+	</para>
+	<para id="7003">
+		<se lang="kor" has_translit="true">
+			<w translit="neoneun">
+				<ana lex="너는" gr="PRO" transl="; развешивать" lex_translit="neoneun">너는</ana>
+			</w>
+			<w translit="imi">
+				<ana lex="이미" gr="ADV" transl="уже; образ" lex_translit="imi">이미</ana>
+			</w>
+			<w translit="algo">
+				<ana lex="알다" gr="V,ger" transl="знать" lex_translit="alda">알고</ana>
+			</w>
+			<w translit="isseotgetji">
+				<ana lex="있었다" gr="V" transl="" lex_translit="isseotda">있었겠지</ana>
+			</w>
+		</se>
+		<se lang="rus">Ты уже, должно быть, знаешь, что я имею в виду
+		</se>
+	</para></xml>
